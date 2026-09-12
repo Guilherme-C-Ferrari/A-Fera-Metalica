@@ -33,9 +33,9 @@ script = ExtResource("2_16vra")
 scene = ExtResource("6_pm126")
 overrides = {
 "name_label_alignment": "1",
-"name_label_box_modulate": "Color(0, 0, 0, 0)",
 "name_label_custom_font_size": "20.0",
 "name_label_font": "\"res://Assets/Fonts/OpenSans-VariableFont_wdth,wght.ttf\"",
+"name_label_use_global_font": "false",
 "name_label_use_global_font_size": "false",
 "next_indicator_size": "Vector2(7, 7)",
 "normal_font": "\"res://Assets/Fonts/OpenSans-VariableFont_wdth,wght.ttf\"",

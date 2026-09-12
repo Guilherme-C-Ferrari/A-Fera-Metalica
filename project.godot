@@ -28,6 +28,8 @@ directories/dch_directory={
 "player": "res://Dialogs/Characters/player.dch"
 }
 directories/dtl_directory={
+"3b_ir_ao_farol_vizinho": "res://Dialogs/Timelines/3b_ir_ao_farol_vizinho.dtl",
+"3b_nao_ir_ao_farol_vizinho": "res://Dialogs/Timelines/3b_nao_ir_ao_farol_vizinho.dtl",
 "ajudar_barco": "res://Dialogs/Timelines/ajudar_barco.dtl",
 "intro": "res://Dialogs/Timelines/intro.dtl",
 "intro2": "res://Dialogs/Timelines/intro2.dtl",
