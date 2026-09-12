@@ -22,12 +22,63 @@ Dialogic="*uid://ds2q0uclmolvu"
 directories/dch_directory={
 "antonio": "res://Dialogs/Characters/antonio.dch",
 "giorno": "res://Dialogs/Characters/giorno.dch",
+"giorno_and_lorenzo": "res://Dialogs/Characters/giorno_and_lorenzo.dch",
+"lorenzo": "res://Dialogs/Characters/lorenzo.dch",
+"mystery": "res://Dialogs/Characters/mystery.dch",
 "player": "res://Dialogs/Characters/player.dch"
 }
 directories/dtl_directory={
-"intro": "res://Dialogs/Timelines/intro.dtl"
+"ajudar_barco": "res://Dialogs/Timelines/ajudar_barco.dtl",
+"intro": "res://Dialogs/Timelines/intro.dtl",
+"intro2": "res://Dialogs/Timelines/intro2.dtl",
+"nao_ajudar_barco": "res://Dialogs/Timelines/nao_ajudar_barco.dtl"
 }
-layout/style_directory={}
+layout/style_directory={
+"": "res://Dialogs/Styles/base_style.tres",
+"base_style": "res://Dialogs/Styles/base_style.tres"
+}
+layout/style_list=["res://Dialogs/Styles/base_style.tres"]
+layout/default_style="res://Dialogs/Styles/base_style.tres"
+text/letter_speed=0.02
+text/initial_text_reveal_skippable=true
+text/text_reveal_skip_delay=0.1
+text/advance_delay=0.1
+text/autoadvance_per_character_delay=0.1
+text/autoadvance_ignored_characters_enabled=true
+animations/join_default_length=0.5
+animations/join_default_wait=true
+animations/leave_default_length=0.5
+animations/leave_default_wait=true
+animations/cross_fade_default_length=0.5
+choices/autofocus_first=true
+choices/delay=0.2
+choices/reveal_delay=0
+choices/reveal_by_input=false
+save/autosave_delay=60.0
+save/encryption_on_exports_only=true
+text/dialog_text_prefix="[outline_size=12][outline_color=black]"
+text/autopauses={}
+audio/channel_defaults={
+"": {
+"audio_bus": "",
+"fade_length": 0.0,
+"loop": false,
+"volume": 0.0
+},
+"ambient": {
+"audio_bus": "",
+"fade_length": 0.0,
+"loop": true,
+"volume": 0.0
+},
+"music": {
+"audio_bus": "",
+"fade_length": 0.0,
+"loop": true,
+"volume": 0.0
+}
+}
+glossary/default_case_sensitive=true
 
 [display]
 
