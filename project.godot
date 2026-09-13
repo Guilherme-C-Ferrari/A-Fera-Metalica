@@ -73,6 +73,12 @@ audio/channel_defaults={
 "loop": true,
 "volume": 0.0
 },
+"ambient2": {
+"audio_bus": "",
+"fade_length": 0.0,
+"loop": true,
+"volume": 0.0
+},
 "music": {
 "audio_bus": "",
 "fade_length": 0.0,
@@ -81,6 +87,7 @@ audio/channel_defaults={
 }
 }
 glossary/default_case_sensitive=true
+variables={}
 
 [display]
 
