@@ -1,0 +1,122 @@
+audio ambient "res://Audio/SFX/Intro2/chuva.mp3" [fade="-15.0" volume="0.0" loop="true"]
+audio ambient2 "res://Audio/SFX/Intro2/vento.ogg" [volume="-7.0" loop="true"]
+[background arg="res://Assets/Intro/test.jpeg" fade="0.0"]
+lorenzo: Concordo com o Giorno
+Lorenzo quebrou o silêncio, os olhos fixos na tempestade que engolia o horizonte.
+lorenzo: Concordo que tem algo muito estranho ali.
+lorenzo: Mas... é justamente por isso que precisamos ajudar.
+Lorenzo virou-se e encarou Antônio.
+Seus olhares se cruzaram em um embate silencioso que durou longos segundos.
+O veterano sustentou o olhar, mas cedeu.
+Soltou um suspiro longo e pesado, massageando as têmporas cansadas.
+antonio: Espero estar errado.
+Ele deu as costas aos dois e começou a descer as escadas rústicas do farol.
+O som de suas botas pesadas ecoando como batidas de tambor pelas paredes de pedra.
+giorno: Obrigado...
+ Giorno quebrou o silêncio na sala, aproximando-se de Lorenzo a passos lentos.
+O jovem soltou o ar de uma vez, os ombros caindo como se um fardo imenso tivesse sido arrancado de suas costas.
+Ele esticou o braço e segurou o ombro de Lorenzo, as pontas dos dedos ainda trêmulas.
+giorno: – Quase me caguei de medo. Hahaha! – Giorno soltou uma risada nervosa, a pele do rosto ainda pálida pelo confronto com o velho.
+giorno: Eu não sabia que aquele velhote podia ser tão assustador quando queria.
+lorenzo: É. Apesar de ele ser só um velho ranzinza na maior parte do tempo, ele já viu muita coisa nesse mar.
+Lorenzo respondeu, dando um tapinha de conforto no braço do amigo.
+lorenzo: Mas você também cruzou a linha com ele dessa vez.
+giorno: Eu sei. Tenho que pedir desculpas depois. Mas... nós precisamos ajudar aquela tripulação.
+giorno: É o nosso trabalho guiar e proteger quem está lá fora.
+Giorno completou, erguendo o queixo com um orgulho genuíno.
+lorenzo: Ainda é puro, não é?
+giorno: O quê?
+lorenzo: Nada não.
+giorno: Eu só penso que... se fosse o meu bote lá fora, eu ia querer que alguém me estendesse a mão
+Giorno concluiu, a voz subitamente séria, os olhos fitando o vidro embaçado pela chuva.
+A conversa foi interrompida pelo som rítmico de passos subindo os degraus carcomidos da escada.
+Antônio reapareceu no vão da porta.
+antonio: – Você não disse que ia abrir os portões do cais? – o velho disparou, cravando um olhar frio em Giorno.
+giorno: Verdade!
+Giorno sobressaltou-se, ajeitando a jaqueta e correndo em direção à escadaria.
+Ele começou a descer os degraus rapidamente.
+Antônio deu alguns passos para dentro da sala e aproximou-se de Lorenzo.
+Ele esticou a mão calejada, revelando um objeto metálico, pesado e escuro.
+antonio: Pegue isso aqui. Caso...
+Antônio começou a falar, mas foi interrompido pela voz de Giorno, que ecoou de volta após subir parcialmente os degraus.
+giorno: Ei, velhote!
+O jovem gritou, aparecendo na altura da cintura no vão da escada.
+giorno: Desculpa pelo que eu falei lá atrás!
+Antes que Antônio pudesse formular qualquer resposta, o garoto sumiu novamente, descendo os degraus em um ritmo apressado que fazia a estrutura de madeira vibrar.
+antonio: – Essa peste... – Antônio resmungou, olhando para o vão vazio.
+Lorenzo percebeu o canto dos lábios do velho esboçar um vinco sutil.
+O pedido de desculpas havia quebrado a armadura do veterano.
+antonio: Enfim.
+Antônio voltou a focar em Lorenzo, a expressão endurecendo instantaneamente.
+antonio: Caso a situação lá embaixo saia do controle.
+Lorenzo finalmente baixou os olhos para o objeto que o velho empurrava contra sua palma.
+Era um revólver antigo, o cano longo oxidado pelo tempo, com o cabo de madeira gasta trazendo marcas de uso de décadas atrás.
+antonio: Você sabe que eu já não consigo disparar com precisão por causa da idade.
+lorenzo: Tudo bem.
+Lorenzo afirma sem ter muita convicção de que seria necessário.
+antonio: Já reportou ao outro farol?
+Antônio questionou, os olhos estreitados na escuridão.
+Lorenzo travou.
+Verdade! Esqueci completamente disso!
+Lorenzo levou a mão calejada à testa, praguejando baixinho enquanto olhava para o horizonte.
+Através do vidro embaçado, a silhueta do farol vizinho piscava a alguns quilômetros de distância na costa italiana.
+Por conta da recente escalada dos conflitos geopolíticos na região, o comando militar havia ordenado a construção daquela torre gêmea.
+Os dois faróis precisavam operar em sincronia total para proteger aquela faixa do Mediterrâneo.
+lorenzo: Odeio esses procedimentos.
+Resmungou Lorenzo, arrastando os pés em direção à antiga central de rádio que ficava no topo do farol.
+antonio: Nem me diga.
+Antônio respondeu entre dentes.
+O velho operava as alavancas manuais do farol, emitindo o sinal intermitente de resposta para a embarcação turca, indicando que o porto estava liberado para a atracagem de emergência.
+O rádio comunicador sobre o balcão cuspiu uma onda violenta de estática.
+lorenzo: Essa tempestade maldita está cortando o sinal.
+Lorenzo reclamou, pressionando com força o botão lateral do microfone.
+lorenzo: Farol Speranza chamando Torre Gêmea. Na escuta?
+mystery: [i] SCHHHH— ...escuta... —HHT! [/i]
+Uma voz rouca e picotada respondeu através do chiado das válvulas quentes.
+lorenzo:  Aqui é o farol Speranza. Estamos aceitando uma requisição de emergência de um navio turco. Alinhando protocolo de segurança.
+mystery: [i] Entendido... Vamos... SCHHHHHT! [/i]
+O rádio estalou e a linha morreu por completo.
+Lorenzo girou o seletor de canais, mas apenas o silêncio da estática respondeu.
+A tempestade havia engolido a frequência.
+lorenzo: Droga. Pelo menos receberam o aviso.
+Lorenzo bufou, largando o microfone, que ficou balançando pelo fio espiralado.
+Ele caminhou de volta até Antônio.
+Mas parou ao ver a fisionomia do veterano.
+[wait time="2.0"]
+O velho estava estático, segurando a luneta de cobre com os dedos rígidos. Sua pele estava pálida, quase cinzenta sob a luz giratória do farol.
+antonio: Lorenzo...
+A voz de Antônio saiu como um sopro.
+antonio: Olha isso aqui.
+O tom assustado do homem frio fez o estômago de Lorenzo revirar.
+Ele pegou a luneta e calibrou a lente, focando no navio que agora estava perigosamente perto da encosta rochosa.
+Detalhes grotescos saltaram diante de seus olhos.
+[wait time="3.0"]
+O navio movia-se em direção ao porto. Uma fumaça preta e espessa jorrava de suas chaminés.
+No entanto, a água na popa, onde as imensas hélices deveriam estar rasgando o mar para impulsionar o casco, estava perfeitamente calma.
+Como se o monstro de ferro estivesse flutuando por vontade própria.
+Não havia vulto de nenhum marinheiro no convés deserto.
+Os vidros da cabine de comando estavam escuros e o timão girava livremente, sem ninguém na direção.
+Para piorar, embora a chuva pesada estivesse inundando o convés, os vaus e saídas de escoamento não despejavam uma única gota de água para fora.
+O navio acumulava a tempestade dentro de si.
+[wait time="1.0"]
+Um arrepio gélido percorreu a espinha de Lorenzo.
+Ele deu dois passos em falso para trás, cambaleando contra a mesa de jogo.
+lorenzo: Puta merda...
+Lorenzo xingou, o suor frio brotando em sua nuca.
+Nós temos que barricar o farol.
+Antônio decretou, a voz firme assumindo o controle do pânico.
+lorenzo: A embarcação já está quase na encosta, não temos como impedir o impacto.
+lorenzo: O Giorno já deve ter aberto os portões de segurança do cais... não tem mais como fechar.
+lorenzo: Vai lá avisar o garoto agora!
+Antônio deu as costas e correu em direção ao porão de ferramentas para buscar pranchas de madeira.
+Lorenzo não esperou.
+Ele enfiou o revólver antigo no cós da calça, empurrou a porta da escadaria e desceu os degraus em um ritmo alucinante.
+Seus pés quase perderam o apoio várias vezes no concreto úmido.
+Ele alcançou o térreo e escancarou a pesada porta de metal do farol, invadindo a chuva.
+O monstro de metal estava quase chegando.
+À luz dos relâmpagos, a gigante montanha de aço enferrujado erguia-se de forma colossal contra o cais, parecendo engolir a pequena ilha de pedra.
+Mesmo à distância, Lorenzo sentiu seus músculos congelarem e o ar faltar nos pulmões.
+O peso daquela estrutura morta esmagava sua determinação.
+Ele precisava tomar uma decisão fracionada em segundos.
+- AVISAR GIORNO
+- DEIXA GIORNO E BARRICAR AS SAÍDAS
