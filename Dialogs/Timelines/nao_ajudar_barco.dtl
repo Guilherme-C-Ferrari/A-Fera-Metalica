@@ -1,5 +1,5 @@
-audio ambient "res://Audio/SFX/Intro2/chuva.mp3" [volume="-15.0" loop="true"]
-audio ambient2 "res://Audio/SFX/Intro2/vento.ogg" [volume="-7.0" loop="true"]
+audio ambient "res://Audio/SFX/1_Intro2/chuva.mp3" [volume="-15.0" loop="true"]
+audio ambient2 "res://Audio/SFX/1_Intro2/vento.ogg" [volume="-7.0" loop="true"]
 [background arg="res://Assets/Intro/test.jpeg" fade="0.0"]
 lorenzo: – Não podemos ajudá-los. – Lorenzo diz enquanto se senta na cadeira ao lado da rústica mesa de madeira.
 lorenzo: A situação toda não faz o menor sentido, Giorno.
@@ -24,7 +24,7 @@ Como se para se livrar daquele peso, Lorenzo se aproximou do rádio e trocou par
 Colocando o rádio na mesa e esticando suas pernas Lorenzo tentou relaxar um pouco refletindo sobre o impasse da situação e se tomou a escolha correta.
 [wait time="3.0"]
 Alguns minutos se passaram enquanto ele refletia.
-audio "res://Audio/SFX/Intro/cadeira-rangindo.mp3" [volume="4.0"]
+audio "res://Audio/SFX/1_Intro/cadeira-rangindo.mp3" [volume="4.0"]
 A cadeira de madeira rangeu sob o peso de Lorenzo quando ele se inclinou para a frente.
 O faroleiro soltou o ar devagar, um sopro longo e cansado que pareceu esvaziar parte da tensão acumulada em seu peito.
 Ele passou as mãos calejadas pela jaqueta pesada, limpando a poeira do tecido antes de se levantar.
@@ -41,7 +41,7 @@ Como se a vento e a maresia sussurrasse em seu ouvido.
 [wait time="3.0"]
 Acalmando a alma cansada do homem.
 audio music "res://Audio/Music/nastelbom-italian-442088.mp3" [fade="4.0" volume="-25.0" loop="true"]
-audio ambient "res://Audio/SFX/Intro2/chuva.mp3" [fade="4.0" volume="-15.0" loop="true"]
+audio ambient "res://Audio/SFX/1_Intro2/chuva.mp3" [fade="4.0" volume="-15.0" loop="true"]
 Quando voltou a abri-los, mirou a silhueta do farol vizinho, a alguns quilômetros de distância na costa italiana.
 Por conta da escalada dos conflitos geopolíticos na região, o comando militar havia ordenado a construção daquela segunda torre gêmea.
 Lorenzo não entendia de estratégias de guerra, mas sabia que os dois faróis precisavam operar em sincronia para proteger aquela faixa do Mediterrâneo.
@@ -72,10 +72,10 @@ audio music -
 audio ambient2 -
 audio ambient -
 Lance após lance Lorenzo desceu os degraus em caracol.
-audio "res://Audio/SFX/Nao_ajudar_barco/escada.mp3" [volume="-10.0"]
+audio "res://Audio/SFX/2_B_Nao_ajudar_barco/escada.mp3" [volume="-10.0"]
 Suas botas ecoavam no concreto frio até que ele finalmente alcançou o térreo, parando diante da porta do dormitório de Giorno.
 A porta de madeira estava entreaberta, deixando escapar um filete de luz fraca.
-audio "res://Audio/SFX/Nao_ajudar_barco/porta.mp3" [volume="-4.0"]
+audio "res://Audio/SFX/2_B_Nao_ajudar_barco/porta.mp3" [volume="-4.0"]
 lorenzo: – Giorno! – Lorenzo chamou, empurrando a porta devagar.
 Os alojamentos do farol eram apertados; um único olhar bastava para varrer todo o espaço.
 Ali dentro havia apenas uma cama estreita, uma mesa capenga e algumas poucas mobílias com pertences pessoais.
@@ -99,10 +99,10 @@ Movendo-se obstinadamente em direção ao navio fantasma atracado no outro porto
 lorenzo: – Não... Não é possível – o ar faltou nos pulmões de Lorenzo.
 lorenzo: O que aquele idiota está fazendo?!
 Lorenzo deu as costas para o quarto e correu em direção à pesada porta principal do farol.
-audio "res://Audio/SFX/Nao_ajudar_barco/metal_door.mp3" [volume="-10.0"]
+audio "res://Audio/SFX/2_B_Nao_ajudar_barco/metal_door.mp3" [volume="-10.0"]
 Ele girou a tranca de ferro e empurrou a madeira contra o vento forte, precisando ver com os próprios olhos para acreditar.
 audio music -
-audio ambient "res://Audio/SFX/Nao_ajudar_barco/heavy_rain.mp3" [fade="1.0" volume="-12.0" loop="true"]
+audio ambient "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3" [fade="1.0" volume="-12.0" loop="true"]
 A chuva gelada açoitou seu rosto instantaneamente.
 Não era ilusão. Giorno estava mesmo lá fora, arriscando a vida por desconhecidos.
 mystery: – Eu tentei impedir ele – uma voz rouca surgiu das sombras, perto da entrada.

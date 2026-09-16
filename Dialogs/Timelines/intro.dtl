@@ -1,15 +1,15 @@
-[background arg="res://Assets/Place_Holder/intro1.png" fade="0.0"]
+[background arg="res://Assets/Intro/3.jpeg" fade="0.0"]
 audio ambient "res://Audio/SFX/ocean_sound.ogg" [fade="3.0" volume="-18.0" loop="true"]
 [wait time="3.0"]
 Há 30 km da costa da Itália, um imponente farol se destacava no horizonte, rasgando o céu dourado do pôr do sol. Uma estrutura que guiava marinheiros de diversas nações para seus destinos.
-[background arg="res://Assets/Place_Holder/intro2.png" fade="0.0"]
+[background arg="res://Assets/Intro/1.jpeg" fade="0.0"]
 No topo deste imponente farol. Dentro da sala de controle, a atmosfera era calorosa.
 audio music "res://Audio/Music/Django-Reinhardt-Dinah_-Paris-28.12.1934-Heinz-Becker-_youtube_.ogg" [fade="10.0" volume="-17.0" loop="true" sync="music"]
-[background arg="res://Assets/Place_Holder/intro3.png" fade="0.0"]
+[background arg="res://Assets/Intro/2.jpeg" fade="0.0"]
 O vento forte da altitude batia contra as grossas vidraças de segurança, misturando-se ao som de uma melodia italiana antiga que saía, engasgada, de um rádio de pilhas no topo do farol.
 [background arg="res://Assets/Place_Holder/intro4.png" fade="0.0"]
-audio "res://Audio/SFX/Intro/golpe_mesa.mp3"
-audio "res://Audio/SFX/Intro/cadeira-arrastar.mp3" [volume="-10.0"]
+audio "res://Audio/SFX/1_Intro/golpe_mesa.mp3"
+audio "res://Audio/SFX/1_Intro/cadeira-arrastar.mp3" [volume="-10.0"]
 mystery: Você está roubando Enzo!
 Um jovem homem gritou enquanto batia sua mão na mesa se levantando da cadeira.  
 lorenzo: Calado Giorno, você acha mesmo que preciso roubar para ganhar de você?
@@ -31,7 +31,7 @@ O topo do farol era o único local da ilha que pegava algum sinal de rádio.
 lorenzo: Foi mal Antônio…
 Respondeu Lorenzo tirando os pés de cima da mesa. 
 giorno: É… Desculpa velhote..
- Disse Giorno puxando uma das moedas de seu monte na surdina.
+Disse Giorno puxando uma das moedas de seu monte na surdina.
 Para disfarçar, Giorno falou para Lorenzo
 giorno: Vamos começar!
 Vendo a situação de canto de olho, Antonio sorriu levemente.
@@ -57,19 +57,19 @@ lorenzo: Você sabe algo de culinária pelo menos.
 antonio: Então, quando eu me aposentar vou ir nessa sua padaria.
 Falou Antônio enquanto puxava seu velho cantil de uísque e tomava um gole.
 giorno: Ha! Te peguei otário.
- Giorno corta o assunto enquanto joga uma carta na mesa.
+Giorno corta o assunto enquanto joga uma carta na mesa.
 giorno: Quero ver ganhar agora!
 Lorenzo franze a testa, e pensa por alguns segundos enquanto olha a sua mão.
 Como se desistisse, olha para o rosto sorridente do jovem, e quando vê que Giorno vai falar alguma coisa, Lorenzo puxa uma carta de sua mão e a joga na mesa.
 lorenzo: Ainda bem que vai virar padeiro. Porque jogando você não vai ganhar dinheiro. Hahaha!
 Lorenzo ria alto enquanto ganha o jogo de Giorno.
 [background arg="res://Assets/Place_Holder/intro7.png" fade="0.0"]
-audio "res://Audio/SFX/Intro/cadeira-rangindo.mp3" [volume="3.0"]
+audio "res://Audio/SFX/1_Intro/cadeira-rangindo.mp3" [volume="3.0"]
 giorno: aaaAAA!
 Giorno se joga para trás, enquanto suas costas fazem a velha cadeira de madeira rangir enquanto suporta o peso do jovem.
 [background arg="res://Assets/Place_Holder/intro6.png" fade="0.0"]
 Enquanto os dois organizavam as cartas para uma nova rodada, a estação de rádio encerrou a música e uma notícia foi escutada pelo rádio. 
-audio music "res://Audio/SFX/Intro/ruido-radio.ogg" [fade="3.0" volume="-6.0" loop="true" sync="music"]
+audio music "res://Audio/SFX/1_Intro/ruido-radio.ogg" [fade="3.0" volume="-6.0" loop="true" sync="music"]
 [i] ...Emitimos um alerta de navegação a todas as capitanias e postos costeiros do Mediterrâneo Central. [/i]
 [i] O número de ocorrências estranhas subiu este mês. Diversas embarcações comerciais vindas do Oriente foram encontradas flutuando à deriva, sem resposta aos chamados. [/i]
 [i] Relatos preliminares de sobreviventes mencionam que tripulações inteiras abandonaram seus postos em pânico antes do resgate, alegando avistar 'navios fantasmas' na névoa. [/i]
