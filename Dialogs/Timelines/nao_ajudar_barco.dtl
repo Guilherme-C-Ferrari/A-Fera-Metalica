@@ -1,12 +1,14 @@
 audio ambient "res://Audio/SFX/1_Intro2/chuva.mp3" [volume="-15.0" loop="true"]
 audio ambient2 "res://Audio/SFX/1_Intro2/vento.ogg" [volume="-7.0" loop="true"]
 [background arg="res://Assets/Intro/test.jpeg" fade="0.0"]
-lorenzo: – Não podemos ajudá-los. – Lorenzo diz enquanto se senta na cadeira ao lado da rústica mesa de madeira.
+lorenzo: Não podemos ajudá-los.
+Lorenzo diz enquanto se senta na cadeira ao lado da rústica mesa de madeira.
 lorenzo: A situação toda não faz o menor sentido, Giorno.
 Lorenzo continuou, inclinando o tronco para a frente e apoiando os cotovelos nos joelhos. Ele entrelaçou os dedos, encarando as próprias botas sujas de lama.
 lorenzo: O convés está deserto. Ninguém na ponte de comando. Tem algo muito errado ali. 
 lorenzo: Não sei sobre ser algo sobrenatural, mas pode ser alguma tática inimiga que não conhecemos.
 lorenzo: Os nossos inimigos são ardilosos.
+audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3" [volume="-10.0"]
 giorno: ...
 Giorno abriu a boca para retrucar. Seus lábios tremeram, mas nenhum som saiu. A injustiça daquela lógica fria parecia sufocá-lo.
 A frustração subiu pelo seu pescoço, avermelhando sua pele. Ele cerrou os dentes com tanta força que o maxilar estalou.
@@ -76,7 +78,8 @@ audio "res://Audio/SFX/2_B_Nao_ajudar_barco/escada.mp3" [volume="-10.0"]
 Suas botas ecoavam no concreto frio até que ele finalmente alcançou o térreo, parando diante da porta do dormitório de Giorno.
 A porta de madeira estava entreaberta, deixando escapar um filete de luz fraca.
 audio "res://Audio/SFX/2_B_Nao_ajudar_barco/porta.mp3" [volume="-4.0"]
-lorenzo: – Giorno! – Lorenzo chamou, empurrando a porta devagar.
+lorenzo: Giorno!
+Lorenzo chamou, empurrando a porta devagar.
 Os alojamentos do farol eram apertados; um único olhar bastava para varrer todo o espaço.
 Ali dentro havia apenas uma cama estreita, uma mesa capenga e algumas poucas mobílias com pertences pessoais.
 No canto, perto dos pés da cama, estava o pequeno baú de metal onde o jovem guardava cada moeda que conseguia.
@@ -96,7 +99,8 @@ Um pequeno brilho subia e descia violentamente nas ondas.
 Era um bote.
 E dentro dele, lutando contra os remos e contra a fúria da água, estava Giorno.
 Movendo-se obstinadamente em direção ao navio fantasma atracado no outro porto.
-lorenzo: – Não... Não é possível – o ar faltou nos pulmões de Lorenzo.
+lorenzo: Não... Não é possível
+O ar faltou nos pulmões de Lorenzo.
 lorenzo: O que aquele idiota está fazendo?!
 Lorenzo deu as costas para o quarto e correu em direção à pesada porta principal do farol.
 audio "res://Audio/SFX/2_B_Nao_ajudar_barco/metal_door.mp3" [volume="-10.0"]
@@ -105,7 +109,8 @@ audio music -
 audio ambient "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3" [fade="1.0" volume="-12.0" loop="true"]
 A chuva gelada açoitou seu rosto instantaneamente.
 Não era ilusão. Giorno estava mesmo lá fora, arriscando a vida por desconhecidos.
-mystery: – Eu tentei impedir ele – uma voz rouca surgiu das sombras, perto da entrada.
+mystery: Eu tentei impedir ele.
+ Uma voz rouca surgiu das sombras, perto da entrada.
 Lorenzo se assustou. Antônio estava ali, encolhido sob o teto da varanda de pedra, os olhos fixos no oceano revolto.
 O velho parecia ainda mais cansado sob a luz da tempestade.
 antonio: Ele desceu as escadas como um demônio enfurecido.

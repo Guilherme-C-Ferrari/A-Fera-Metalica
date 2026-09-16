@@ -134,7 +134,7 @@ Ele não olhou para os outros; mantinha os olhos fixos no próprio reflexo no vi
 giorno: Isso é apenas uma suposição. Vamos mesmo correr o risco de deixar pessoas morrerem... só por medo?
 A voz dele saiu limpa, baixa e calma. O tremor nos lábios havia sumido. 
 antonio: Deus…
- Antônio levou a mão calejada ao rosto, esfregando as pálpebras cansadas.
+Antônio levou a mão calejada ao rosto, esfregando as pálpebras cansadas.
 A postura de Giorno nesse momento era admirável, diferente de antes, e Antônio mesmo ainda tendo sua visão da situação sentiu que deveriam levar em consideração a opnião de Giorno.
 giorno: Eu posso ir abrir sozinho o portão do cais.
 Afirma Giorno para sustentar sua vontate.
@@ -150,6 +150,6 @@ antonio: O que acha?
 Lorenzo se manteve quieto por alguns segundos, observando a embarcação no horizonte iluminada pelo grande farol.
 O som da chuva colidindo com as grandes vidraças parecem sufocar todos os presentes.
 - AJUDAR A EMBARCAÇÃO
-	jump ajudar_barco/
+ jump ajudar_barco/
 - NÃO AJUDAR A EMBARCAÇÃO
-	jump nao_ajudar_barco/
+ jump nao_ajudar_barco/
