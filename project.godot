@@ -21,6 +21,7 @@ Dialogic="*uid://ds2q0uclmolvu"
 
 directories/dch_directory={
 "antonio": "res://Dialogs/Characters/antonio.dch",
+"antonio_and_lorenzo": "res://Dialogs/Characters/antonio_and_lorenzo.dch",
 "giorno": "res://Dialogs/Characters/giorno.dch",
 "giorno_and_lorenzo": "res://Dialogs/Characters/giorno_and_lorenzo.dch",
 "lorenzo": "res://Dialogs/Characters/lorenzo.dch",

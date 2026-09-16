@@ -10,50 +10,63 @@ O vento forte da altitude batia contra as grossas vidraças de segurança, mistu
 [background arg="res://Assets/Place_Holder/intro4.png" fade="0.0"]
 audio "res://Audio/SFX/Intro/golpe_mesa.mp3"
 audio "res://Audio/SFX/Intro/cadeira-arrastar.mp3" [volume="-10.0"]
-mystery: – Você está roubando Enzo! – Um jovem homem gritou enquanto batia sua mão na mesa se levantando da cadeira.  
-lorenzo: – Calado Giorno, você acha mesmo que preciso roubar para ganhar de você? – Disse o Lorenzo apoiando seus pés na mesa enquanto jogava sua mão vitoriosa na mesa enquanto ria da cara de Giorno. 
+mystery: Você está roubando Enzo!
+Um jovem homem gritou enquanto batia sua mão na mesa se levantando da cadeira.  
+lorenzo: Calado Giorno, você acha mesmo que preciso roubar para ganhar de você?
+Lorenzo apoiou seus pés na mesa enquanto jogava sua mão vitoriosa na mesa enquanto ria da cara de Giorno. 
 giorno: Mais uma! Essa você teve sorte.
 Giorno bufando se sentou novamente para jogar mais uma partida enquanto cruzava os braços para mostrar seu descontentamento. 
-lorenzo: – Não sei…– Lorenzo coçou sua barba
-lorenzo: – Essa sua aposta está muito baixa, acho que deu por hoje. – Fala enquanto aponta com suas cartas para uma pilha de 2 moedas de cobre. 
-giorno: – Então tá, eu aumento! Mas você tem que aumentar mais ainda, já que está tão confiante! Pelo jeito eu v…
+lorenzo: Não sei…
+lorenzo: Essa sua aposta está muito baixa, acho que deu por hoje.
+Lorenzo falou enquanto aponta com suas cartas para uma pilha de 2 moedas de cobre. 
+giorno: Então tá, eu aumento! Mas você tem que aumentar mais ainda, já que está tão confiante! Pelo jeito eu v…
 Giorno apontava para a rosto de Lorenzo quando é interrompido. 
 [background arg="res://Assets/Place_Holder/intro9.png" fade="0.0"]
-mystery: – Ei!
+mystery: Ei!
 Exclama um senhor de 60 anos que estava do outro lado do topo do farol.
 Ele estava controlando a luz do farol e observando as águas com sua luneta de cobre.
 mystery: Já disse, vocês dois podem ficar aqui por causa do rádio. Mas façam silêncio.
 O topo do farol era o único local da ilha que pegava algum sinal de rádio.
 [background arg="res://Assets/Place_Holder/intro5.png" fade="0.0"]
-lorenzo: – Foi mal Antônio…– Respondeu Lorenzo tirando os pés de cima da mesa. 
-giorno: – É… Desculpa velhote.. – disse Giorno puxando uma das moedas de seu monte na surdina.
+lorenzo: Foi mal Antônio…
+Respondeu Lorenzo tirando os pés de cima da mesa. 
+giorno: É… Desculpa velhote..
+ Disse Giorno puxando uma das moedas de seu monte na surdina.
 Para disfarçar, Giorno falou para Lorenzo
-giorno: – Vamos começar!
+giorno: Vamos começar!
 Vendo a situação de canto de olho, Antonio sorriu levemente.
 Apesar da advertência, gostava da companhia durante o seu turno. O trabalho de um faroleiro já era extremamente solitário, esses momentos eram importantes para todos.
-antonio: – Por que você queria tanto dinheiro mesmo? – Antonio perguntou enquanto observava o mar pela luneta metálica.
-giorno: – Você sabe. – Giorno apoiava o queixo enquanto tentava memorizar as cartas na sua mão
+antonio: Por que você queria tanto dinheiro mesmo?
+Antonio perguntou enquanto observava o mar pela luneta metálica.
+giorno: Você sabe.
+Giorno apoiava o queixo enquanto tentava memorizar as cartas na sua mão
 giorno: Quero voltar para o continente.
-lorenzo: – Quer ficar mais próximo da sua família, né?  – Lorenzo fala enquanto abaixa uma carta na pilha.
+lorenzo: Quer ficar mais próximo da sua família, né?
+Lorenzo fala enquanto abaixa uma carta na pilha.
 lorenzo: O que você vai fazer com o dinheiro?
-giorno: – Vou abrir uma padaria! – Giorno falou orgulhoso e de peito estufado.
-giorno: – Vou comprar de volta a loja que roubaram do meu pai. Aqueles porcos desgraçados do governo. – Giorno abaixa o tom com raiva.
-lorenzo: – Hahaha!
+giorno: Vou abrir uma padaria!
+Giorno falou orgulhoso e de peito estufado.
+giorno: Vou comprar de volta a loja que roubaram do meu pai. Aqueles porcos desgraçados do governo.
+lorenzo: Hahaha!
 lorenzo: Você vai mesmo virar padeiro? Não é muito a sua cara.
-giorno: – Como não? Quando eu cheguei aqui você e o velhote só comiam pão duro igual a um tijolo.
-Lorenzo e Antonio riram da fala do jovem.
-lorenzo: – De fato, o Antonio agora consegue até dormir de noite por causa da sua sopa. – Lorenzo fala enquanto olha para Antônio se recuperando.
+giorno: Como não? Quando eu cheguei aqui você e o velhote só comiam pão duro igual a um tijolo.
+antonio_and_lorenzo: Hahahahahahah!
+lorenzo: De fato, o Antonio agora consegue até dormir de noite por causa da sua sopa.
+Lorenzo fala enquanto olha para Antônio se recuperando.
 lorenzo: Você sabe algo de culinária pelo menos.
 antonio: Então, quando eu me aposentar vou ir nessa sua padaria.
 Falou Antônio enquanto puxava seu velho cantil de uísque e tomava um gole.
-giorno: – Ha! Te peguei otário. – Giorno corta o assunto enquanto joga uma carta na mesa.
+giorno: Ha! Te peguei otário.
+ Giorno corta o assunto enquanto joga uma carta na mesa.
 giorno: Quero ver ganhar agora!
 Lorenzo franze a testa, e pensa por alguns segundos enquanto olha a sua mão.
 Como se desistisse, olha para o rosto sorridente do jovem, e quando vê que Giorno vai falar alguma coisa, Lorenzo puxa uma carta de sua mão e a joga na mesa.
-lorenzo: – Ainda bem que vai virar padeiro. Porque jogando você não vai ganhar dinheiro. Hahaha! – Lorenzo ria alto enquanto ganha o jogo de Giorno.
+lorenzo: Ainda bem que vai virar padeiro. Porque jogando você não vai ganhar dinheiro. Hahaha!
+Lorenzo ria alto enquanto ganha o jogo de Giorno.
 [background arg="res://Assets/Place_Holder/intro7.png" fade="0.0"]
 audio "res://Audio/SFX/Intro/cadeira-rangindo.mp3" [volume="3.0"]
-giorno: – aaaAAA! – Giorno se joga para trás, enquanto suas costas fazem a velha cadeira de madeira rangir enquanto suporta o peso do jovem.
+giorno: aaaAAA!
+Giorno se joga para trás, enquanto suas costas fazem a velha cadeira de madeira rangir enquanto suporta o peso do jovem.
 [background arg="res://Assets/Place_Holder/intro6.png" fade="0.0"]
 Enquanto os dois organizavam as cartas para uma nova rodada, a estação de rádio encerrou a música e uma notícia foi escutada pelo rádio. 
 audio music "res://Audio/SFX/Intro/ruido-radio.ogg" [fade="3.0" volume="-6.0" loop="true" sync="music"]
@@ -65,10 +78,12 @@ audio music "res://Audio/SFX/Intro/ruido-radio.ogg" [fade="3.0" volume="-6.0" lo
 audio music "res://Audio/Music/Django-Reinhardt-Dinah_-Paris-28.12.1934-Heinz-Becker-_youtube_.ogg" [fade="3.0" volume="-17.0" loop="true"]
 A notícia foi interrompida pelo Giorno que trocou para uma nova estação enquanto a música voltava.
 [background arg="res://Assets/Place_Holder/intro5.png" fade="0.0"]
-giorno: – Chega dessa palhaçada, quem acredita nisso? – Giorno disse zombando da notícia. 
+giorno: Chega dessa palhaçada, quem acredita nisso?
+Giorno disse zombando da notícia. 
 Antonio que trabalhava olhou de canto de olho para Giorno antes de balançar a cabeça em desacordo.
 antonio: Você não viu nada do mundo ainda.
-giorno: – E nem vou ver, até que eu consiga sair dessa porcaria de farol. – Disse Giorno por impulso.
+giorno: E nem vou ver, até que eu consiga sair dessa porcaria de farol.
+Disse Giorno por impulso.
 [wait time="3.0"]
 Um clima ruim preencheu a sala por alguns segundos depois da fala de Giorno.
 [wait time="2.0"]
