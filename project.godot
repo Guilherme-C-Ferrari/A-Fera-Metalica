@@ -59,7 +59,7 @@ choices/reveal_delay=0
 choices/reveal_by_input=false
 save/autosave_delay=60.0
 save/encryption_on_exports_only=true
-text/dialog_text_prefix="[outline_size=12][outline_color=black]"
+text/dialog_text_prefix="[outline_size=6][outline_color=black]"
 text/autopauses={}
 audio/channel_defaults={
 "": {
