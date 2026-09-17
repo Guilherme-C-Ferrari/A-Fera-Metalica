@@ -32,13 +32,14 @@ scene = ExtResource("5_a1x74")
 script = ExtResource("2_16vra")
 scene = ExtResource("6_pm126")
 overrides = {
+"bold_font": "\"res://Assets/Fonts/JMH Typewriter.ttf\"",
 "name_label_alignment": "1",
-"name_label_custom_font_size": "20.0",
-"name_label_font": "\"res://Assets/Fonts/OpenSans-VariableFont_wdth,wght.ttf\"",
+"name_label_custom_font_size": "40.0",
+"name_label_font": "\"res://Assets/Fonts/Punk Typewriter.ttf\"",
 "name_label_use_global_font": "false",
 "name_label_use_global_font_size": "false",
 "next_indicator_size": "Vector2(7, 7)",
-"normal_font": "\"res://Assets/Fonts/OpenSans-VariableFont_wdth,wght.ttf\"",
+"normal_font": "\"res://Assets/Fonts/JMH Typewriter-Bold.ttf\"",
 "text_alignment": "1",
 "text_custom_color": "Color(0.99609375, 0.98898053, 0.9610748, 1)",
 "text_use_global_font": "false",
@@ -53,6 +54,9 @@ scene = ExtResource("7_r63tj")
 [sub_resource type="Resource" id="Resource_n77yp"]
 script = ExtResource("2_16vra")
 scene = ExtResource("8_cskqe")
+overrides = {
+"boxes_offset": "Vector2(0, 250)"
+}
 
 [sub_resource type="Resource" id="Resource_2jk55"]
 script = ExtResource("2_16vra")

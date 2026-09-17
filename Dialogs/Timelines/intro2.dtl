@@ -6,7 +6,7 @@ audio ambient2 "res://Audio/SFX/1_Intro2/vento.ogg" [fade="3.0" volume="-7.0" lo
 1 hora havia se passado.
 [wait time="3.0"]
 O sol se pôs e a única luz no grande mar negro era a esmaecida luz do farol.
-Com uma estrondosa tempestade se aproximoando do horizonte, as janelas vibravam enquanto a chuva batia contra o farol.
+Com uma estrondosa tempestade se aproximando do horizonte, as janelas vibravam enquanto a chuva batia contra o farol.
 audio "res://Audio/SFX/1_Intro2/risada_leve_lorenzo.mp3"
 [wait time="0.3"]
 audio "res://Audio/SFX/1_Intro2/batida_rapida_mesa.mp3"
@@ -17,23 +17,23 @@ audio "res://Audio/SFX/1_Intro/golpe_mesa.mp3"
 giorno: Mais uma rodada. Tudo ou nada!
 Giorno protestou, batendo com o punho fechado sobre as cartas espalhadas na mesa de madeira rústica.
 lorenzo: Esquece, já está tarde... e minha consciência não deixa eu tirar mais nenhum tostão de você.
+[background arg="res://Assets/Intro/2.jpeg" fade="0.0"]
 antonio: Ei!
 A voz ríspida de Antônio cortou a brincadeira. O velho permanecia estático junto à grande janela arqueada do topo do farol, com a luneta de latão colada ao olho direito.
 giorno_and_lorenzo: Desculpa...
 Os dois mais jovens resmungaram em uníssono, encolhendo os ombros por puro reflexo, habituados às broncas do veterano.
 antonio: Não é isso.
 Rebateu Antônio, apoiando as duas mãos no parapeito largo da janela, inclinando-se para a escuridão lá fora.
-[background arg="res://Assets/Place_Holder/intro8.png" fade="0.0"]
 antonio: Chegou uma embarcação.
 Os dois homens que estavam brincando se acalmam e deixam Antônio fazer seu trabalho de guiar e se comunicar com a embarcação através da luz do farol, agora sem brincadeiras.
 audio music - [fade="3.0"]
 Lorenzo desligou o rádio para deixar Antônio se concentrar.
 Mas o Antônio fala algo inusitado.
-[background arg="res://Assets/Place_Holder/intro9.png" fade="0.0"]
-[wait time="2.0"]
+[wait time="1.5"]
+[background arg="res://Assets/Intro 2/05 - Veio.png" fade="0.0"]
 antonio: É um pedido de emergência.
 Normalmente quando alguma embarcação tinha alguma emergência e precisava atracar em terra firme o farol era a única alternativa, então um sinal de luz foi inventado para situações de emergência.
-[background arg="res://Assets/Place_Holder/intro3.png" fade="0.0"]
+[background arg="res://Assets/Intro/1.jpeg" fade="0.0"]
 lorenzo: Fazia tempo que não recebíamos esse tipo de pedido.
 Diz Lorenzo abandonando as cartas sobre a mesa para se aproximar da grande janela do farol.
 giorno: Acho que faz uns 11 meses, não?
@@ -62,8 +62,8 @@ giorno: Ei!
 Lorenzo calou-se. Ajustou a lente e mirou.
 audio music "res://Audio/Music/07. Fragmentation.mp3" [fade="3.0" volume="-9.0" loop="true"]
 Era uma embarcação de pesca comum, mas o estômago de Lorenzo revirou.
-[background arg="res://Assets/Place_Holder/intro8.png" fade="0.0"]
 [wait time="2.0"]
+[background arg="res://Assets/Intro 2/06 - Barco Luneta.png" fade="0.0"]
 O casco antigo estava devorado por crostas espessas de ferrugem vermelha, cortando as ondas do Mediterrâneo sob o início de uma chuva fina.
 Lorenzo piscou, forçando a vista.
 Sua respiração falhou por um segundo.
@@ -94,12 +94,12 @@ giorno: Não é possível.
 Giorno fala enquanto olha para Lorenzo.
 giorno: O velho ficou louco de vez.
 Fala em um tom debochado enquanto sorri como se tivesse escutado um absurdo.
-[background arg="res://Assets/Place_Holder/intro9.png" fade="0.0"]
+[wait time="2.0"]
+[background arg="res://Assets/Intro 2/07 - Veio 2.png" fade="0.0"]
 audio ambient - [fade="2.0"]
 audio ambient2 -
 audio -
-[wait time="2.0"]
-antonio: Ah Giorno...
+antonio: [shake rate=10 level=5]Ah Giorno...[/shake]
 audio ambient "res://Audio/SFX/1_Intro2/tensao.mp3" [fade="4.0" volume="-20.0" loop="true"]
 O tom de Antônio muda drasticamente.
 A raiva some, dando lugar a um sussurro rouco e frio que corta o som da chuva lá fora. Ele dá um passo à frente, invadindo o espaço do jovem.
@@ -118,7 +118,7 @@ antonio: E a última coisa que você vai ouvir no escuro daquelas águas... é o
 audio music "res://Audio/SFX/1_Intro/ruido-radio.ogg" [fade="1.0" volume="-6.0" loop="true"]
 audio ambient "res://Audio/SFX/1_Intro2/chuva.mp3" [fade="2.0" volume="-15.0" loop="true" sync="ambient"]
 audio ambient2 "res://Audio/SFX/1_Intro2/vento.ogg" [fade="2.0" volume="-7.0" loop="true"]
-[background arg="res://Assets/Place_Holder/intro3.png" fade="0.0"]
+[background arg="res://Assets/Intro/1.jpeg" fade="0.0"]
 O silêncio cai sobre a sala do farol, quebrado apenas pelo chiado estático do rádio.
 Giorno dá um passo involuntário para trás. Seu peito sobe e desce rápido, a boca seca instantaneamente.
 O deboche sumiu.
@@ -137,7 +137,7 @@ antonio: Deus…
 Antônio levou a mão calejada ao rosto, esfregando as pálpebras cansadas.
 A postura de Giorno nesse momento era admirável, diferente de antes, e Antônio mesmo ainda tendo sua visão da situação sentiu que deveriam levar em consideração a opnião de Giorno.
 giorno: Eu posso ir abrir sozinho o portão do cais.
-Afirma Giorno para sustentar sua vontate.
+Afirma Giorno para sustentar sua vontade.
 audio "res://Audio/SFX/1_Intro2/tampa.mp3" [volume="-5.0"]
 Antonio tateou o casaco, puxou um cantil de uísque e girou a tampa de metal.
 audio "res://Audio/SFX/1_Intro2/bebendo.mp3" [volume="6.0"]
@@ -147,8 +147,10 @@ O velho limpou a boca com as costas da mão, fechou o cantil com um clique seco 
 antonio: E você, Lorenzo?
 A voz de Antônio ecoou, carregada.
 antonio: O que acha?
+[background arg="res://Assets/Intro 2/08 - lorenzo.png" fade="0.0"]
 Lorenzo se manteve quieto por alguns segundos, observando a embarcação no horizonte iluminada pelo grande farol.
 O som da chuva colidindo com as grandes vidraças parecem sufocar todos os presentes.
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎
 - AJUDAR A EMBARCAÇÃO
  jump ajudar_barco/
 - NÃO AJUDAR A EMBARCAÇÃO
