@@ -37,7 +37,7 @@ antonio: Por que você não avisou o garoto, seu desgraçado?!
 A raiva cega estava estampada em cada linha do rosto enrugado do velho.
 lorenzo: [shake rate=20.0 level=5] Aquele não é um simples navio...
 Lorenzo justificou, o olhar completamente perdido, encarando o nada.
-antonio:  Eu sei disso! Por isso mesmo eu não queria que vocês baixassem as defesas da ilha!
+antonio: Eu sei disso! Por isso mesmo eu não queria que vocês baixassem as defesas da ilha!
 antonio: Você escolheu deixar aquela maldita coisa atracar. Você devia ser homem e ter ido buscar o Giorno!
 audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3" [volume="-6.0"]
 lorenzo: [shake rate=30.0 level=5] Eu...
@@ -58,7 +58,7 @@ O faroleiro cambaleou para o lado, o gosto metálico de sangue invadindo sua boc
 Ele levou a mão ao rosto, chocado, olhando para o veterano.
 antonio: Você não tem o direito de não lutar pela sua vida.
 Antônio rosnou, olhando friamente para Lorenzo.
-antonio:  Já que você sacrificou o Giorno por ela.
+antonio: Já que você sacrificou o Giorno por ela.
 O velho deu as costas, pegou o martelo e as primeiras tábuas e começou a golpear as janelas com fúria.
 O impacto do soco finalmente quebrou o transe de Lorenzo.
 A descarga de adrenalina limpou sua mente e ele partiu em direção ao outro lado do cômodo, pegando os pregos.
@@ -129,4 +129,6 @@ giorno: [shake rate=15.0 level=7] O monstro está vindo atrás de mim! Abre logo
 Giorno suplicou, descarregando toda a sua força contra a entrada.
 Lorenzo, consumido pelo peso esmagador da culpa, via diante de si a oportunidade final de se redimir do erro que cometeu.
 - ABRIR A PORTA
+	jump 4C_Abrir_porta/
 - NÃO ABRIR A PORTA
+	jump 4D_Nao_abrir_porta/

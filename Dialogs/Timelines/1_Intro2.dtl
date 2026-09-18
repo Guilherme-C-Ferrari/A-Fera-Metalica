@@ -152,6 +152,6 @@ Lorenzo se manteve quieto por alguns segundos, observando a embarcação no hori
 O som da chuva colidindo com as grandes vidraças parecem sufocar todos os presentes.
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎
 - AJUDAR A EMBARCAÇÃO
- jump ajudar_barco/
+ jump 2A_Ajudar_Barco/
 - NÃO AJUDAR A EMBARCAÇÃO
- jump nao_ajudar_barco/
+ jump 2B_Nao_Ajudar_Barco/
