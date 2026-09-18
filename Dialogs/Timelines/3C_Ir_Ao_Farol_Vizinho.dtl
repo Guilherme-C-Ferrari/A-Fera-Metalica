@@ -1,0 +1,55 @@
+audio ambient "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3" [volume="-12.0" loop="true"]
+Lorenzo inclinou o tronco para a frente, o impulso de correr atrás do amigo, tensionando seus músculos e correndo até o pequeno porto do farol.
+audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3"
+Quando chegou no porto viu o último bote motorizado que tinham no farol.
+Sem esperar mais decidiu seguir atrás de Giorno.
+Apesar da tempestade, o mar não estava completamente inavegável.
+Normalmente com o bote demoraria 30 minutos em águas calmas a uma velocidade normal para chegar no farol Gemêo.
+Dada a situação, Lorenzo acelerou na velocidade máxima que o bote aguentava.
+audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3"
+audio ambient2 "res://Audio/SFX/3C_Ir_Ao_Farol_Vizinho/motor_barco.mp3" [fade="1.0" volume="-6.0" loop="true"]
+audio ambient "res://Audio/SFX/3C_Ir_Ao_Farol_Vizinho/heavy_waves.mp3" [fade="2.0" loop="true"]
+audio ambient3 "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3" [fade="0.5" volume="-15.0"]
+O barco saltou para a frente, cortando as primeiras ondas em direção ao farol vizinho.
+A noite gelada e o vento cortante açoitavam seu rosto, mas a adrenalina o mantinha focado.
+Lorenzo forçava a vista na escuridão, tentando caçar o rastro do bote de Giorno, que já havia sumido no breu.
+audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3"
+Os minutos começaram a se arrastar.
+O motor roncava alto, expelindo golfadas de fumaça escura que sumiam na chuva, mas o horizonte parecia estático.
+[wait time="1.0"]
+[speed=10]Uma hora se passou.
+audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3" [volume="-4.0"]
+E a silhueta do farol vizinho continuava exatamente na mesma distância minguada.
+audio ambient2 - [fade="0.5"]
+Lorenzo tirou a mão do timão por um segundo, engolindo em seco.
+Algo estava profundamente errado.
+Ele conhecia aquelas águas como a palma de sua mão; a correnteza estava mansa demais para oferecer tanta resistência, e o motor continuava operando em potência máxima.
+Era matematicamente impossível não ter chegado ainda.
+audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3"
+O frio começou a mudar.
+Não era mais apenas o vento da tempestade; era um gélido sobrenatural que parecia se infiltrar por seus poros e congelar sua própria alma.
+Seus dedos na haste de metal estavam dormentes, e seus dentes batiam violentamente.
+Lorenzo percebeu que não aguentaria muito mais tempo exposto àquela temperatura irreal.
+audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3" [volume="-2.0"]
+Tomado por um pressentimento ruim, ele tomou a decisão de abortar a busca e retornar para a segurança de seu próprio farol.
+audio ambient2 "res://Audio/SFX/3C_Ir_Ao_Farol_Vizinho/motor_barco.mp3" [fade="1.0" volume="-6.0" loop="true"]
+Ele girou a haste com força, manobrando o bote em um semicírculo perfeito para voltar.
+Quando estabilizou a embarcação e ergueu os olhos, Lorenzo perdeu o fôlego.
+Seu próprio farol estava a quilômetros e quilômetros de distância.
+Uma silhueta minúscula e esmaecida no horizonte negro.
+Não fazia o menor sentido.
+Se ele havia navegado em linha reta por horas sem sair do lugar, seu farol deveria estar logo atrás dele.
+audio ambient2 "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/heart.mp3" [volume="0.5" loop="true" sync="ambient2"]
+Lorenzo virou a cabeça abruptamente de volta para a direção do farol vizinho.
+audio music "res://Audio/Music/05. The World-Ender.mp3" [fade="0.0" volume="-7.0" loop="true" sync="ambient2"]
+A torre gêmea também havia recuado na mesma proporção, tornando-se apenas um ponto cintilante e distante na imensidão vazia.
+audio ambient - [fade="1.0"]
+audio ambient3 - [fade="1.0"]
+O espaço havia se expandido. Os dois faróis haviam se afastado dele ao mesmo tempo, deixando-o isolado no centro exato de um oceano infinito que desafiava as leis da física.
+Com a respiração errática e o coração martelando contra as costelas, o desespero finalmente engoliu Lorenzo.
+Ele estava preso no nada.
+<Empty Text Event>
+- VOLTAR PARA O FAROL DE LORENZO
+	jump 4E2_Acelerar_Para_Farol/
+- ACELELAR PARA O FAROL VIZINHO
+	jump 4E2_Acelerar_Para_Farol/

@@ -1,0 +1,32 @@
+audio ambient "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/heart.mp3" [loop="true"]
+O peso esmagador da culpa venceu o pânico.
+Lorenzo não podia viver sabendo que havia selado o destino do amigo.
+Ele avançou em direção à entrada, as mãos trêmulas tateando as traves de madeira.
+lorenzo: [shake rate=10 level=5] Calma, Giorno! Eu vou abrir! Aguenta aí!
+Lorenzo gritou, a voz rasgada pelo desespero enquanto começava a arrancar os primeiros pregos e travas que bloqueavam a porta.
+giorno: Obrigado, Lorenzo... Obrigado, irmão!
+Giorno respondia do outro lado.
+audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3" [volume="-6.0"]
+audio ambient2 "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3" [fade="2.0" volume="-25.0" loop="true"]
+Ao remover os últimos bloqueios pesados, Lorenzo sentiu uma onda maciça e paralisante de alívio lavar seu peito.
+O amigo estava vivo.
+audio "res://Audio/SFX/2_B_Nao_ajudar_barco/metal_door.mp3" [volume="-5.0"]
+ Ele ia consertar seu erro. Lorenzo segurou a maçaneta de metal e girou o ferrolho principal para puxar a folha de ferro para dentro.
+Mas ele não teve tempo de puxar.
+audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3" [volume="-6.0"]
+audio "res://Audio/SFX/4C_Abrir_Porta/estrondo_porta.mp3"
+audio ambient2 "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3" [fade="1.0" volume="-10.0" loop="true"]
+A porta do farol foi completamente estraçalhada de fora para dentro.
+O metal se partiu ao meio com um estrondo ensurdecedor, e estilhaços pontiagudos de madeira e ferro foram arremessados contra o peito de Lorenzo, jogando seu corpo violentamente contra o chão de pedra áspero do térreo.
+O ar sumiu instantaneamente de seus pulmões, misturando-se ao gosto quente de sangue que inundou sua boca.
+Caído de costas, tossindo e com a visão turva pelos flashes dos relâmpagos, Lorenzo tentou focar no vão arrombado.
+audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3" [volume="0.0"]
+Sob os clarões trêmulos da tempestade que agora invadia o farol, ele percebeu a cruel realidade.
+Não havia Giorno.
+Parada sob o portal, erguia-se uma silhueta esguia e desumana, alta demais, cujas proporções eram uma zombaria grotesca da forma humana.
+A coisa não tinha rosto; era apenas uma máscara de escuridão viva e faminta que deslizava silenciosamente para dentro do cômodo, avançando direto para o seu peito com garras metálicas esticadas.
+Lorenzo tentou gritar por Antônio, tentou rastejar para trás, mas suas forças se esvaíram.
+Em seu último microssegundo de consciência, enquanto a abominação o partia ao meio, Lorenzo compreendeu o engano final\: o mar não havia devolvido seu amigo.
+Tinha apenas usado a sua culpa para fazê-lo abrir as defesas.
+A luz de sua mente apagou-se de vez, deixando o farol Speranza em um completo e absoluto silêncio de morte.
+# FINAL

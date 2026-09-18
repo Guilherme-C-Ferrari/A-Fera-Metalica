@@ -74,10 +74,10 @@ audio music -
 audio ambient2 -
 audio ambient -
 Lance após lance Lorenzo desceu os degraus em caracol.
-audio "res://Audio/SFX/2_B_Nao_ajudar_barco/escada.mp3" [volume="-10.0"]
-Suas botas ecoavam no concreto frio até que ele finalmente alcançou o térreo, parando diante da porta do dormitório de Giorno.
-A porta de madeira estava entreaberta, deixando escapar um filete de luz fraca.
+audio "res://Audio/SFX/2_A_Ajudar_barco/escada_fade_in.mp3"
+Suas botas ecoavam até que ele finalmente alcançou o térreo, parando diante da porta do dormitório de Giorno.
 audio "res://Audio/SFX/2_B_Nao_ajudar_barco/porta.mp3" [volume="-4.0"]
+audio ambient "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3" [fade="1.0" volume="-25.0" loop="true"]
 lorenzo: Giorno!
 Lorenzo chamou, empurrando a porta devagar.
 Os alojamentos do farol eram apertados; um único olhar bastava para varrer todo o espaço.
@@ -90,6 +90,7 @@ Mas a cama estava vazia. Os lençóis, bagunçados.
 lorenzo: Onde esse cara se enfiou?
 Ele caminhou até a pequena janela de ferro do quarto, que ficava rente ao nível do solo.
 Apoiou as mãos no batente e olhou para fora, tentando buscar o farol vizinho na escuridão.
+audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3" [volume="-6.0"]
 A tempestade lá fora castigava a água.
 audio music "res://Audio/Music/37. The Prisoner.mp3" [fade="3.0" volume="-15.0"]
 Foi então que ele viu.
@@ -104,6 +105,7 @@ O ar faltou nos pulmões de Lorenzo.
 lorenzo: O que aquele idiota está fazendo?!
 Lorenzo deu as costas para o quarto e correu em direção à pesada porta principal do farol.
 audio "res://Audio/SFX/2_B_Nao_ajudar_barco/metal_door.mp3" [volume="-10.0"]
+audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/rangido porta.mp3" [volume="-5.0"]
 Ele girou a tranca de ferro e empurrou a madeira contra o vento forte, precisando ver com os próprios olhos para acreditar.
 audio music -
 audio ambient "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3" [fade="1.0" volume="-12.0" loop="true"]
@@ -117,6 +119,7 @@ antonio: Ele desceu as escadas como um demônio enfurecido.
 antonio: Pegou as chaves do bote e cruzou a porta. Eu gritei. Falei que ele ia se matar. Mas aquele moleque simplesmente não escuta.
 Lorenzo engoliu em seco, sentindo a chuva escorrer pelo seu pescoço.
 O mar rugia lá fora, e o navio misterioso esperava na outra encosta.
+audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3"
 Ele tinha uma decisão para tomar.
 - IR AO FAROL VIZINHO E AJUDAR GIORNO
 	jump 3C_Ir_Ao_Farol_Vizinho/
