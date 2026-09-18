@@ -34,13 +34,15 @@ audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/soco.mp3"
 Em um estalo de desespero, Lorenzo girou o corpo e desfechou um soco direto no maxilar de Giorno.
 O garoto cambaleou, o impacto quebrou o feitiço.
 Ele desabou na pedra úmida, piscando os olhos de forma confusa e assustada, levando a mão à boca ensanguentada.
-giorno: Deus... O que... o que está acontecendo?
+giorno: [shake rate=10 level=5] Deus... O que... o que está acontecendo?
 lorenzo: EI! OLHE PARA MIM!
 Lorenzo ajoelhou-se à frente dele, segurando a cabeça do jovem com as duas mãos, forçando-o a encarar seus olhos.
 lorenzo: Não olhe para aquela coisa! Se você olhar para ela, você vai morrer!
 lorenzo: Vamos para o farol agora!
 Os dois se ergueram e dispararam em uma corrida desesperada de volta à torre de pedra.
 Enquanto corriam, Lorenzo olhou de relance para trás, a névoa escura rastejava pelas rochas como garras negras, quase alcançando seus calcanhares.
+audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/batida_forte_porta2.mp3"
+audio "res://Audio/SFX/2_B_Nao_ajudar_barco/metal_door.mp3"
 audio ambient2 -
 Por puro milagre, eles cruzaram o portal do farol e bateram a pesada porta de ferro, passando o ferrolho.
 giorno: DEUS!
@@ -58,7 +60,7 @@ O impacto foi tão violento que a estrutura milenar do farol estremeceu, fazendo
 A montanha de aço enferrujado havia colidido contra o cais de proteção.
 Alguns móveis tombaram, mas o pânico os moveu a continuar empilhando tudo o que tinham contra a porta e as janelas.
 No meio da confusão, Giorno aproximou-se de Lorenzo, com lágrimas genuínas limpando a fuligem de seu rosto.
-giorno: Obrigado, irmão
+giorno: [shake rate=10 level=5] Obrigado, irmão...
 A fala de voz embargada do jovem foi retribuida com um aceno firme de cabeça.
 lorenzo: Eu apenas...
 [wait time="3.0"]
@@ -75,7 +77,7 @@ Giorno, atraído pelo som, moveu-se em direção a uma fresta na janela que aind
 Mas Lorenzo foi mais rápido, travando o pulso do amigo antes que ele pudesse puxar a cortina.
 Lorenzo olhou para ele, e sentiu o estômago revirar.
 Os olhos de Giorno já traziam a mesma expressão vazia e enfeitiçada de antes.
-giorno: Nós... nós devíamos ajud...
+giorno: [shake rate=10 level=5] Nós... nós devíamos ajud...
 O jovem balbuciou em transe.
 audio ambient2 "res://Audio/SFX/1_Intro/ruido-radio.ogg"
 mystery: SCHHHH— ...Por favor, alguém... —HHT!
@@ -92,7 +94,8 @@ audio -
 audio ambient2 -
 O velho berrou, descarregando o peso de suas botas pesadas sobre o rádio antigo.
 Ele pisoteou a carcaça de metal e baquelite repetidas vezes, quebrando os circuitos e esmagando os alto-falantes até que a caixa se tornasse apenas plástico retorcido e silêncio.
-antonio: Esses sons estão consumindo e ludibriando nossa mente! – Antônio arfava, o rosto vermelho.
+antonio: Esses sons estão consumindo e ludibriando nossa mente!
+Antônio arfava, o rosto vermelho.
 antonio: Não escutem nada do que eles dizem!
 audio ambient3 -
 audio ambient4 -
@@ -104,14 +107,14 @@ audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/batida_forte_porta.mp3"
 Até que batidas firmes ecoaram na porta de metal.
 Todos os três travaram, fixando os olhos na madeira barricada.
 Logo em seguida, uma voz feminina, suave e debilitada, flutuou através das frestas.
-mystery: Por favor, eu preciso de ajuda...
-mystery: Estamos feridas e precisamos de roupas quentes para vestir. Vocês podem nos ajudar?
+mystery: [color=red][shake rate=10 level=5] Por favor, eu preciso de ajuda...
+mystery: [color=red][shake rate=10 level=5] Estamos feridas e precisamos de roupas quentes para vestir. Vocês podem nos ajudar?
 Antônio ergueu o dedo indicador até os lábios, exigindo silêncio absoluto.
 Com a outra mão, apontou para o lance de escadas, sinalizando para que Lorenzo e Giorno começassem a subir lentamente, sem fazer barulho.
 O velho começou a recuar, um degrau de cada vez.
-mystery: Somos membros da família real da Itália...
+mystery: [color=red] Somos membros da família real da Itália...
 A voz do lado de fora continuou, mudando o tom.
-mystery: Podemos pagar muito bem pela sua ajuda.
+mystery: [color=red] Podemos pagar muito bem pela sua ajuda.
 audio -
 Um som metálico e rítmico começou a ecoar no chão de pedra.
 Por baixo da fresta inferior da porta barricada, moedas de ouro reluzentes começaram a deslizar para dentro do farol.
