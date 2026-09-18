@@ -1,0 +1,132 @@
+audio ambient "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3"
+[background arg="res://Assets/Intro/test.jpeg" fade="0.0"]
+Suprimindo aquele pavor primal, Lorenzo forçou as pernas a se moverem.
+Ele correu, estraçalhando a barreira invisível e sobrenatural que tentava congelar seus músculos.
+Ele conseguia sentir.
+audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3"
+Havia algo de profundamente errado com aquele navio.
+O medo que corroía sua alma não era humano, era uma manifestação física que pesava no ar.
+A cada passo em direção ao cais, a atmosfera ficava mais densa, como se ele estivesse correndo contra uma correnteza invisível.
+E quanto mais se aproximava do porto, pior ficava. Lorenzo já conseguia ver o casco colossal de perto.
+audio ambient2 "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/rangido_barco.mp3"
+Rangidos metálicos e lamentosos ecoavam da estrutura de ferro, misturando-se ao impacto violento das ondas contra as rochas em uma cacofonia angustiante.
+Sua determinação em salvar Giorno fraquejou.
+O pavor o imobilizou por um microssegundo.
+Lorenzo sentia-se miúdo diante de uma grande fera faminta.
+Aquele território já não pertencia aos homens, mas ao predador.
+Das chaminés mortas do navio, a fumaça escura transformou-se em um nevoeiro espesso e sobrenatural que começou a circundar a ilha inteira, engolindo os arredores e fazendo o imponente farol parecer minúsculo.
+O tempo pareceu parar em uma eternidade de puro terror...
+Até ser estraçalhado por um grito de Antônio lá do alto.
+antonio: RÁPIDO!
+O comando do veterano quebrou o transe.
+Lorenzo recuperou os sentidos e voltou a correr freneticamente pelo cais, fixando os olhos apenas nas pedras sob seus pés, recusando-se a olhar diretamente para a carcaça de ferro.
+Ele avançou até colidir contra o corpo de Giorno. Mas o jovem estava diferente.
+Seus olhos estavam fixos no navio, as pupilas dilatadas e o corpo movendo-se em um ritmo hipnótico e compassivo para a frente, como se estivesse sendo seduzido pelo canto de uma sereia.
+Ele caminhava em direção à monstruosidade.
+lorenzo: Giorno, vamos!
+Lorenzo berrou, enquanto agarrava o braço do amigo e puxava-o na direção contrária.
+Mas Giorno sequer oscilou.
+Ele continuou marchando em direção ao abismo do cais.
+lorenzo: GIORNO! EI!
+Lorenzo o sacudiu pelos ombros com violência, mas nada parecia quebrar o transe.
+lorenzo: EI! ACORDA, SEU MERDA!
+audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/soco.mp3"
+Em um estalo de desespero, Lorenzo girou o corpo e desfechou um soco direto no maxilar de Giorno.
+O garoto cambaleou, o impacto quebrou o feitiço.
+Ele desabou na pedra úmida, piscando os olhos de forma confusa e assustada, levando a mão à boca ensanguentada.
+giorno: Deus... O que... o que está acontecendo?
+lorenzo: EI! OLHE PARA MIM!
+Lorenzo ajoelhou-se à frente dele, segurando a cabeça do jovem com as duas mãos, forçando-o a encarar seus olhos.
+lorenzo: Não olhe para aquela coisa! Se você olhar para ela, você vai morrer!
+lorenzo: Vamos para o farol agora!
+Os dois se ergueram e dispararam em uma corrida desesperada de volta à torre de pedra.
+Enquanto corriam, Lorenzo olhou de relance para trás, a névoa escura rastejava pelas rochas como garras negras, quase alcançando seus calcanhares.
+audio ambient2 -
+Por puro milagre, eles cruzaram o portal do farol e bateram a pesada porta de ferro, passando o ferrolho.
+giorno: DEUS!
+Giorno desabou sentado contra a parede, o peito subindo e descendo em espasmos.
+antonio: Lorenzo! Giorno! Peguem os móveis e as tábuas, rápido!
+Antônio berrou do topo da escada do térreo, sem dar um segundo de trégua para a dupla.
+Eles mal começaram a arrastar os armários quando a ilha inteira foi sacudida.
+[wait time="1.0"]
+audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/estrondo.mp3"
+audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/estrondo2.mp3"
+audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/rangido_barco.mp3"
+[wait time="2.0"]
+Um estrondo colossal vibrou nas fundações de pedra.
+O impacto foi tão violento que a estrutura milenar do farol estremeceu, fazendo poeira e pedaços de reboco caírem do velho teto sobre eles.
+A montanha de aço enferrujado havia colidido contra o cais de proteção.
+Alguns móveis tombaram, mas o pânico os moveu a continuar empilhando tudo o que tinham contra a porta e as janelas.
+No meio da confusão, Giorno aproximou-se de Lorenzo, com lágrimas genuínas limpando a fuligem de seu rosto.
+giorno: Obrigado, irmão
+A fala de voz embargada do jovem foi retribuida com um aceno firme de cabeça.
+lorenzo: Eu apenas...
+[wait time="3.0"]
+audio ambient3 "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/grito_dor2.mp3"
+audio ambient4 "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/grito_dor.mp3"
+audio ambient5 "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/grito_sofrendo.mp3"
+audio ambient6 "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/grito_sofrendo2.mp3"
+mystery: [speed=0][color=red][shake rate=25.0 level=20]AAaaAAAaaaaAaAAaAAaaaaAAAAaaaAAAaAAAAaaa!!!\
+ALGUÉM ME AJUDA!!! POR FAVOR!!! DEUS!!!\
+IIIIiiiihhAAAAAAAAHhhhhhhAAAAAAAhhhhhhhhAAAAAAAAAAAAAAAAAAAAIiaaaaa[/shake][/color]
+Um grito excruciante e sobrenatural cortou o som da tempestade do lado de fora.
+O som parecia rasgar o próprio tecido do ar, era uma agonia que não parecia vir de uma garganta humana.
+Giorno, atraído pelo som, moveu-se em direção a uma fresta na janela que ainda não estava totalmente barricada.
+Mas Lorenzo foi mais rápido, travando o pulso do amigo antes que ele pudesse puxar a cortina.
+Lorenzo olhou para ele, e sentiu o estômago revirar.
+Os olhos de Giorno já traziam a mesma expressão vazia e enfeitiçada de antes.
+giorno: Nós... nós devíamos ajud...
+O jovem balbuciou em transe.
+audio ambient2 "res://Audio/SFX/1_Intro/ruido-radio.ogg"
+mystery: SCHHHH— ...Por favor, alguém... —HHT!
+O garoto sobressaltou-se, piscando como se tivesse acordado de um pesadelo.
+O som vinha de baixo. Vinha de um rádio antigo, quebrado e sem válvulas, que eles haviam jogado na pilha de entulho para bloquear a base da janela.
+O aparelho morto cuspia estática e uma voz trêmula\:
+mystery: [color=red][shake rate=35.0 level=12] ...Estamos feridos e famintos, por favor...
+mystery: [color=red][shake rate=35.0 level=12] ...Misericórdia, em nome de nosso amado De—
+antonio: AAAHHH!
+audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/batida_forte_porta2.mp3"
+Antônio soltou um urro de pura frustração e ódio, saltando dos degraus.
+antonio: DESLIGUEM ESSA MERDA!!
+audio -
+audio ambient2 -
+O velho berrou, descarregando o peso de suas botas pesadas sobre o rádio antigo.
+Ele pisoteou a carcaça de metal e baquelite repetidas vezes, quebrando os circuitos e esmagando os alto-falantes até que a caixa se tornasse apenas plástico retorcido e silêncio.
+antonio: Esses sons estão consumindo e ludibriando nossa mente! – Antônio arfava, o rosto vermelho.
+antonio: Não escutem nada do que eles dizem!
+audio ambient3 -
+audio ambient4 -
+audio ambient5 -
+audio ambient6 -
+Como se respondesse ao aviso do velho, os gritos do lado de fora cessaram abruptamente.
+O silêncio que se seguiu na sala escura do farol tornou-se sufocante.
+audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/batida_forte_porta.mp3"
+Até que batidas firmes ecoaram na porta de metal.
+Todos os três travaram, fixando os olhos na madeira barricada.
+Logo em seguida, uma voz feminina, suave e debilitada, flutuou através das frestas.
+mystery: Por favor, eu preciso de ajuda...
+mystery: Estamos feridas e precisamos de roupas quentes para vestir. Vocês podem nos ajudar?
+Antônio ergueu o dedo indicador até os lábios, exigindo silêncio absoluto.
+Com a outra mão, apontou para o lance de escadas, sinalizando para que Lorenzo e Giorno começassem a subir lentamente, sem fazer barulho.
+O velho começou a recuar, um degrau de cada vez.
+mystery: Somos membros da família real da Itália...
+A voz do lado de fora continuou, mudando o tom.
+mystery: Podemos pagar muito bem pela sua ajuda.
+audio -
+Um som metálico e rítmico começou a ecoar no chão de pedra.
+Por baixo da fresta inferior da porta barricada, moedas de ouro reluzentes começaram a deslizar para dentro do farol.
+Uma por uma.
+Duas, dez, cinquenta...
+O metal dourado brilhava sob a luz fraca das velas, acumulando-se no chão.
+Mais de cem moedas de puro ouro cobriram a pedra úmida.
+Lorenzo observava a cena já do primeiro lance de escadas.
+Seu coração martelava, mas ele mantinha a mente lúcida. Ele sabia que aquelas moedas eram apenas mais uma ilusão profana criadas pela mente daquela criatura de ferro.
+Mas Lorenzo distraiu-se com o brilho por um único segundo. E foi o suficiente para não perceber que o perigo estava ao seu lado.
+Ao desviar o olhar para a lateral, Lorenzo congelou. Giorno já havia descido os primeiros degraus.
+lorenzo: GIORNO!!
+Lorenzo gritou, a voz ecoando pelas paredes de pedra. Giorno não reagiu.
+Seus braços estavam largados ao lado do corpo, os olhos fixos no ouro e os pés movendo-se de forma automática e hipnótica em direção à porta trancada, completamente enfeitiçado pelo tesouro.
+- SEGURAR GIORNO
+	jump 4A_Segurar_Giorno/
+- CORRER E DEIXA-LO IR
+	jump 4B_Correr_deixar_Giorno/
