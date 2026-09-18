@@ -1,6 +1,28 @@
 [gd_scene format=3 uid="uid://duw006ed471gr"]
 
 [ext_resource type="Script" uid="uid://d05v75fx2t7oc" path="res://Script/main.gd" id="1_jjgbg"]
+[ext_resource type="Shader" uid="uid://cr2xkf5vn0eev" path="res://Resource/old_movie.gdshader" id="2_bo1nx"]
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_rm36b"]
+shader = ExtResource("2_bo1nx")
+shader_parameter/sepia_amount = 0.158000007505
+shader_parameter/grain_amount = 0.0800000038
+shader_parameter/flicker_speed = 3.61600017176
+shader_parameter/vignette_intensity = 2.0
+shader_parameter/scratch_amount = 0.00800000038
+shader_parameter/scratch_speed = 8.8430004200425
 
 [node name="Main" type="Node2D" unique_id=704163247]
 script = ExtResource("1_jjgbg")
+
+[node name="CanvasLayer" type="CanvasLayer" parent="." unique_id=983622373]
+layer = 100
+
+[node name="ColorRect" type="ColorRect" parent="CanvasLayer" unique_id=794804675]
+material = SubResource("ShaderMaterial_rm36b")
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
