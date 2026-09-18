@@ -119,4 +119,6 @@ Lorenzo engoliu em seco, sentindo a chuva escorrer pelo seu pescoço.
 O mar rugia lá fora, e o navio misterioso esperava na outra encosta.
 Ele tinha uma decisão para tomar.
 - IR AO FAROL VIZINHO E AJUDAR GIORNO
+	jump 3C_Ir_Ao_Farol_Vizinho/
 - FICAR NO FAROL E NÃO AJUDAR GIORNO
+	jump 3D_Nao_Ir_Ao_Farol_Vizinho/

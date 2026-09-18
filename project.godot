@@ -30,18 +30,28 @@ directories/dch_directory={
 "player": "res://Dialogs/Characters/player.dch"
 }
 directories/dtl_directory={
+"0_Intro": "res://Dialogs/Timelines/0_Intro.dtl",
+"1_Intro2": "res://Dialogs/Timelines/1_Intro2.dtl",
+"2A_Ajudar_Barco": "res://Dialogs/Timelines/2A_Ajudar_Barco.dtl",
+"2B_Nao_Ajudar_Barco": "res://Dialogs/Timelines/2B_Nao_Ajudar_Barco.dtl",
 "3A_Avisar_Giorno": "res://Dialogs/Timelines/3A_Avisar_Giorno.dtl",
-"3A_Deixar_Giorno_Barricar": "res://Dialogs/Timelines/3A_Deixar_Giorno_Barricar.dtl",
-"3B_Ir_ao_farol_vizinho": "res://Dialogs/Timelines/3B_Ir_ao_farol_vizinho.dtl",
-"3b_nao_ir_ao_farol_vizinho": "res://Dialogs/Timelines/3b_nao_ir_ao_farol_vizinho.dtl",
-"4A_Correr_deixar_Giorno": "res://Dialogs/Timelines/4A_Correr_deixar_Giorno.dtl",
+"3B_Deixar_Giorno_Barricar": "res://Dialogs/Timelines/3B_Deixar_Giorno_E_Barricar.dtl",
+"3C_Ir_Ao_Farol_Vizinho": "res://Dialogs/Timelines/3C_Ir_Ao_Farol_Vizinho.dtl",
+"3D_Nao_Ir_Ao_Farol_Vizinho": "res://Dialogs/Timelines/3D_Nao_Ir_Ao_Farol_Vizinho.dtl",
 "4A_Segurar_Giorno": "res://Dialogs/Timelines/4A_Segurar_Giorno.dtl",
-"4B_Abrir_porta": "res://Dialogs/Timelines/4B_Abrir_porta.dtl",
-"4B_Nao_abrir_porta": "res://Dialogs/Timelines/4B_Nao_abrir_porta.dtl",
-"ajudar_barco": "res://Dialogs/Timelines/ajudar_barco.dtl",
-"intro": "res://Dialogs/Timelines/intro.dtl",
-"intro2": "res://Dialogs/Timelines/intro2.dtl",
-"nao_ajudar_barco": "res://Dialogs/Timelines/nao_ajudar_barco.dtl"
+"4B_Correr_deixar_Giorno": "res://Dialogs/Timelines/4B_Correr_deixar_Giorno.dtl",
+"4C_Abrir_porta": "res://Dialogs/Timelines/4C_Abrir_porta.dtl",
+"4D_Chegar_No_Topo": "res://Dialogs/Timelines/4D_Chegar_No_Topo.dtl",
+"4D_Nao_abrir_porta": "res://Dialogs/Timelines/4D_Nao_abrir_porta.dtl",
+"4E1_Acelerar_Para_Continente": "res://Dialogs/Timelines/4E1_Acelerar_Para_Continente.dtl",
+"4E2_Acelerar_Para_Farol": "res://Dialogs/Timelines/4E2_Acelerar_Para_Farol.dtl",
+"4F1_Atacar_Giorno": "res://Dialogs/Timelines/4F1_Atacar_Giorno.dtl",
+"4F2_Fugir_Do_Farol": "res://Dialogs/Timelines/4F2_Fugir_Do_Farol.dtl",
+"5A_Eu_Farei": "res://Dialogs/Timelines/5A_Eu_Farei.dtl",
+"5B_Ficar_Em_Silencio": "res://Dialogs/Timelines/5B_Ficar_Em_Silencio.dtl",
+"5C_Atirar_Na_Criatura": "res://Dialogs/Timelines/5C_Atirar_Na_Criatura.dtl",
+"5D_Remar_Para_Continente": "res://Dialogs/Timelines/5D_Remar_Para_Continente.dtl",
+"5E_Bau_Do_Tesouro": "res://Dialogs/Timelines/5E_Bau_Do_Tesouro.dtl"
 }
 layout/style_directory={
 "": "res://Dialogs/Styles/base_style.tres",
