@@ -1,0 +1,132 @@
+audio ambient "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3" [volume="-12.0" loop="true"]
+Ele não conseguiu.
+Fraquejou.
+audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3" [volume="0.0"]
+Foi um covarde.
+Lorenzo continuou estático diante da porta aberta, a chuva açoitante lavando seu rosto, mas ele era incapaz de dar um único passo em direção àquele monstro de metal.
+Seu estômago revirava e suas pernas pareciam feitas de chumbo. Ele não queria deixar Giorno sozinho contra aquela abominação de ferro, mas o pavor primitivo o ancorava ali.
+Ele simplesmente não conseguia avançar além daquele portal.
+audio ambient "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3" [fade="0.5" volume="-25.0" loop="true" sync="ambient"]
+audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/rangido porta.mp3" [volume="-6.0" sync="ambient"]
+Tomado por uma culpa sufocante, ele puxou a pesada maçaneta e bateu a porta de metal, trancando o ferrolho.
+Em um único movimento, ele negou qualquer esperança de salvação ao jovem Giorno.
+Lorenzo escorou as costas contra a madeira fria e fechou os olhos, desmoronando por dentro.
+lorenzo: [shake rate=10 level=5] Desculpe...
+Pálido e sem forças, suas pernas cederam por completo e ele desabou sentado no chão úmido do térreo.
+audio "res://Audio/SFX/2_A_Ajudar_barco/escada_fade_in.mp3" [volume="-5.0"]
+Ele foi interrompido quase instantaneamente pelo som rítmico e apressado de Antônio descendo as escadas rústicas, carregando um feixe pesado de tábuas de madeira nos ombros.
+O veterano estacou os pés no último degrau.
+audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3" [volume="-10.0"]
+antonio: Mas o que...?
+antonio: Cadê o Giorno?
+Antônio questionou, cravando os olhos no faroleiro caído ao lado da porta.
+lorenzo: [speed=10] [shake rate=20.0 level=5] Eu... Eu... [/shake]
+lorenzo: [speed=5] [shake rate=20.0 level=5] Eu não consegui... [/shake]
+Lorenzo murmurou, encolhendo os ombros e afundando o rosto entre os joelhos, tentando sumir dentro de si mesmo.
+antonio: Como assim não conseguiu?!
+audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3" [volume="-9.0"]
+audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/tabuas_caindo.mp3" [volume="-5.0"]
+Antônio largou as tábuas, que colidiram contra o chão de pedra com um estrondo seco.
+Ele avançou rapidamente, invadindo o espaço de Lorenzo.
+lorenzo: Eu não avisei ele.
+Lorenzo falou, as palavras saindo limpas, despidas de qualquer desculpa.
+antonio: Você fez o quê?!
+Antônio inclinou-se, agarrou o colarinho da jaqueta de Lorenzo com as duas mãos calejadas e o arrancou do chão com uma força brutal.
+audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3" [volume="-5.0"]
+antonio: Por que você não avisou o garoto, seu desgraçado?!
+A raiva cega estava estampada em cada linha do rosto enrugado do velho.
+lorenzo: [shake rate=20.0 level=5] Aquele não é um simples navio...
+Lorenzo justificou, o olhar completamente perdido, encarando o nada.
+antonio:  Eu sei disso! Por isso mesmo eu não queria que vocês baixassem as defesas da ilha!
+antonio: Você escolheu deixar aquela maldita coisa atracar. Você devia ser homem e ter ido buscar o Giorno!
+audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3" [volume="-6.0"]
+lorenzo: [shake rate=30.0 level=5] Eu...
+[wait time="1.0"]
+audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/estrondo.mp3"
+audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/estrondo2.mp3" [volume="-6.0"]
+audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/rangido_barco.mp3" [volume="-10.0"]
+[wait time="2.0"]
+Um estrondo colossal sacudiu as fundações da ilha inteira.
+O impacto foi tão violento que a estrutura milenar do farol estremeceu, fazendo poeira e pedaços de reboco caírem do velho teto de pedra.
+A montanha de aço enferrujado havia colidido contra o cais de proteção.
+Sacudindo a tontura da colisão, Antônio largou o colarinho de Lorenzo e recuperou a postura.
+antonio: Droga! Vamos erguer as barricadas!
+No entanto, Lorenzo continuava apático, os braços largados ao lado do corpo, entregue à própria culpa.
+audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/soco.mp3" [volume="-10.0"]
+O punho fechado de Antônio atingiu o maxilar de Lorenzo com força total.
+O faroleiro cambaleou para o lado, o gosto metálico de sangue invadindo sua boca instantaneamente.
+Ele levou a mão ao rosto, chocado, olhando para o veterano.
+antonio: Você não tem o direito de não lutar pela sua vida.
+Antônio rosnou, olhando friamente para Lorenzo.
+antonio:  Já que você sacrificou o Giorno por ela.
+O velho deu as costas, pegou o martelo e as primeiras tábuas e começou a golpear as janelas com fúria.
+O impacto do soco finalmente quebrou o transe de Lorenzo.
+A descarga de adrenalina limpou sua mente e ele partiu em direção ao outro lado do cômodo, pegando os pregos.
+Trabalhando no limite do desespero, os dois homens cobriram cada fresta de vidro com madeira rústica, lacrando-se no escuro do farol.
+audio ambient - [fade="1.0"]
+Assim que o último prego foi fixado, um silêncio pesado caiu sobre a sala.
+...
+[wait time="3.0"]
+audio ambient3 "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/grito_dor2.mp3" [volume="-7.0" loop="true"]
+audio ambient4 "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/grito_dor.mp3" [volume="-3.0" loop="true"]
+audio ambient5 "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/grito_sofrendo.mp3" [volume="-3.0" loop="true"]
+audio ambient6 "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/grito_sofrendo2.mp3" [volume="-7.0" loop="true"]
+[speed=0][color=red][shake rate=25.0 level=20]AAaaAAAaaaaAaAAaAAaaaaAAAAaaaAAAaAAAAaaa!!!\
+ALGUÉM ME AJUDA!!! POR FAVOR!!! DEUS!!!\
+IIIIiiiihhAAAAAAAAHhhhhhhAAAAAAAhhhhhhhhAAAAAAAAAAAAAAAAAAAAIiaaaaa[/shake][/color]
+E então, rasgando o som da chuva do lado de fora, gritos excruciante ecoaram pelo cais.
+Lorenzo encolheu-se todo contra a parede, cobrindo os ouvidos ao escutar os terríveis gritos de agonia que vinham do lado de fora.
+Os lamentos rastejavam pelas frestas das tábuas, suplicando por ajuda em uma mistura de vozes sobrepostas
+[color=red][shake rate=35.0 level=12] ...Estamos feridos e famintos, por favor...
+[color=red][shake rate=35.0 level=12] ..Misericórdia, em nome de nosso amado Deus...
+[color=red][shake rate=35.0 level=12] “Por favor…”
+Aquelas súplicas excruciantes consumiram o ambiente e a mente de Lorenzo, que sentia a cabeça latejar e mal conseguia se manter em pé.
+Suas pernas tremiam tanto que ele estava prestes a desabar no chão.
+mystery: Ei!
+Uma mão firme agarrou seu ombro.
+Era Antônio, servindo de apoio.
+antonio: Não escute eles. São apenas ilusões criadas pelo barco para fazer você abrir as defesas.
+O toque ríspido do veterano ajudou Lorenzo a recuperar um pouco da lucidez. Ele engoliu em seco, limpando o suor frio da testa.
+antonio: Eu vou subir e tentar pedir ajuda pelo rádio de alguma forma.
+antonio: Você fica aqui e garante que ninguém force essas barricadas.
+audio "res://Audio/SFX/2_A_Ajudar_barco/escada_fade_out.wav" [volume="-5.0"]
+Antônio deu as costas e começou a subir os degraus da escada em espiral, os passos sumindo na escuridão dos andares superiores.
+audio ambient - [fade="1.0"]
+audio ambient2 - [fade="1.0"]
+audio ambient3 - [fade="1.0"]
+audio ambient4 - [fade="1.0"]
+audio ambient5 - [fade="1.0"]
+audio ambient6 - [fade="1.0"]
+audio music "res://Audio/Music/07. Fragmentation.mp3" [fade="2.0" volume="-5.0" loop="true"]
+audio ambient "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/heart.mp3" [volume="6.0" loop="true"]
+Assim que o som de suas botas desapareceu, um silêncio sepulcral atingiu a ilha de pedra.
+Era um vazio absoluto.
+Os lamentos cessaram de um segundo para o outro.
+O som da tempestade também desapareceu.
+No escuro do térreo barricado, Lorenzo conseguia escutar apenas o som descompassado e violento das batidas de seu próprio coração contra as costelas.
+Aquele silêncio súbito parecia ainda pior e mais sufocante do que os lamentos incessantes de antes.
+Lorenzo se aproximou da escada do farol, pronto para subir as escadas em qualquer caso.
+[speed=30] . . . . . . .
+audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/batida_forte_porta.mp3"
+Até que o vazio foi quebrado por uma batida violenta na porta.
+mystery: Deus… Lorenzo!
+mystery: Você está aí?!
+audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/batida_forte_porta2.mp3"
+mystery: Abra a porta!
+A voz de Giorno ecoou do outro lado, esganiçada e trêmula, implorando por socorro.
+giorno: Lorenzo, abre a porta rápido! Tem a porra de um monstro aqui fora!
+As batidas na madeira aumentaram de frequência, tornando-se socos desesperados que faziam os pregos das barricadas rangerem.
+lorenzo: [shake rate=10.0 level=5]Giorno…?
+Lorenzo deu um passo à frente, a voz falhando na garganta.
+lorenzo: Como? Eu... achei que você tinha morrido.
+giorno: Eu também não sei o que está acontecendo!
+Giorno gritou de volta, a voz abafada pelo metal da porta.
+giorno: Eu fui abrir os portões de segurança do cais, mas tudo ficou escuro e nebuloso de repente!
+giorno: Eu só acordei quando o impacto daquele barco gigante sacudiu a ilha inteira!
+audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/batida_forte_porta2.mp3"
+giorno: [shake rate=10.0 level=5] Abre essa porta, Lorenzo!
+giorno: [shake rate=15.0 level=7] O monstro está vindo atrás de mim! Abre logo!
+Giorno suplicou, descarregando toda a sua força contra a entrada.
+Lorenzo, consumido pelo peso esmagador da culpa, via diante de si a oportunidade final de se redimir do erro que cometeu.
+- ABRIR A PORTA
+- NÃO ABRIR A PORTA
