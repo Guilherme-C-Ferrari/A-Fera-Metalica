@@ -13,6 +13,7 @@ config_version=5
 config/name="A-Fera-Metalica"
 run/main_scene="uid://duw006ed471gr"
 config/features=PackedStringArray("4.7", "Forward Plus")
+config/icon="uid://b15mfpe6kup24"
 
 [autoload]
 
