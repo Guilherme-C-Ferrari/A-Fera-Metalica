@@ -1,4 +1,4 @@
-audio ambient "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3"
+audio ambient "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3" [volume="-12.0"]
 [background arg="res://Assets/Intro/test.jpeg" fade="0.0"]
 Suprimindo aquele pavor primal, Lorenzo forçou as pernas a se moverem.
 Ele correu, estraçalhando a barreira invisível e sobrenatural que tentava congelar seus músculos.
@@ -43,6 +43,7 @@ Os dois se ergueram e dispararam em uma corrida desesperada de volta à torre de
 Enquanto corriam, Lorenzo olhou de relance para trás, a névoa escura rastejava pelas rochas como garras negras, quase alcançando seus calcanhares.
 audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/batida_forte_porta2.mp3"
 audio "res://Audio/SFX/2_B_Nao_ajudar_barco/metal_door.mp3"
+audio ambient "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3" [volume="-25.0"]
 audio ambient2 -
 Por puro milagre, eles cruzaram o portal do farol e bateram a pesada porta de ferro, passando o ferrolho.
 giorno: DEUS!
@@ -90,7 +91,7 @@ antonio: AAAHHH!
 audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/batida_forte_porta2.mp3"
 Antônio soltou um urro de pura frustração e ódio, saltando dos degraus.
 antonio: DESLIGUEM ESSA MERDA!!
-audio -
+audio "res://Audio/SFX/1_Intro/golpe_mesa.mp3"
 audio ambient2 -
 O velho berrou, descarregando o peso de suas botas pesadas sobre o rádio antigo.
 Ele pisoteou a carcaça de metal e baquelite repetidas vezes, quebrando os circuitos e esmagando os alto-falantes até que a caixa se tornasse apenas plástico retorcido e silêncio.
