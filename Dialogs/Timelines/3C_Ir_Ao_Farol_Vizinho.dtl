@@ -52,4 +52,4 @@ Ele estava preso no nada.
 - VOLTAR PARA O FAROL DE LORENZO
 	jump 4E2_Acelerar_Para_Farol/
 - ACELELAR PARA O FAROL VIZINHO
-	jump 4E2_Acelerar_Para_Farol/
+	jump 4E1_Acelerar_Para_Continente/
