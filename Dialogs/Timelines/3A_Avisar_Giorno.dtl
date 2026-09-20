@@ -18,6 +18,7 @@ Das chaminés mortas do navio, a fumaça escura transformou-se em um nevoeiro es
 O tempo pareceu parar em uma eternidade de puro terror...
 Até ser estraçalhado por um grito de Antônio lá do alto.
 antonio: RÁPIDO!
+audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3"
 O comando do veterano quebrou o transe.
 Lorenzo recuperou os sentidos e voltou a correr freneticamente pelo cais, fixando os olhos apenas nas pedras sob seus pés, recusando-se a olhar diretamente para a carcaça de ferro.
 Ele avançou até colidir contra o corpo de Giorno. Mas o jovem estava diferente.
@@ -34,6 +35,7 @@ audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/soco.mp3"
 Em um estalo de desespero, Lorenzo girou o corpo e desfechou um soco direto no maxilar de Giorno.
 O garoto cambaleou, o impacto quebrou o feitiço.
 Ele desabou na pedra úmida, piscando os olhos de forma confusa e assustada, levando a mão à boca ensanguentada.
+audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3"
 giorno: [shake rate=10 level=5] Deus... O que... o que está acontecendo?
 lorenzo: EI! OLHE PARA MIM!
 Lorenzo ajoelhou-se à frente dele, segurando a cabeça do jovem com as duas mãos, forçando-o a encarar seus olhos.
@@ -91,10 +93,10 @@ antonio: AAAHHH!
 audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/batida_forte_porta2.mp3"
 Antônio soltou um urro de pura frustração e ódio, saltando dos degraus.
 antonio: DESLIGUEM ESSA MERDA!!
-audio "res://Audio/SFX/1_Intro/golpe_mesa.mp3"
-audio ambient2 -
+audio ambient2 "res://Audio/SFX/3A_Avisar_Giorno/Ground_Impact.mp3"
 O velho berrou, descarregando o peso de suas botas pesadas sobre o rádio antigo.
 Ele pisoteou a carcaça de metal e baquelite repetidas vezes, quebrando os circuitos e esmagando os alto-falantes até que a caixa se tornasse apenas plástico retorcido e silêncio.
+audio ambient2 -
 antonio: Esses sons estão consumindo e ludibriando nossa mente!
 Antônio arfava, o rosto vermelho.
 antonio: Não escutem nada do que eles dizem!
@@ -104,7 +106,7 @@ audio ambient5 -
 audio ambient6 -
 Como se respondesse ao aviso do velho, os gritos do lado de fora cessaram abruptamente.
 O silêncio que se seguiu na sala escura do farol tornou-se sufocante.
-audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/batida_forte_porta.mp3"
+audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/batida_forte_porta.mp3" [volume="0.0"]
 Até que batidas firmes ecoaram na porta de metal.
 Todos os três travaram, fixando os olhos na madeira barricada.
 Logo em seguida, uma voz feminina, suave e debilitada, flutuou através das frestas.
@@ -124,6 +126,7 @@ Duas, dez, cinquenta...
 O metal dourado brilhava sob a luz fraca das velas, acumulando-se no chão.
 Mais de cem moedas de puro ouro cobriram a pedra úmida.
 Lorenzo observava a cena já do primeiro lance de escadas.
+audio ambient3 "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/heart.mp3" [volume="5.0"]
 Seu coração martelava, mas ele mantinha a mente lúcida. Ele sabia que aquelas moedas eram apenas mais uma ilusão profana criadas pela mente daquela criatura de ferro.
 Mas Lorenzo distraiu-se com o brilho por um único segundo. E foi o suficiente para não perceber que o perigo estava ao seu lado.
 Ao desviar o olhar para a lateral, Lorenzo congelou. Giorno já havia descido os primeiros degraus.
