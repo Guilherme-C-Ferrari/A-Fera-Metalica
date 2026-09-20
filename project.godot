@@ -44,15 +44,14 @@ directories/dtl_directory={
 "4C_Abrir_porta": "res://Dialogs/Timelines/4C_Abrir_porta.dtl",
 "4D_Chegar_No_Topo": "res://Dialogs/Timelines/4D_Chegar_No_Topo.dtl",
 "4D_Nao_abrir_porta": "res://Dialogs/Timelines/4D_Nao_abrir_porta.dtl",
-"4E1_Acelerar_Para_Continente": "res://Dialogs/Timelines/4E1_Acelerar_Para_Continente.dtl",
-"4E2_Acelerar_Para_Farol": "res://Dialogs/Timelines/4E2_Acelerar_Para_Farol.dtl",
+"4E1_Acelerar_Para_Farol": "res://Dialogs/Timelines/4E1_Acelerar_Para_Farol.dtl",
+"4E2_Acelerar_Para_Farol_Vizinho": "res://Dialogs/Timelines/4E2_Acelerar_Para_Farol_Vizinho.dtl",
 "4F1_Atacar_Giorno": "res://Dialogs/Timelines/4F1_Atacar_Giorno.dtl",
 "4F2_Fugir_Do_Farol": "res://Dialogs/Timelines/4F2_Fugir_Do_Farol.dtl",
 "5A_Eu_Farei": "res://Dialogs/Timelines/5A_Eu_Farei.dtl",
 "5B_Ficar_Em_Silencio": "res://Dialogs/Timelines/5B_Ficar_Em_Silencio.dtl",
 "5C_Atirar_Na_Criatura": "res://Dialogs/Timelines/5C_Atirar_Na_Criatura.dtl",
-"5D_Remar_Para_Continente": "res://Dialogs/Timelines/5D_Remar_Para_Continente.dtl",
-"5E_Bau_Do_Tesouro": "res://Dialogs/Timelines/5E_Bau_Do_Tesouro.dtl"
+"5D_Remar_Para_Continente": "res://Dialogs/Timelines/5D_Remar_Para_Continente.dtl"
 }
 layout/style_directory={
 "": "res://Dialogs/Styles/base_style.tres",

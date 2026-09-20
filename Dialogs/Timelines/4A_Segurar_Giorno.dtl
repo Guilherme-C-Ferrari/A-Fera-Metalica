@@ -20,6 +20,7 @@ O pânico explodiu no peito de Lorenzo.
 Mas, em meio ao desespero cego, seu corpo lembrou-se do peso frio guardado em sua cintura.
 O revólver antigo de Antônio.
 Suas mãos agiram por puro instinto mecânico, arrancando o ferro oxidado do cós da calça e apontando o cano longo em direção ao vulto que avançava.
+[clear time="1.0" portraits="false" music="false" background="false" positions="false" style="false"]
 - ATIRAR NA CRIATURA
 - ATIRAR NA CRIATURA
 - ATIRAR NA CRIATURA
@@ -79,6 +80,7 @@ O silêncio caiu sobre o topo do farol, quebrado apenas pelo zumbido mecânico d
 Giorno virou o rosto lentamente na direção de Lorenzo, os olhos suplicando por um pingo de sanidade.
 giorno: Lorenzo...
 giorno: Você realmente acredita nessa loucura?
+[clear time="1.0" portraits="false" music="false" background="false" positions="false" style="false"]
 - SIM
 - NÃO
 antonio: De qualquer modo...
@@ -97,6 +99,7 @@ Giorno piscou, os lábios trêmulos e a pele pálida, enquanto Antônio desviava
 O impasse parecia se esticar por horas, até que Giorno engoliu em seco, quebrando o silêncio com um sussurro trêmulo que quase sumiu na tempestade.
 giorno: Quem...
 giorno: Quem vai ser?
+[clear time="1.0" portraits="false" music="false" background="false" positions="false" style="false"]
 - EU FAREI!
 	jump 5A_Eu_Farei/
 - ...

@@ -48,8 +48,8 @@ audio ambient3 - [fade="1.0"]
 O espaço havia se expandido. Os dois faróis haviam se afastado dele ao mesmo tempo, deixando-o isolado no centro exato de um oceano infinito que desafiava as leis da física.
 Com a respiração errática e o coração martelando contra as costelas, o desespero finalmente engoliu Lorenzo.
 Ele estava preso no nada.
-<Empty Text Event>
+[clear time="1.0" portraits="false" music="false" background="false" positions="false" style="false"]
 - VOLTAR PARA O FAROL DE LORENZO
-	jump 4E2_Acelerar_Para_Farol/
+	jump 4E1_Acelerar_Para_Farol/
 - ACELELAR PARA O FAROL VIZINHO
-	jump 4E1_Acelerar_Para_Continente/
+	jump 4E2_Acelerar_Para_Farol_Vizinho/

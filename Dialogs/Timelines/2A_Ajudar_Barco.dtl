@@ -136,6 +136,7 @@ audio ambient2 -
 Mesmo à distância, Lorenzo sentiu seus músculos congelarem e o ar faltar nos pulmões.
 O peso daquela estrutura morta esmagava sua determinação.
 Ele precisava tomar uma decisão fracionada em segundos.
+[clear time="1.0" portraits="false" music="false" background="false" positions="false" style="false"]
 - AVISAR GIORNO
 	jump 3A_Avisar_Giorno/
 - DEIXA GIORNO E BARRICAR AS SAÍDAS

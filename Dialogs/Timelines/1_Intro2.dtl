@@ -150,7 +150,7 @@ antonio: O que acha?
 [background arg="res://Assets/Intro 2/08 - lorenzo.png" fade="0.0"]
 Lorenzo se manteve quieto por alguns segundos, observando a embarcação no horizonte iluminada pelo grande farol.
 O som da chuva colidindo com as grandes vidraças parecem sufocar todos os presentes.
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎
+[clear time="1.0" portraits="false" music="false" background="false" positions="false" style="false"]
 - AJUDAR A EMBARCAÇÃO
  jump 2A_Ajudar_Barco/
 - NÃO AJUDAR A EMBARCAÇÃO

@@ -121,6 +121,7 @@ Lorenzo engoliu em seco, sentindo a chuva escorrer pelo seu pescoço.
 O mar rugia lá fora, e o navio misterioso esperava na outra encosta.
 audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3"
 Ele tinha uma decisão para tomar.
+[clear time="1.0" portraits="false" music="false" background="false" positions="false" style="false"]
 - IR AO FAROL VIZINHO E AJUDAR GIORNO
 	jump 3C_Ir_Ao_Farol_Vizinho/
 - FICAR NO FAROL E NÃO AJUDAR GIORNO

@@ -1,0 +1,26 @@
+Ao alcançar o topo do farol, Lorenzo girou o corpo no próprio eixo e mirou o revólver diretamente para a escuridão das escadas.
+Suas mãos tremiam, o suor frio escorria por sua testa.
+Ao fundo, a voz de Antônio ecoava da central de comunicações, berrando de forma triunfante que o rádio havia funcionado, que ele tinha conseguido pedir ajuda à costa.
+Mas Lorenzo não conseguia ouvir o velho. O som do vento lá fora desapareceu.
+O monstro estava subindo, e o faroleiro focou apenas no vão escuro enquanto sua respiração errática e o pânico silenciavam absolutamente tudo ao seu redor.
+No segundo em que Lorenzo abriu a boca para berrar para Antônio que eles precisavam sair dali imediatamente, algo veloz como um raio puxou sua perna.
+Antes que pudesse emitir um grito, Lorenzo foi arrancado do chão com violência e arrastado escada abaixo.
+Seu corpo colidia contra as paredes de pedra e os degraus de concreto em uma velocidade desumana, despencando centenas de metros de volta ao térreo do farol.
+Durante a queda livre no caracol escuro, os dedos dele travaram no gatilho.
+Sons de tiros ensurdecedores ecoaram em disparos aleatórios pelas paredes da torre.
+Lá no topo, Antônio desligou o rádio em choque, largou tudo e disparou degraus abaixo, seus gritos desesperados chamando pelo nome do amigo sumindo na distância.
+Lorenzo aterrissou brutalmente contra o assoalho de pedra do térreo.
+O impacto quebrou suas costelas e o fez cuspir sangue, mas a adrenalina o manteve consciente.
+Ao abrir os olhos trêmulos sob a tempestade que inundava a entrada, ele deparou-se com a criatura.
+Ela havia mudado.
+Erguia-se colossal sob o portal arrombado, ainda maior do que antes, e enormes tentáculos negros e viscosos brotavam de suas costas, chicoteando o ar e travando Lorenzo contra o chão.
+A abominação inclinou-se sobre ele para desferir o golpe final.
+No entanto, no limiar entre a vida e a morte, Lorenzo percebeu que o cano do revólver de Antônio ainda estava apontado para cima, mirando o centro daquela massa profana.
+Havia uma única e última brecha para agir.
+[clear time="1.0" portraits="false" music="false" background="false" positions="false" style="false"]
+- ATIRAR NA CRIATURA
+	jump 5C_Atirar_Na_Criatura/
+- ATIRAR NA CRIATURA
+	jump 5C_Atirar_Na_Criatura/
+- ATIRAR NA CRIATURA
+	jump 5C_Atirar_Na_Criatura/

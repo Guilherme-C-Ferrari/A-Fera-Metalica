@@ -72,7 +72,7 @@ Era uma grande caixa de madeira escura, entalhada com símbolos complexos e geom
 giorno: [shake rate=10 level=5] Finalmente!!
 giorno: Finalmente eu vou sair dessa espelunca!! Hahaha!
 A voz de Giorno saiu rasgada, uma gargalhada histérica que ecoou pelo teto de pedra enquanto ele avançava sobre o corpo de Antônio.
-giorno:  Seu velho desgraçado...
+giorno: Seu velho desgraçado...
 Giorno ajoelhou-se na poça de água e lama que trazia de fora.
 Ele agarrou os cabelos grisalhos de Antônio com força, puxando a cabeça do veterano para trás.
 giorno: Eu sei que você sempre roubou o meu dinheiro. Você queria me prender aqui nessa merda de farol para sempre!
@@ -103,6 +103,7 @@ O tempo estava se esgotando.
 Se ele continuasse estático ali, assistindo àquela monstruosidade, seria o próximo cadáver no chão do farol.
 Lorenzo precisava agir.
 Agora.
+[clear time="1.0" portraits="false" music="false" background="false" positions="false" style="false"]
 - FUGIR DO FAROL
 	jump 4F1_Atacar_Giorno/
 - ATACAR GIORNO
