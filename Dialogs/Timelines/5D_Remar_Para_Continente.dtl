@@ -1,17 +1,22 @@
 Então Lorenzo começou a remar.
 A cada puxada violenta nos remos de madeira, o milagre acontecia.
 A silhueta escura do continente parecia responder, aproximando-se passo a passo.
-Lorenzo já não sentia os braços, agindo por puro instinto, até que seus olhos cansados avistaram o contorno de uma pequena embarcação de madeira ancorada mais à frente.
- Reunindo o resto de suas forças, ele forçou o ritmo.
-Remou e remou, ignorando a dor nos músculos, até que um solavanco violento sacudiu o bote.
- Ele havia colidido de frente contra o casco daquele navio.
+Lorenzo já não sentia os braços, agindo por puro instinto.
+Até que seus olhos cansados avistaram o contorno de uma pequena embarcação de madeira ancorada mais à frente.
+Reunindo o resto de suas forças, ele forçou o ritmo.
+Remou e remou, ignorando a dor nos músculos.
+audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/estrondo2.mp3"
+Até que um solavanco violento sacudiu o bote.
+Ele havia colidido de frente contra o casco daquele navio.
 O estrondo da batida alertou os marinheiros a bordo.
 Vários homens correram para o convés e, ao avistarem a situação deplorável de Lorenzo, lançaram cordas e o içaram rapidamente para fora da água.
+[clear time="1.0" text="false" portraits="false" background="false" positions="false" style="false"]
+audio ambient "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3" [fade="2.0" volume="-20.0" loop="true"]
 Ainda no convés encharcado, um dos tripulantes jogou um cobertor pesado sobre seus ombros e o conduziu para longe do vento cortante, empurrando-o para dentro da cabine principal.
 Ali, o calor do ambiente e o cheiro de madeira velha o acolheram.
 Um segundo marinheiro aproximou-se, substituindo o pano molhado por um novo cobertor, seco e aquecido.
 lorenzo: [shake rate=20.0 level=20.0]Eu... eu sobrevivi...
- Lorenzo exclamava entre dentes que batiam violentamente, tremendo dos pés à cabeça, ainda sem recuperar a sensibilidade nas mãos e nos pés.
+Lorenzo exclamava entre dentes que batiam violentamente, tremendo dos pés à cabeça, ainda sem recuperar a sensibilidade nas mãos e nos pés.
 O tripulante mais importante aproximou-se a passos calmos, trazendo uma caneca de ferro com café quente.
 Lorenzo segurou o metal com as duas mãos trêmulas e levou o líquido aos lábios.
 Ele nunca tinha tomado um café tão bom em toda a sua vida.
@@ -21,9 +26,9 @@ mystery: O que aconteceu com você, rapaz?
 mystery: O que faz um bote tão pequeno quanto o seu navegando tão longe da costa em uma noite de tempestade como esta?
 Lorenzo tomou mais um gole demorado do café, sentindo o líquido descer aquecendo sua garganta.
 lorenzo: [shake rate=20.0 level=15.0]Eu sou faroleiro aqui da região...
-[shake rate=20.0 level=12.0]Algo muito estranho e terrível está acontecendo naquelas águas.
+lorenzo: [shake rate=20.0 level=12.0]Algo muito estranho e terrível está acontecendo naquelas águas.
 mystery: Estranho? O que de tão bizarro poderia acontecer em uma área remota como esta?
-São os inimigos da Itália? Uma patrulha de guerra?
+mystery: São os inimigos da Itália? Uma patrulha de guerra?
 Lorenzo bebeu mais metade da caneca.
 O frio mortífero que congelava sua alma finalmente desapareceu por completo, substituído por um terno e confortável calor que se espelhava por seus membros.
 Ele olhou para o capitão e balançou a cabeça devagar.
@@ -32,11 +37,12 @@ lorenzo: [shake rate=20.0 level=5.0]É algo muito pior. Um estranho navio sem tr
 Lorenzo tomou mais um gole do café.
 Estava quase acabando.
 Aquele calor reconfortante agora havia se espalhado por cada centímetro de seu corpo, de forma tão intensa que ele já não sentia mais necessidade do cobertor pesado que haviam jogado sobre seus ombros.
-[shake rate=20.0 level=3.0]Ele o empurrou para o lado.
-lorenzo: Eu tentei impedir...
+Ele o empurrou para o lado.
+lorenzo: [shake rate=20.0 level=3.0]Eu tentei impedir...
 Lorenzo continuou, olhando para a tripulação.
 lorenzo: Tentei impedir que aquela maldita embarcação aparecesse no nosso farol.
-Mas o meu colega não me escutou. Ele simplesmente foi atrás deles.
+lorenzo: Mas o meu colega não me escutou. Ele simplesmente foi atrás deles.
+audio music "res://Audio/Music/34. I Just Want to Make You Happy (The Damsel III).mp3" [fade="1.0" volume="-5.0"]
 Lorenzo virou a caneca, terminando o resto do líquido.
 No entanto, no segundo em que o café desceu, o terno calor transformou-se em um incêndio.
 Estava quente demais.
@@ -57,13 +63,18 @@ Suas faces tornaram-se superfícies lisas e disformes de cera antes de pingarem 
 Logo atrás deles, as paredes do barco começaram a entortar e se desmantelar junto com as pessoas.
 O calor infernal sumiu num flash, substituído por um frio avassalador e cortante que congelou instantaneamente a mente de Lorenzo.
 Assim que o barco esperançoso se desmantelou por completo diante de seus olhos, a ilusão desapareceu, revelando sua real e cruel situação.
+audio ambient2 "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3" [fade="5.0" volume="-15.0" loop="true" sync="ambient2"]
+audio ambient "res://Audio/SFX/3C_Ir_Ao_Farol_Vizinho/heavy_waves.mp3" [fade="3.0" volume="-13.0"]
 Lorenzo estava completamente nu, encolhido no fundo de seu pequeno bote.
 A embarcação não estava a caminho da Itália. Havia colidido violentamente contra uma rocha no meio do mar, presa no centro exato de uma grande tempestade.
 Lorenzo estava sofrendo os estágios finais de uma hipotermia severa.
 O calor intenso fora apenas o último e cruel engano de seu sistema nervoso antes da morte por congelamento.
 Agora, com os membros completamente paralisados pelo gelo e sem conseguir se mexer, Lorenzo tentou gritar por ajuda.
- Tentou buscar qualquer fagulha de esperança na escuridão.
+Tentou buscar qualquer fagulha de esperança na escuridão.
+audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3"
 Mas a única resposta que escutava eram os clarões violentos dos relâmpagos e o estrondo ensurdecedor das ondas colidindo contra a rocha.
+audio "res://Audio/SFX/3D_Nao_Ir_Farol/esgasgado.mp3" [volume="-6.0"]
+audio "res://Audio/SFX/3D_Nao_Ir_Farol/engasgado2.mp3"
 Ele continuou suplicando em silêncio enquanto sua garganta atrofiava e se fechava pelo frio, travando qualquer som.
 Seus olhos, pesados e quase colados pelo gelo, lutavam para se manter abertos no meio do breu.
 O mar rugia ao redor da rocha, mas o oceano já não importava mais.
@@ -73,7 +84,7 @@ A imensa silhueta de metal do antigo navio fantasma surgiu na escuridão.
 A carcaça devorada por crostas espessas de ferrugem deslizava silenciosamente pelas águas revoltas, parando bem diante da rocha onde Lorenzo jazia.
 Não havia tripulação.
 Não havia luzes.
- Apenas a presença massiva e profana da embarcação que havia selado o destino de todos eles.
+Apenas a presença massiva e profana da embarcação que havia selado o destino de todos eles.
 Fixando os olhos vítreos naquela montanha de ferro cinzento, a mente de Lorenzo apagou-se por completo.
 Seu coração falhou a última batida, e seu corpo nu congelou na pedra, tornando-se apenas mais uma parte imóvel daquela noite eterna.
 # FINAL

@@ -1,7 +1,265 @@
 [gd_scene format=3 uid="uid://duw006ed471gr"]
 
 [ext_resource type="Script" uid="uid://d05v75fx2t7oc" path="res://Script/main.gd" id="1_jjgbg"]
+[ext_resource type="FontFile" uid="uid://dh8msm5f1lpgb" path="res://Assets/Fonts/caslon-antique.bold.ttf" id="2_8gbba"]
 [ext_resource type="Shader" uid="uid://cr2xkf5vn0eev" path="res://Resource/old_movie.gdshader" id="2_bo1nx"]
+[ext_resource type="Texture2D" uid="uid://crea07avyo3wq" path="res://Assets/Captura de tela 2026-09-20 193633.png" id="2_jjvhh"]
+[ext_resource type="FontFile" uid="uid://bau426rdushkx" path="res://Assets/Fonts/JMH Typewriter-Bold.ttf" id="4_kry3j"]
+[ext_resource type="AudioStream" uid="uid://bnqb7o8ekga1w" path="res://Audio/SFX/ocean_sound.ogg" id="6_21xkr"]
+[ext_resource type="AudioStream" uid="uid://cdntdanjs1qqa" path="res://Audio/Music/leberch-mystery-582617.mp3" id="7_6bp64"]
+
+[sub_resource type="Animation" id="Animation_jjvhh"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("CanvasLayer/Control/Date:modulate")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Color(1, 1, 1, 0)]
+}
+tracks/1/type = "value"
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/path = NodePath("CanvasLayer/Control/Date2:modulate")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Color(1, 1, 1, 0)]
+}
+tracks/2/type = "value"
+tracks/2/imported = false
+tracks/2/enabled = true
+tracks/2/path = NodePath("CanvasLayer/Control/CapturaDeTela20260920193633:modulate")
+tracks/2/interp = 1
+tracks/2/loop_wrap = true
+tracks/2/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Color(1, 1, 1, 0)]
+}
+tracks/3/type = "value"
+tracks/3/imported = false
+tracks/3/enabled = true
+tracks/3/path = NodePath("CanvasLayer/Control/Text:modulate")
+tracks/3/interp = 1
+tracks/3/loop_wrap = true
+tracks/3/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Color(1, 1, 1, 0)]
+}
+tracks/4/type = "value"
+tracks/4/imported = false
+tracks/4/enabled = true
+tracks/4/path = NodePath("CanvasLayer/Control/Text2:modulate")
+tracks/4/interp = 1
+tracks/4/loop_wrap = true
+tracks/4/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Color(1, 1, 1, 0)]
+}
+tracks/5/type = "value"
+tracks/5/imported = false
+tracks/5/enabled = true
+tracks/5/path = NodePath("CanvasLayer/Control/Text3:modulate")
+tracks/5/interp = 1
+tracks/5/loop_wrap = true
+tracks/5/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Color(1, 1, 1, 0)]
+}
+tracks/6/type = "value"
+tracks/6/imported = false
+tracks/6/enabled = true
+tracks/6/path = NodePath("AudioStreamPlayer2D:playing")
+tracks/6/interp = 1
+tracks/6/loop_wrap = true
+tracks/6/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 1,
+"values": [false]
+}
+tracks/7/type = "value"
+tracks/7/imported = false
+tracks/7/enabled = true
+tracks/7/path = NodePath("AudioStreamPlayer2D:volume_db")
+tracks/7/interp = 1
+tracks/7/loop_wrap = true
+tracks/7/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [0.0]
+}
+tracks/8/type = "value"
+tracks/8/imported = false
+tracks/8/enabled = true
+tracks/8/path = NodePath("AudioStreamPlayer2D2:playing")
+tracks/8/interp = 1
+tracks/8/loop_wrap = true
+tracks/8/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 1,
+"values": [false]
+}
+tracks/9/type = "value"
+tracks/9/imported = false
+tracks/9/enabled = true
+tracks/9/path = NodePath("AudioStreamPlayer2D2:volume_db")
+tracks/9/interp = 1
+tracks/9/loop_wrap = true
+tracks/9/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [0.0]
+}
+
+[sub_resource type="Animation" id="Animation_kry3j"]
+resource_name = "intro"
+length = 39.3
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("CanvasLayer/Control/Date:modulate")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(24.646666, 26.579998, 34.93333, 36.6),
+"transitions": PackedFloat32Array(1, 1, 1, 1),
+"update": 0,
+"values": [Color(1, 1, 1, 0), Color(1, 1, 0.8980392, 1), Color(1, 1, 0.8980392, 1), Color(1, 1, 1, 0)]
+}
+tracks/1/type = "value"
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/path = NodePath("CanvasLayer/Control/Date2:modulate")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/keys = {
+"times": PackedFloat32Array(28.446665, 30.679998, 35.69333, 37.366665),
+"transitions": PackedFloat32Array(1, 1, 1, 1),
+"update": 0,
+"values": [Color(1, 1, 1, 0), Color(1, 1, 0.8980392, 1), Color(1, 1, 0.8980392, 1), Color(1, 1, 1, 0)]
+}
+tracks/2/type = "value"
+tracks/2/imported = false
+tracks/2/enabled = true
+tracks/2/path = NodePath("CanvasLayer/Control/CapturaDeTela20260920193633:modulate")
+tracks/2/interp = 1
+tracks/2/loop_wrap = true
+tracks/2/keys = {
+"times": PackedFloat32Array(26.213331, 27.479998, 36.146664, 37.8),
+"transitions": PackedFloat32Array(1, 1, 1, 1),
+"update": 0,
+"values": [Color(1, 1, 1, 0), Color(1, 1, 0.8980392, 1), Color(1, 1, 0.8980392, 1), Color(1, 1, 1, 0)]
+}
+tracks/3/type = "value"
+tracks/3/imported = false
+tracks/3/enabled = true
+tracks/3/path = NodePath("CanvasLayer/Control/Text:modulate")
+tracks/3/interp = 1
+tracks/3/loop_wrap = true
+tracks/3/keys = {
+"times": PackedFloat32Array(3.8999996, 5.9673715, 16.222115, 18.5),
+"transitions": PackedFloat32Array(1, 1, 1, 1),
+"update": 0,
+"values": [Color(1, 1, 1, 0), Color(1, 1, 0.8980392, 1), Color(1, 1, 0.8980392, 1), Color(1, 1, 1, 0)]
+}
+tracks/4/type = "value"
+tracks/4/imported = false
+tracks/4/enabled = true
+tracks/4/path = NodePath("CanvasLayer/Control/Text2:modulate")
+tracks/4/interp = 1
+tracks/4/loop_wrap = true
+tracks/4/keys = {
+"times": PackedFloat32Array(8.666666, 10.502486, 18.80584, 20.8),
+"transitions": PackedFloat32Array(1, 1, 1, 1),
+"update": 0,
+"values": [Color(1, 1, 1, 0), Color(1, 1, 0.8980392, 1), Color(1, 1, 0.8980392, 1), Color(1, 1, 1, 0)]
+}
+tracks/5/type = "value"
+tracks/5/imported = false
+tracks/5/enabled = true
+tracks/5/path = NodePath("CanvasLayer/Control/Text3:modulate")
+tracks/5/interp = 1
+tracks/5/loop_wrap = true
+tracks/5/keys = {
+"times": PackedFloat32Array(12.933332, 14.86611, 20.666666, 22.86347),
+"transitions": PackedFloat32Array(1, 1, 1, 1),
+"update": 0,
+"values": [Color(1, 1, 1, 0), Color(1, 1, 0.8980392, 1), Color(1, 1, 0.8980392, 1), Color(1, 1, 1, 0)]
+}
+tracks/6/type = "value"
+tracks/6/imported = false
+tracks/6/enabled = true
+tracks/6/path = NodePath("AudioStreamPlayer2D:playing")
+tracks/6/interp = 1
+tracks/6/loop_wrap = true
+tracks/6/keys = {
+"times": PackedFloat32Array(0, 39.266666),
+"transitions": PackedFloat32Array(1, 1),
+"update": 1,
+"values": [true, false]
+}
+tracks/7/type = "value"
+tracks/7/imported = false
+tracks/7/enabled = true
+tracks/7/path = NodePath("AudioStreamPlayer2D:volume_db")
+tracks/7/interp = 1
+tracks/7/loop_wrap = true
+tracks/7/keys = {
+"times": PackedFloat32Array(3.4, 4.6266356, 37.4, 39.3),
+"transitions": PackedFloat32Array(1, 1, 1, 1),
+"update": 0,
+"values": [-80.0, 0.0, 0.0, -80.0]
+}
+tracks/8/type = "value"
+tracks/8/imported = false
+tracks/8/enabled = true
+tracks/8/path = NodePath("AudioStreamPlayer2D2:playing")
+tracks/8/interp = 1
+tracks/8/loop_wrap = true
+tracks/8/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 1,
+"values": [true]
+}
+tracks/9/type = "value"
+tracks/9/imported = false
+tracks/9/enabled = true
+tracks/9/path = NodePath("AudioStreamPlayer2D2:volume_db")
+tracks/9/interp = 1
+tracks/9/loop_wrap = true
+tracks/9/keys = {
+"times": PackedFloat32Array(-0.059964657, 1.1666706, 36.733337, 38.633335),
+"transitions": PackedFloat32Array(1, 1, 1, 1),
+"update": 0,
+"values": [-80.0, 0.0, 0.0, -80.0]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_21xkr"]
+_data = {
+&"RESET": SubResource("Animation_jjvhh"),
+&"intro": SubResource("Animation_kry3j")
+}
 
 [sub_resource type="ShaderMaterial" id="ShaderMaterial_rm36b"]
 shader = ExtResource("2_bo1nx")
@@ -12,11 +270,112 @@ shader_parameter/vignette_intensity = 2.0
 shader_parameter/scratch_amount = 0.00800000038
 shader_parameter/scratch_speed = 8.8430004200425
 
-[node name="Main" type="Node2D" unique_id=704163247]
+[node name="Main" type="Node2D" unique_id=704163247 node_paths=PackedStringArray("animationPlayer", "intro_scene")]
 script = ExtResource("1_jjgbg")
+animationPlayer = NodePath("AnimationPlayer")
+intro_scene = NodePath("CanvasLayer/Control")
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="." unique_id=1234970987]
+libraries/ = SubResource("AnimationLibrary_21xkr")
+autoplay = &"intro"
 
 [node name="CanvasLayer" type="CanvasLayer" parent="." unique_id=983622373]
 layer = 100
+
+[node name="Control" type="Control" parent="CanvasLayer" unique_id=1554298750]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="ColorRect" type="ColorRect" parent="CanvasLayer/Control" unique_id=1505186469]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+color = Color(0, 0, 0, 1)
+
+[node name="CapturaDeTela20260920193633" type="Sprite2D" parent="CanvasLayer/Control" unique_id=120244529]
+modulate = Color(1, 1, 1, 0)
+position = Vector2(565, 286)
+scale = Vector2(0.66385365, 0.5402531)
+texture = ExtResource("2_jjvhh")
+
+[node name="Date" type="Label" parent="CanvasLayer/Control" unique_id=241763152]
+modulate = Color(1, 1, 1, 0)
+layout_mode = 1
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -134.0
+offset_top = 157.0
+offset_right = 136.0
+offset_bottom = 290.0
+grow_horizontal = 2
+theme_override_fonts/font = ExtResource("2_8gbba")
+theme_override_font_sizes/font_size = 100
+text = "1 9 0 7"
+
+[node name="Date2" type="Label" parent="CanvasLayer/Control" unique_id=890632047]
+modulate = Color(1, 1, 1, 0)
+layout_mode = 1
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -134.0
+offset_top = 315.0
+offset_right = 136.0
+offset_bottom = 448.0
+grow_horizontal = 2
+theme_override_fonts/font = ExtResource("2_8gbba")
+theme_override_font_sizes/font_size = 100
+text = "I T A L Y"
+
+[node name="Text" type="Label" parent="CanvasLayer/Control" unique_id=322870591]
+modulate = Color(1, 1, 1, 0)
+layout_mode = 1
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -346.0
+offset_top = 266.0
+offset_right = 344.0
+offset_bottom = 393.0
+grow_horizontal = 2
+theme_override_fonts/font = ExtResource("4_kry3j")
+text = "No fundo do oceano, existem milhares de seres ainda não descobertos pela humanidade."
+
+[node name="Text2" type="Label" parent="CanvasLayer/Control" unique_id=2025274063]
+modulate = Color(1, 1, 1, 0)
+layout_mode = 1
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -373.0
+offset_top = 315.0
+offset_right = 371.0
+offset_bottom = 442.0
+grow_horizontal = 2
+theme_override_fonts/font = ExtResource("4_kry3j")
+text = "Ano após ano, essas criaturas emergem de seus abismos para saciar sua fome."
+
+[node name="Text3" type="Label" parent="CanvasLayer/Control" unique_id=1522808122]
+modulate = Color(1, 1, 1, 0)
+layout_mode = 1
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -373.0
+offset_top = 364.0
+offset_right = 371.0
+offset_bottom = 491.0
+grow_horizontal = 2
+theme_override_fonts/font = ExtResource("4_kry3j")
+text = "E ano após ano, milhares de marinheiros são dados como desaparecidos em alto mar."
 
 [node name="ColorRect" type="ColorRect" parent="CanvasLayer" unique_id=794804675]
 material = SubResource("ShaderMaterial_rm36b")
@@ -26,3 +385,9 @@ anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
 mouse_filter = 2
+
+[node name="AudioStreamPlayer2D" type="AudioStreamPlayer2D" parent="." unique_id=408251211]
+stream = ExtResource("6_21xkr")
+
+[node name="AudioStreamPlayer2D2" type="AudioStreamPlayer2D" parent="." unique_id=1225614264]
+stream = ExtResource("7_6bp64")

@@ -25,7 +25,8 @@ Giorno apontava para a rosto de Lorenzo quando é interrompido. 
 mystery: Ei!
 Exclama um senhor de 60 anos que estava do outro lado do topo do farol.
 Ele estava controlando a luz do farol e observando as águas com sua luneta de cobre.
-mystery: Já disse, vocês dois podem ficar aqui por causa do rádio. Mas façam silêncio.
+mystery: Já disse, vocês dois podem ficar aqui por causa do rádio.
+mystery: Mas façam silêncio.
 O topo do farol era o único local da ilha que pegava algum sinal de rádio.
 [background arg="res://Assets/Place_Holder/intro5.png" fade="0.0"]
 lorenzo: Foi mal Antônio…
@@ -49,7 +50,8 @@ Giorno falou orgulhoso e de peito estufado.
 giorno: Vou comprar de volta a loja que roubaram do meu pai. Aqueles porcos desgraçados do governo.
 lorenzo: Hahaha!
 lorenzo: Você vai mesmo virar padeiro? Não é muito a sua cara.
-giorno: Como não? Quando eu cheguei aqui você e o velhote só comiam pão duro igual a um tijolo.
+giorno: Como não?
+giorno: Quando eu cheguei aqui você e o velhote só comiam pão duro igual a um tijolo.
 antonio_and_lorenzo: Hahahahahahah!
 lorenzo: De fato, o Antonio agora consegue até dormir de noite por causa da sua sopa.
 Lorenzo fala enquanto olha para Antônio se recuperando.

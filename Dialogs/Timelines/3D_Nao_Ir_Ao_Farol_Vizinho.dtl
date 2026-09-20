@@ -1,9 +1,14 @@
+audio ambient "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3" [volume="-12.0" loop="true"]
 Lorenzo inclinou o tronco para a frente, o impulso de correr atrás do amigo tensionando seus músculos.
 Mas ele travou.
 Seus olhos se fixaram no rastro de espuma que o bote deixava para trás antes de ser engolido pela escuridão.
-O mar estava revoltado demais; ir atrás dele seria suicídio. Restava apenas torcer para que Giorno estivesse certo, e que voltasse inteiro.
+O mar estava revoltado demais.
+Ir atrás dele seria suicídio. Restava apenas torcer para que Giorno estivesse certo, e que voltasse inteiro.
 lorenzo: Espero que aquele idiota saiba o que está fazendo...
 Lorenzo soltou um suspiro trêmulo, dando as costas para o oceano e forçando o corpo para dentro do farol.
+audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3" [volume="-2.0"]
+audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/rangido porta.mp3"
+audio ambient "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3" [volume="-30.0" loop="true" sync="ambient"]
 Logo atrás dele, Antônio puxou a pesada porta de ferro com força.
 O trinco bateu com um estalo seco, cortando instantaneamente a lufada de vento gélido que inundava o térreo.
 O calor remanescente do ambiente acolheu os dois homens, mas não foi suficiente para dissipar o arrepio na espinha de Lorenzo.
@@ -11,22 +16,30 @@ antonio: Eu sei que fui duro.
 Antônio quebrou o silêncio, sua voz arrastando-se pelas paredes de pedra enquanto ele caminhava até uma poltrona de couro gasta e descascada.
 Ele desabou ali, apoiando as mãos calejadas nos braços do móvel.
 antonio: Mas foi a escolha correta, Lorenzo. O oceano nunca perdoa a ignorância.
-E aquele navio... aquele navio carrega algo que homem nenhum deveria trazer para a terra.
+antonio: E aquele navio... aquele navio carrega algo que homem nenhum deveria trazer para a terra.
+audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3" [volume="-11.0"]
 Lorenzo franziu o cenho, aproximando-se devagar. O olhar do veterano estava perdido, fixo em um ponto invisível no chão.
 antonio: Existe uma história que os velhos marinheiros não gostam de contar.
 O tom de voz caindo para um sussurro que parecia disputar espaço com o barulho lá fora.
+audio music "res://Audio/Music/leberch-mystery-582617.mp3" [fade="2.0" volume="0.0" loop="true"]
 antonio: A história do Lady Isabel.
 antonio: É dela que vem o meu medo. É por causa dela que eu jamais abriria aqueles portões.
 Lorenzo manteve-se estático, ouvindo o relato.
 antonio: Era uma embarcação imponente.
 Continuou o velho, os olhos marejados refletindo a luz fraca da sala.
 antonio: Mas sucumbiu no meio do mar.
-antonio: Não foi uma tempestade, nem piratas. Foi uma doença.
+antonio: Não foi uma tempestade, nem piratas.
+antonio: [speed=15]. . .
+antonio:  Foi uma doença.
 antonio: Uma maldição que parecia se espalhar pelo próprio ar que respiravam.
 antonio: Uma mazela antiga, podre, que corrompia a carne e arrancava a alma em poucos dias.
-antonio: Metade da tripulação já era cadáver quando eles avistaram a última fagulha de esperança no horizonte\: este farol.
+antonio: Metade da tripulação já era cadáver quando eles avistaram a última fagulha de esperança no horizonte.
+antonio: Este farol...
 antonio: Se agarrando à promessa de salvação que Deus parecia ter enviado, Jack, o capitão, ordenou que os marujos sobreviventes guiassem aquela casca de ferro agonizante em direção à luz.
+audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3" [volume="-10.0"]
+audio ambient "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3" [volume="-23.0" loop="true"]
 Enquanto Antônio falava, a chuva do lado de fora intensificou-se abruptamente, transformando-se em um dilúvio violento.
+audio "res://Audio/SFX/3D_Nao_Ir_Farol/janela_vibrando.mp3" [volume="-8.0"]
 Rajadas de vento brutais golpearam a estrutura de pedra, fazendo as pesadas portas e janelas do farol vibrarem com um rangido sinistro.
 antonio: No entanto...
 A voz de Antônio tremeu, acompanhando o ritmo da tempestade.
@@ -35,22 +48,31 @@ antonio: Para proteger a costa, eles esmagaram a vontade de viver daqueles homen
 antonio: A pequena fagulha se apagou.
 antonio: A luz do farol foi desligada, deixando os moribundos completamente às escuras, cercados apenas pelo som do mar faminto.
 Antônio soltou um riso anasalado, mas não havia alegria ali. Era um som seco, sem vida.
+audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3" [volume="-8.0"]
 antonio: O capitão enlouqueceu no escuro.
 antonio: Dizem que ele começou a gargalhar, uma risada histérica que logo se transformou em berros de pura agonia.
 antonio: Ele amaldiçoou este farol e cada homem que pisasse aqui, enquanto o Lady Isabel, devastado pela peste, perdia-se para sempre na imensidão negra do oceano.
 antonio: Os gritos de ódio e as maldições daquela tripulação moribunda eram tão altos, Lorenzo...
+audio "res://Audio/SFX/3D_Nao_Ir_Farol/vento2.mp3" [volume="-8.0"]
 antonio: Tão insuportavelmente altos...
 antonio: Que podiam ser ouvidos ecoando por entre estas paredes...
 antonio: Exatamente como agora...
 O vento uivou tão forte do lado de fora que pareceu um grito humano.
 Lorenzo deu um passo para trás, sentindo o estômago revirar.
+[wait time="1.0"]
 Algo na fisionomia de Antônio tinha mudado.
+audio music "res://Audio/Music/09. Is To Be Nothing.mp3" [fade="2.0" volume="-7.0" loop="true" sync="music"]
 lorenzo: [shake rate=10 level=5] Antônio...?
 O velho não respondeu.
 Sua cabeça pendeu levemente para o lado.
 Uma linha espessa e escura de sangue começou a brotar do canto dos seus olhos arregalados, escorrendo como lágrimas negras pelas bochechas enrugadas.
-[shake rate=10 level=10]Antônio!!
+lorenzo: [shake rate=10 level=10]Antônio!!
+audio "res://Audio/SFX/3D_Nao_Ir_Farol/objetos caindo.mp3" [volume="-10.0"]
+audio "res://Audio/SFX/3D_Nao_Ir_Farol/body_fall.mp3" [volume="6.0"]
 Antes que pudesse alcançá-lo, o corpo do marinheiro veterano tencionou-se por completo e desabou da poltrona, colidindo pesadamente contra o chão de pedra áspero do farol.
+audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/estrondo.mp3" [volume="-5.0"]
+audio ambient "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3" [volume="-17.0" loop="true"]
+audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3"
 Durante o avanço de Lorenzo a grande porta de metal que selava o cômodo do farol foi aberta abruptamente.
 O vento furioso da tempestade invadiu o cômodo instantaneamente, trazendo consigo uma cortina de chuva gelada que apagou metade das velas da sala.
 Sua silhueta recortada contra os flashes dos raios no céu negro, uma figura erguia-se de forma imponente e estática sob o portal.
@@ -59,6 +81,7 @@ Suas roupas estavam encharcadas, grudadas ao corpo e rasgadas em farrapos, como 
 Por um microssegundo, o coração de Lorenzo saltou no peito, o amigo tinha sobrevivido ao mar.
 Mas o alívio morreu antes mesmo que ele pudesse pronunciar o nome do jovem.
 Lorenzo deu dois passos para trás, os olhos arregalados de puro pavor.
+audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3" [volume="-7.0"]
 Sob a luz intermitente dos relâmpagos, o rosto de Giorno revelava o mesmo horror que acabara de abater Antônio.
 Duas trilhas grossas e contínuas de sangue escuro brotavam de seus olhos, escorrendo como lágrimas malditas pelo queixo e gotejando no chão.
 Mas não parava ali.
@@ -77,18 +100,24 @@ Giorno ajoelhou-se na poça de água e lama que trazia de fora.
 Ele agarrou os cabelos grisalhos de Antônio com força, puxando a cabeça do veterano para trás.
 giorno: Eu sei que você sempre roubou o meu dinheiro. Você queria me prender aqui nessa merda de farol para sempre!
 Antônio, lutando para manter a consciência no limiar da morte, arregalou os olhos.
+audio "res://Audio/SFX/3D_Nao_Ir_Farol/engasgado2.mp3" [volume="0.0"]
 Seus lábios moveram-se, tentando suplicar por ajuda, mas a garganta inundada de sangue não permitia que nenhum som saísse além de borbulhas e grunhidos abafados de sufocamento.
 Em um último lampejo de desespero, a mão trêmula do velho esticou-se e agarrou o tornozelo de Giorno.
 O garoto olhou para baixo.
 Seus olhos injetados de sangue cravaram-se nos dedos calejados do marinheiro.
 giorno: Você quer o meu tesouro de novo, não é?
 giorno: Quer tirar ele de mim?!
+audio "res://Audio/SFX/3D_Nao_Ir_Farol/flesh_impact.mp3" [volume="-3.0"]
 Com um movimento brutal, Giorno levantou a bota encharcada e a desceu com força total sobre os dedos de Antônio, esmagando a carne e os ossos contra o chão de pedra áspero.
+audio "res://Audio/SFX/3D_Nao_Ir_Farol/man_pain.mp3"
 O velho arqueou as costas, soltando um grunhido mudo de agonia.
 Mas Giorno não parou.
 Ele continuou a pisar, golpe após golpe, quebrando cada articulação daquela mão.
 Tomado por uma fúria desumana, e com as manchas purpúreas espalhando-se ainda mais rápido por seu pescoço, Giorno largou o baú e saltou sobre o peito de Antônio.
+audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3"
+audio "res://Audio/SFX/3D_Nao_Ir_Farol/crazy_scream.mp3" [volume="-6.0"]
 Montado sobre o veterano, ele começou a desferir socos pesados e rítmicos contra o rosto do homem.
+audio "res://Audio/SFX/3D_Nao_Ir_Farol/pain.mp3" [volume="-5.0"]
 A carne de Antônio rasgava-se a cada impacto.
 O sangue que espirrava de sua boca e de seus olhos misturava-se à chuva, tornando o assoalho um mar vermelho.
 Em poucos segundos, os traços humanos de Antônio desapareceram sob os nós dos dedos implacáveis de Giorno.
@@ -99,6 +128,7 @@ Foi quando ele sentiu algo quente e espesso escorrer por suas próprias bochecha
 Lorenzo levou os dedos trêmulos ao rosto.
 Ao olhar para as pontas dos dedos sob a luz de um relâmpago, o horror se completou\: lágrimas de sangue também banhavam sua pele.
 A maldição do Lady Isabel já o havia alcançado.
+audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3"
 O tempo estava se esgotando.
 Se ele continuasse estático ali, assistindo àquela monstruosidade, seria o próximo cadáver no chão do farol.
 Lorenzo precisava agir.

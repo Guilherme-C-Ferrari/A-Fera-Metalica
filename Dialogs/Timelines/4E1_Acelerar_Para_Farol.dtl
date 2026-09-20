@@ -1,4 +1,7 @@
-Lorenzo forçou o peso do corpo sobre a haste de metal na popa do bote, esterçando o motor a carvão para mudar o rumo em direção ao seu próprio farol.
+audio ambient2 "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3" [fade="5.0" volume="-20.0" loop="true" sync="ambient2"]
+audio ambient "res://Audio/SFX/3C_Ir_Ao_Farol_Vizinho/heavy_waves.mp3" [fade="3.0" volume="-10.0"]
+audio ambient3 "res://Audio/SFX/3C_Ir_Ao_Farol_Vizinho/motor_barco.mp3" [fade="2.0" loop="true"]
+Lorenzo forçou o peso do corpo sobre a haste de metal na popa do bote, torcendo o motor a carvão para mudar o rumo em direção ao seu próprio farol.
 Ele fixou os olhos na luz familiar da torre, mas o terror gelou seu sangue.
 A estrutura rastejava para trás no horizonte, tornando-se menor a cada segundo.
 O espaço entre eles parecia esticar-se como uma borracha maldita.
@@ -6,6 +9,7 @@ Percebendo que lutar contra aquela distorção era inútil, Lorenzo empurrou a h
 O pequeno motor na traseira rugiu alto, queimando o carvão na caldeira ao seu lado, mas o mesmo fenômeno macabro repetiu-se.
 A torre gêmea recuou na escuridão, zombando de seus esforços. Ele avançava com a pressão máxima para, no fim, afastar-se de tudo.
 O pânico sufocou sua garganta.
+audio ambient3 - [fade="4.0" loop="true"]
 E então, para selar o seu destino de vez, o calor da pequena fornalha ao seu lado diminuiu abruptamente.
 A haste de metal em sua mão tremeu quando o motor tossiu, engasgou com a fuligem e apagou por completo.
 O silêncio que caiu sobre o Mediterrâneo foi instantâneo e avassalador, quebrado apenas pelo chicotear da chuva e pelo barulho das ondas colidindo contra o casco inerte.

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dwo02kpns86f"
+path="res://.godot/imported/objetos caindo.mp3-6f2bbdd6fed4bfd857499c21425eec9d.mp3str"
+
+[deps]
+
+source_file="res://Audio/SFX/3D_Nao_Ir_Farol/objetos caindo.mp3"
+dest_files=["res://.godot/imported/objetos caindo.mp3-6f2bbdd6fed4bfd857499c21425eec9d.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

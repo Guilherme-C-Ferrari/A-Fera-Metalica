@@ -45,7 +45,8 @@ audio music "res://Audio/Music/05. The World-Ender.mp3" [fade="0.0" volume="-7.0
 A torre gêmea também havia recuado na mesma proporção, tornando-se apenas um ponto cintilante e distante na imensidão vazia.
 audio ambient - [fade="1.0"]
 audio ambient3 - [fade="1.0"]
-O espaço havia se expandido. Os dois faróis haviam se afastado dele ao mesmo tempo, deixando-o isolado no centro exato de um oceano infinito que desafiava as leis da física.
+O espaço havia se expandido.
+Os dois faróis haviam se afastado dele ao mesmo tempo, deixando-o isolado no centro exato de um oceano infinito que desafiava as leis da física.
 Com a respiração errática e o coração martelando contra as costelas, o desespero finalmente engoliu Lorenzo.
 Ele estava preso no nada.
 [clear time="1.0" portraits="false" music="false" background="false" positions="false" style="false"]

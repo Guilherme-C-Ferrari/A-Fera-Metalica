@@ -33,7 +33,9 @@ script = ExtResource("2_16vra")
 scene = ExtResource("6_pm126")
 overrides = {
 "bold_font": "\"res://Assets/Fonts/JMH Typewriter.ttf\"",
+"box_color_use_global": "false",
 "name_label_alignment": "1",
+"name_label_box_panel": "\"res://Dialogs/Styles/textureBox.tres\"",
 "name_label_custom_font_size": "40.0",
 "name_label_font": "\"res://Assets/Fonts/Punk Typewriter.ttf\"",
 "name_label_use_global_font": "false",

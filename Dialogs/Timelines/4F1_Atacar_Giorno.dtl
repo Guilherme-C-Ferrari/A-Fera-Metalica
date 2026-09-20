@@ -1,8 +1,15 @@
+audio ambient "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3" [fade="1.0" volume="-27.0" loop="true"]
 Tomado por um instinto selvagem de sobrevivência, Lorenzo ataca Giorno.
 label After_attack
+audio ambient "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3" [fade="1.0" volume="-27.0" loop="true"]
+audio music "res://Audio/Music/09. Is To Be Nothing.mp3" [fade="2.0" volume="-10.0" loop="true"]
+audio "res://Audio/SFX/3D_Nao_Ir_Farol/body_fall.mp3"
 Os dois homens colidiram no chão do farol em uma troca de golpes desajeitada e violenta.
 Lorenzo lutou com o que restava de suas forças até que, com um empurrão desesperado, fez Giorno desabar de costas.
-Lorenzo lutou com o que restava de suas forças até que, com um empurrão desesperado, fez Giorno desabar de costas.
+O jovem estava desfigurado, a pele tomada por crostas negras e o rosto lavado em vermelho.
+audio "res://Audio/SFX/3D_Nao_Ir_Farol/esgasgado.mp3" [volume="-5.0"]
+audio "res://Audio/SFX/3D_Nao_Ir_Farol/engasgado2.mp3"
+Giorno esticou as mãos para o teto, balbuciando súplicas desesperadas.
 giorno: [shake]Meu... Teso... Favo...
 Mas as palavras logo se afogaram.
 O sangue inundou sua traqueia, transformando seus gritos em rugidos sufocados e bolhas escarlates até que ele parou de respirar.
@@ -22,10 +29,10 @@ Lorenzo nem sequer olhou para trás.
 Ele não dava a mínima para o garoto que morreria em minutos.
 Seu foco era apenas um.
 lorenzo: [shake rate=20.0 level=10.0]O QUE TEM DENTRO DA CAIXA?
+audio ambient "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3" [volume="-15.0" loop="true" sync="ambient"]
 Lorenzo desvencilhou-se do aperto, agarrou o baú contra o peito e marchou para fora do farol, invadindo a fúria da tempestade noturna.
 O vento uivou contra seu rosto enquanto ele jogava a caixa na pedra molhada e se ajoelhava diante dela.
 [clear time="1.0" portraits="false" music="false" background="false" positions="false" style="false"]
-- RESISTIR
 - ABRIR O TESOURO
 - RESISTIR
 - RESISTIR
@@ -54,9 +61,11 @@ O sangue acumulado em sua garganta obstruía completamente suas vias respiratór
 Ele estava sufocando.
 Mas Lorenzo não podia se importar menos.
 Abandonando qualquer lógica, ele avançou contra o baú como um animal raivoso.
+audio "res://Audio/SFX/3D_Nao_Ir_Farol/arranhar.mp3"
 Começou a arranhar a madeira com o que havia restado de suas mãos.
 Com as pontas dos dedos desfeitas, as unhas que ainda restavam foram arrancadas uma a uma pelo atrito, até que a única coisa que raspava contra o tesouro era o osso exposto e branco de seus dedos, emitindo um som agudo de agonia.
 Vendo que as mãos não funcionavam, Lorenzo abriu a boca encharcada de sangue e cravou os dentes na quina da caixa, mordendo a madeira com toda a força de sua mandíbula.
+audio "res://Audio/SFX/3D_Nao_Ir_Farol/crack_flesh.mp3" [volume="-5.0"]
 Um estrondo ecoou na tempestade.
 Não era o baú.
 Eram os dentes de Lorenzo se despedaçando em sua boca.
@@ -66,5 +75,5 @@ Sua visão começou a falhar, apagando as bordas do mundo em um borrão escuro.
 Seus ouvidos já não captavam o som do mar, apenas o eco distante e abafado dos trovões.
 A luz de sua mente estava se esvaindo passo a passo para a escuridão.
 Mas enquanto a morte o abraçava na costa isolada da Itália, Lorenzo teve um último e definitivo pensamento.
-lorenzo: [shake rate=20.0 level=15.0]Só preciso conseguir abrir... e tudo vai ficar bem.
+lorenzo: [shake rate=15.0 level=5.0]Só preciso conseguir abrir... e tudo vai ficar bem...
 # FINAL
