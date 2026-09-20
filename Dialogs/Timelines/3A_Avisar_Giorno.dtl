@@ -1,4 +1,4 @@
-audio ambient "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3"
+audio ambient "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3" [volume="-12.0"]
 [background arg="res://Assets/Intro/test.jpeg" fade="0.0"]
 Suprimindo aquele pavor primal, Lorenzo forçou as pernas a se moverem.
 Ele correu, estraçalhando a barreira invisível e sobrenatural que tentava congelar seus músculos.
@@ -43,6 +43,7 @@ Os dois se ergueram e dispararam em uma corrida desesperada de volta à torre de
 Enquanto corriam, Lorenzo olhou de relance para trás, a névoa escura rastejava pelas rochas como garras negras, quase alcançando seus calcanhares.
 audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/batida_forte_porta2.mp3"
 audio "res://Audio/SFX/2_B_Nao_ajudar_barco/metal_door.mp3"
+audio ambient "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3" [volume="-25.0"]
 audio ambient2 -
 Por puro milagre, eles cruzaram o portal do farol e bateram a pesada porta de ferro, passando o ferrolho.
 giorno: DEUS!
@@ -64,10 +65,10 @@ giorno: [shake rate=10 level=5] Obrigado, irmão...
 A fala de voz embargada do jovem foi retribuida com um aceno firme de cabeça.
 lorenzo: Eu apenas...
 [wait time="3.0"]
-audio ambient3 "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/grito_dor2.mp3"
-audio ambient4 "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/grito_dor.mp3"
-audio ambient5 "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/grito_sofrendo.mp3"
-audio ambient6 "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/grito_sofrendo2.mp3"
+audio ambient3 "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/grito_dor2.mp3" [volume="-20.0"]
+audio ambient4 "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/grito_dor.mp3" [volume="-20.0" bus=""]
+audio ambient5 "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/grito_sofrendo.mp3" [volume="-20.0"]
+audio ambient6 "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/grito_sofrendo2.mp3" [volume="-20.0"]
 mystery: [speed=0][color=red][shake rate=25.0 level=20]AAaaAAAaaaaAaAAaAAaaaaAAAAaaaAAAaAAAAaaa!!!\
 ALGUÉM ME AJUDA!!! POR FAVOR!!! DEUS!!!\
 IIIIiiiihhAAAAAAAAHhhhhhhAAAAAAAhhhhhhhhAAAAAAAAAAAAAAAAAAAAIiaaaaa[/shake][/color]
@@ -79,7 +80,7 @@ Lorenzo olhou para ele, e sentiu o estômago revirar.
 Os olhos de Giorno já traziam a mesma expressão vazia e enfeitiçada de antes.
 giorno: [shake rate=10 level=5] Nós... nós devíamos ajud...
 O jovem balbuciou em transe.
-audio ambient2 "res://Audio/SFX/1_Intro/ruido-radio.ogg"
+audio ambient2 "res://Audio/SFX/1_Intro/ruido-radio.ogg" [volume="2.0"]
 mystery: SCHHHH— ...Por favor, alguém... —HHT!
 O garoto sobressaltou-se, piscando como se tivesse acordado de um pesadelo.
 O som vinha de baixo. Vinha de um rádio antigo, quebrado e sem válvulas, que eles haviam jogado na pilha de entulho para bloquear a base da janela.
@@ -90,7 +91,7 @@ antonio: AAAHHH!
 audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/batida_forte_porta2.mp3"
 Antônio soltou um urro de pura frustração e ódio, saltando dos degraus.
 antonio: DESLIGUEM ESSA MERDA!!
-audio -
+audio "res://Audio/SFX/1_Intro/golpe_mesa.mp3"
 audio ambient2 -
 O velho berrou, descarregando o peso de suas botas pesadas sobre o rádio antigo.
 Ele pisoteou a carcaça de metal e baquelite repetidas vezes, quebrando os circuitos e esmagando os alto-falantes até que a caixa se tornasse apenas plástico retorcido e silêncio.
@@ -115,7 +116,7 @@ O velho começou a recuar, um degrau de cada vez.
 mystery: [color=red] Somos membros da família real da Itália...
 A voz do lado de fora continuou, mudando o tom.
 mystery: [color=red] Podemos pagar muito bem pela sua ajuda.
-audio -
+audio "res://Audio/SFX/3A_Avisar_Giorno/Coin_Slide.mp3"
 Um som metálico e rítmico começou a ecoar no chão de pedra.
 Por baixo da fresta inferior da porta barricada, moedas de ouro reluzentes começaram a deslizar para dentro do farol.
 Uma por uma.
@@ -129,6 +130,7 @@ Ao desviar o olhar para a lateral, Lorenzo congelou. Giorno já havia descido os
 lorenzo: GIORNO!!
 Lorenzo gritou, a voz ecoando pelas paredes de pedra. Giorno não reagiu.
 Seus braços estavam largados ao lado do corpo, os olhos fixos no ouro e os pés movendo-se de forma automática e hipnótica em direção à porta trancada, completamente enfeitiçado pelo tesouro.
+[clear time="1.0" portraits="false" music="false" background="false" positions="false" style="false"]
 - SEGURAR GIORNO
 	jump 4A_Segurar_Giorno/
 - CORRER E DEIXA-LO IR

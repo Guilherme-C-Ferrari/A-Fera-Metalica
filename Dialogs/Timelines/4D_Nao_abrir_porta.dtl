@@ -1,0 +1,44 @@
+Não.
+Aquilo não era real.
+giorno: [shake rate=10 level=5] Lorenzo! Por favor… abre essa maldita… porta!
+A voz falhava em meio a um soluço desesperado.
+Não tinha como Giorno estar vivo por tanto tempo com uma abominação daquelas solta na ilha.
+A lógica fria sobrevivia no meio do pânico.
+giorno: [shake rate=10 level=5] Você vai me abandonar de novo?
+Apesar da culpa avassaladora que tentava estraçalhar a mente de Lorenzo, a razão falou mais alto, aquilo era apenas uma artimanha cruel da carcaça de ferro.
+Ele deu o primeiro passo para trás, tateando a escuridão, até sentir o concreto do primeiro degrau da escada espiral contra o calcanhar.
+Aquilo não é real.
+Como se a presença do lado de fora percebesse a determinação inabalável de Lorenzo, o teatro acabou.
+audio -
+A grande porta de ferro do farol se rompeu ao meio com um estrondo ensurdecedor.
+Os fragmentos maciços das tábuas da barricada foram arremessados para longe, estraçalhando-se contra as paredes de pedra.
+Do outro lado do vão destruído, sob a cortina de chuva, revelou-se a silhueta esguia e desumana.
+A coisa encarou Lorenzo em um silêncio absoluto.
+A tempestade rugiu ainda mais forte do lado de fora, lavando o térreo, ao passo que a silhueta começou a avançar para dentro do farol a passos lentos e calculados.
+Lorenzo não esperou.
+Vendo a aproximação daquela criatura terrível, ele girou o corpo e disparou escada acima em direção ao topo da torre, subindo os degraus em um ritmo desesperado.
+Ao alcançar o topo do farol, Lorenzo girou o corpo no próprio eixo e mirou o revólver diretamente para a escuridão das escadas.
+Suas mãos tremiam, o suor frio escorria por sua testa.
+Ao fundo, a voz de Antônio ecoava da central de comunicações, berrando de forma triunfante que o rádio havia funcionado, que ele tinha conseguido pedir ajuda à costa.
+Mas Lorenzo não conseguia ouvir o velho. O som do vento lá fora desapareceu.
+O monstro estava subindo, e o faroleiro focou apenas no vão escuro enquanto sua respiração errática e o pânico silenciavam absolutamente tudo ao seu redor.
+No segundo em que Lorenzo abriu a boca para berrar para Antônio que eles precisavam sair dali imediatamente, algo veloz como um raio puxou sua perna.
+Antes que pudesse emitir um grito, Lorenzo foi arrancado do chão com violência e arrastado escada abaixo.
+Seu corpo colidia contra as paredes de pedra e os degraus de concreto em uma velocidade desumana, despencando centenas de metros de volta ao térreo do farol.
+Durante a queda livre no caracol escuro, os dedos dele travaram no gatilho.
+Sons de tiros ensurdecedores ecoaram em disparos aleatórios pelas paredes da torre.
+Lá no topo, Antônio desligou o rádio em choque, largou tudo e disparou degraus abaixo, seus gritos desesperados chamando pelo nome do amigo sumindo na distância.
+Lorenzo aterrissou brutalmente contra o assoalho de pedra do térreo.
+O impacto quebrou suas costelas e o fez cuspir sangue, mas a adrenalina o manteve consciente.
+Ao abrir os olhos trêmulos sob a tempestade que inundava a entrada, ele deparou-se com a criatura.
+Ela havia mudado.
+Erguia-se colossal sob o portal arrombado, ainda maior do que antes, e enormes tentáculos negros e viscosos brotavam de suas costas, chicoteando o ar e travando Lorenzo contra o chão.
+A abominação inclinou-se sobre ele para desferir o golpe final.
+No entanto, no limiar entre a vida e a morte, Lorenzo percebeu que o cano do revólver de Antônio ainda estava apontado para cima, mirando o centro daquela massa profana.
+Havia uma única e última brecha para agir.
+- ATIRAR NA CRIATURA
+	jump 5C_Atirar_Na_Criatura/
+- ATIRAR NA CRIATURA
+	jump 5C_Atirar_Na_Criatura/
+- ATIRAR NA CRIATURA
+	jump 5C_Atirar_Na_Criatura/

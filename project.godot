@@ -36,7 +36,7 @@ directories/dtl_directory={
 "2A_Ajudar_Barco": "res://Dialogs/Timelines/2A_Ajudar_Barco.dtl",
 "2B_Nao_Ajudar_Barco": "res://Dialogs/Timelines/2B_Nao_Ajudar_Barco.dtl",
 "3A_Avisar_Giorno": "res://Dialogs/Timelines/3A_Avisar_Giorno.dtl",
-"3B_Deixar_Giorno_Barricar": "res://Dialogs/Timelines/3B_Deixar_Giorno_E_Barricar.dtl",
+"3B_Deixar_Giorno_E_Barricar": "res://Dialogs/Timelines/3B_Deixar_Giorno_E_Barricar.dtl",
 "3C_Ir_Ao_Farol_Vizinho": "res://Dialogs/Timelines/3C_Ir_Ao_Farol_Vizinho.dtl",
 "3D_Nao_Ir_Ao_Farol_Vizinho": "res://Dialogs/Timelines/3D_Nao_Ir_Ao_Farol_Vizinho.dtl",
 "4A_Segurar_Giorno": "res://Dialogs/Timelines/4A_Segurar_Giorno.dtl",
