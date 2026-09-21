@@ -1,8 +1,8 @@
 audio ambient "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3" [volume="-12.0" loop="true"]
-Lorenzo inclinou o tronco para a frente, o impulso de correr atrás do amigo, tensionando seus músculos e correndo até o pequeno porto do farol.
+Lorenzo impulsionou o tronco para a frente. Correu até o pequeno porto do farol para seguir seu amigo.
 audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3"
 Quando chegou no porto viu o último bote motorizado que tinham no farol.
-Sem esperar mais decidiu seguir atrás de Giorno.
+Sem esperar mais, decidiu seguir atrás de Giorno.
 Apesar da tempestade, o mar não estava completamente inavegável.
 Normalmente com o bote demoraria 30 minutos em águas calmas a uma velocidade normal para chegar no farol Gemêo.
 Dada a situação, Lorenzo acelerou na velocidade máxima que o bote aguentava.

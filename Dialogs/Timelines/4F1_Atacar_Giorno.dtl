@@ -4,8 +4,12 @@ label After_attack
 audio ambient "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3" [fade="1.0" volume="-27.0" loop="true"]
 audio music "res://Audio/Music/09. Is To Be Nothing.mp3" [fade="2.0" volume="-10.0" loop="true"]
 audio "res://Audio/SFX/3D_Nao_Ir_Farol/body_fall.mp3"
+audio ambient2 "res://Audio/SFX/4F1/punch.mp3" [loop="false"]
 Os dois homens colidiram no chão do farol em uma troca de golpes desajeitada e violenta.
+audio ambient2 "res://Audio/SFX/4F1/punch2.mp3" [loop="false"]
+audio ambient2 "res://Audio/SFX/4F1/fall.mp3" [loop="false"]
 Lorenzo lutou com o que restava de suas forças até que, com um empurrão desesperado, fez Giorno desabar de costas.
+audio ambient3 "res://Audio/SFX/4F1/punch3.mp3" [loop="false"]
 O jovem estava desfigurado, a pele tomada por crostas negras e o rosto lavado em vermelho.
 audio "res://Audio/SFX/3D_Nao_Ir_Farol/esgasgado.mp3" [volume="-5.0"]
 audio "res://Audio/SFX/3D_Nao_Ir_Farol/engasgado2.mp3"
