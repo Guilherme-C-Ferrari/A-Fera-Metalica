@@ -32,6 +32,7 @@ lorenzo: [shake rate=20.0 level=10.0]O QUE TEM DENTRO DA CAIXA?
 audio ambient "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3" [volume="-15.0" loop="true" sync="ambient"]
 Lorenzo desvencilhou-se do aperto, agarrou o baú contra o peito e marchou para fora do farol, invadindo a fúria da tempestade noturna.
 O vento uivou contra seu rosto enquanto ele jogava a caixa na pedra molhada e se ajoelhava diante dela.
+[background arg="res://Assets/4F/23 - Lorenzo e Bau.png" fade="1.0"]
 [clear time="1.0" portraits="false" music="false" background="false" positions="false" style="false"]
 - ABRIR O TESOURO
 - RESISTIR

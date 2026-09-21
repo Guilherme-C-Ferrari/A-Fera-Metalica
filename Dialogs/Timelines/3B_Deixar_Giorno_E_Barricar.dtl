@@ -1,3 +1,4 @@
+[background arg="res://Assets/Intro/02 - Farol Zoom.png" fade="1.0"]
 audio ambient "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3" [volume="-12.0" loop="true"]
 Ele não conseguiu.
 Fraquejou.
@@ -31,6 +32,7 @@ Ele avançou rapidamente, invadindo o espaço de Lorenzo.
 lorenzo: Eu não avisei ele.
 Lorenzo falou, as palavras saindo limpas, despidas de qualquer desculpa.
 antonio: Você fez o quê?!
+[background arg="res://Assets/Intro 2/07 - Veio 2.png" fade="1.0"]
 Antônio inclinou-se, agarrou o colarinho da jaqueta de Lorenzo com as duas mãos calejadas e o arrancou do chão com uma força brutal.
 audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3" [volume="-5.0"]
 antonio: Por que você não avisou o garoto, seu desgraçado?!
@@ -48,6 +50,7 @@ audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/rangido_barco.mp3" [volume="-1
 [wait time="2.0"]
 Um estrondo colossal sacudiu as fundações da ilha inteira.
 O impacto foi tão violento que a estrutura milenar do farol estremeceu, fazendo poeira e pedaços de reboco caírem do velho teto de pedra.
+[background arg="res://Assets/3A_Avisar_Giorno/19 - Navio atracado.png" fade="1.0"]
 A montanha de aço enferrujado havia colidido contra o cais de proteção.
 Sacudindo a tontura da colisão, Antônio largou o colarinho de Lorenzo e recuperou a postura.
 antonio: Droga! Vamos erguer as barricadas!
@@ -109,6 +112,7 @@ Lorenzo se aproximou da escada do farol, pronto para subir as escadas em qualque
 [speed=30] . . . . . . .
 audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/batida_forte_porta.mp3"
 Até que o vazio foi quebrado por uma batida violenta na porta.
+[background arg="res://Assets/3A_Avisar_Giorno/14 - Móveis.png" fade="1.0"]
 mystery: Deus… Lorenzo!
 mystery: Você está aí?!
 audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/batida_forte_porta2.mp3"

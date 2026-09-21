@@ -1,5 +1,5 @@
 audio ambient "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3" [volume="-12.0"]
-[background arg="res://Assets/Intro/test.jpeg" fade="0.0"]
+[background arg="res://Assets/Intro/02 - Farol Zoom.png" fade="0.0"]
 Suprimindo aquele pavor primal, Lorenzo forçou as pernas a se moverem.
 Ele correu, estraçalhando a barreira invisível e sobrenatural que tentava congelar seus músculos.
 Ele conseguia sentir.
@@ -22,6 +22,8 @@ audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3"
 O comando do veterano quebrou o transe.
 Lorenzo recuperou os sentidos e voltou a correr freneticamente pelo cais, fixando os olhos apenas nas pedras sob seus pés, recusando-se a olhar diretamente para a carcaça de ferro.
 Ele avançou até colidir contra o corpo de Giorno. Mas o jovem estava diferente.
+[wait time="2.0"]
+[background arg="res://Assets/3A_Avisar_Giorno/12 - Giorno.png" fade="3.0"]
 Seus olhos estavam fixos no navio, as pupilas dilatadas e o corpo movendo-se em um ritmo hipnótico e compassivo para a frente, como se estivesse sendo seduzido pelo canto de uma sereia.
 Ele caminhava em direção à monstruosidade.
 lorenzo: Giorno, vamos!
@@ -41,10 +43,11 @@ lorenzo: EI! OLHE PARA MIM!
 Lorenzo ajoelhou-se à frente dele, segurando a cabeça do jovem com as duas mãos, forçando-o a encarar seus olhos.
 lorenzo: Não olhe para aquela coisa! Se você olhar para ela, você vai morrer!
 lorenzo: Vamos para o farol agora!
+[background arg="res://Assets/Intro/02 - Farol Zoom.png" fade="1.0"]
 Os dois se ergueram e dispararam em uma corrida desesperada de volta à torre de pedra.
 Enquanto corriam, Lorenzo olhou de relance para trás, a névoa escura rastejava pelas rochas como garras negras, quase alcançando seus calcanhares.
-audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/batida_forte_porta2.mp3"
-audio "res://Audio/SFX/2_B_Nao_ajudar_barco/metal_door.mp3"
+audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/batida_forte_porta2.mp3" [volume="-1.0"]
+audio "res://Audio/SFX/2_B_Nao_ajudar_barco/metal_door.mp3" [bus=""]
 audio ambient "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3" [volume="-25.0"]
 audio ambient2 -
 Por puro milagre, eles cruzaram o portal do farol e bateram a pesada porta de ferro, passando o ferrolho.
@@ -58,6 +61,7 @@ audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/estrondo.mp3"
 audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/estrondo2.mp3"
 audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/rangido_barco.mp3"
 [wait time="2.0"]
+[background arg="res://Assets/3A_Avisar_Giorno/19 - Navio atracado.png" fade="0.0"]
 Um estrondo colossal vibrou nas fundações de pedra.
 O impacto foi tão violento que a estrutura milenar do farol estremeceu, fazendo poeira e pedaços de reboco caírem do velho teto sobre eles.
 A montanha de aço enferrujado havia colidido contra o cais de proteção.
@@ -85,6 +89,7 @@ O jovem balbuciou em transe.
 audio ambient2 "res://Audio/SFX/1_Intro/ruido-radio.ogg" [volume="2.0"]
 mystery: SCHHHH— ...Por favor, alguém... —HHT!
 O garoto sobressaltou-se, piscando como se tivesse acordado de um pesadelo.
+[background arg="res://Assets/Intro/04 - Rádio.png" fade="1.0"]
 O som vinha de baixo. Vinha de um rádio antigo, quebrado e sem válvulas, que eles haviam jogado na pilha de entulho para bloquear a base da janela.
 O aparelho morto cuspia estática e uma voz trêmula\:
 mystery: [color=red][shake rate=35.0 level=12] ...Estamos feridos e famintos, por favor...
@@ -108,6 +113,7 @@ Como se respondesse ao aviso do velho, os gritos do lado de fora cessaram abrupt
 O silêncio que se seguiu na sala escura do farol tornou-se sufocante.
 audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/batida_forte_porta.mp3" [volume="0.0"]
 Até que batidas firmes ecoaram na porta de metal.
+[background arg="res://Assets/3A_Avisar_Giorno/14 - Móveis.png" fade="1.0"]
 Todos os três travaram, fixando os olhos na madeira barricada.
 Logo em seguida, uma voz feminina, suave e debilitada, flutuou através das frestas.
 mystery: [color=red][shake rate=10 level=5] Por favor, eu preciso de ajuda...
