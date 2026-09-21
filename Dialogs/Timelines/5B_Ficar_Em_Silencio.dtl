@@ -1,4 +1,6 @@
 [background arg="res://Assets/Intro/test.jpeg" fade="0.0"]
+audio ambient "res://Audio/SFX/1_Intro2/chuva.mp3" [volume="3.0"]
+audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3" [volume="0.0"]
 antonio: Eu farei...
 Antônio sussurrou com sua voz rouca, enquanto, ainda de costas aos dois, observava os vidros já quase completamente encobertos pela fumaça.
 antonio: Vocês ainda são jovens...
@@ -6,12 +8,14 @@ antonio: Diferente de mim, ainda possuem longas vidas pela frente...
 Antônio se vira para os dois faroleiros.
 antonio: Desde de pequeno eu vivo nestas costas... nesses mares.
 antonio: Todos aqueles como eu sabem, a terra nos cria, mas o mar... ele nos chama.
+audio "res://Audio/SFX/5A_Eu_Farei/HorizonThunderStorm.mp3"
 antonio: Com suas farturas, mistérios e perigos, e uma hora ou outra ele há de nos tomar...
 Giorno e Lorenzo se olham de canto, ambos com uma expressão melancólica clara no rosto.
 Lorenzo pensou como deveria fazer algo, enquanto buscava formas de provar o velho faroleiro errado.
 Ele queria poder salvar a todos, e sabia que Giorno provavelmente estava buscando o mesmo em seus pensamentos.
 Suas reflexões, no entanto, se provaram sem propósito.
 No fundo ele sabia que a fala de Antônio sobre o sacrifício seguia uma lógica inegável, alguém deveria ficar.
+audio "res://Audio/SFX/5A_Eu_Farei/HorizonThunderStorm.mp3"
 antonio: Desçam e se preparem para correr.
 A fala de Antônio trouxe os dois faroleiros de volta realidade.
 antonio: Eu irei fazer o farol brilhar com o maior intensidade que conseguir produzir.
@@ -27,19 +31,25 @@ antonio: Uma padaria não é..?
 antonio: Infelizmente não poderei ver como será, mas sei que fará um bom trabalho... só se mantenha longe das apostas.
 antonio: E você Lorenzo... continue integro como você é.
 antonio: Cuide do rapaz e... garanta que sairão vivos daqui, custe o que custar.
+audio "res://Audio/SFX/5A_Eu_Farei/HorizonThunderStorm.mp3"
 Lorenzo acenou com a cabeça com um olhar determinado.
 Os dois faroleiros então desceram as escadas da estrutura uma última vez, deixando seu amigo.
 Ao alcançarem a sala, Lorenzo se colocou contra a parede observando a saída de canto.
 Não haviam mais sinais da criatura, mas a fumaça e o barulho eram ainda fortemente presentes no exterior.
 Um grito imponente e longínquo pode então ser ouvido.
+audio "res://Audio/SFX/5A_Eu_Farei/StructureShake.mp3"
 Quando isso ocorreu, ambos sentiram um tremor na estrutura da torre, como se algo estivesse subindo rapidamente.
 Sem pensar duas vezes Lorenzo e Giorno dispararam em direção a porta, passando pela fumaça enquanto cobriam suas bocas com a mão.
 lorenzo: Corra e não olhe para trás!
+audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3" [volume="0.0"]
+audio ambient "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3" [volume="-15.0"]
 Os dois faroleiros usaram todas as forças restantes que possuíam para correr até a parte da costa no qual o bote ficava localizado.
 Cada passo era mais pesado que o anterior, o ar já faltava em seus pulmões, mas eles sabiam que precisavam continuar.
+audio ambient2 "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/rangido_barco.mp3"
 Ao fundo, os sons estridentes e agudas da embarcação podiam ser ouvidos, como uma lembrança constante daquele ser que continuava ali.
 Finalmente, quando parecia que não iriam mais aguentar, conseguiram alcançar o bote.
 lorenzo: FAÇA OS PREPARTATIVOS!
+audio "res://Audio/SFX/5B_Silencio/EngineStart.mp3"
 Giorno sem pensar duas vezes começa a organizar as coisas do no bote para dar partida.
 Neste momento, Lorenzo observou novamente a estrutura do farol.
 Está foi a última vez que ele viu aquele lugar.
