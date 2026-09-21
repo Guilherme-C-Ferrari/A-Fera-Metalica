@@ -1,4 +1,6 @@
 [background arg="res://Assets/Intro/test.jpeg" fade="0.0"]
+audio ambient "res://Audio/SFX/1_Intro2/chuva.mp3" [volume="3.0"]
+audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3" [volume="0.0"]
 lorenzo: Eu farei!
 A determinação podia ser vista nos olhos de Lorenzo.
 Antônio rapidamente se virou olhando para Lorenzo, com um rosto expressando uma mistura de surpresa e temor.
@@ -6,6 +8,7 @@ antonio: Você! Você... não deve Lorenzo...
 antonio: Ainda há de viver muito! Eu devo fazê-lo!
 antonio: Afinal eu sou o mais velho aqu-
 lorenzo: Não...
+audio "res://Audio/SFX/5A_Eu_Farei/HorizonThunderStorm.mp3"
 lorenzo: Eu farei.
 lorenzo: Eu sei que você teme o mar Antônio...
 lorenzo: Além disso, você e trabalhou nessas águas por muitos anos, merece um descanso digno.
@@ -18,6 +21,7 @@ Lorenzo olhava Antônio diretamente nos olhos.
 giorno: Lorenzo...
 Giorno olhava para o chão aceitando a decisão do amigo.
 antonio: Me permita explicar o plano que montei ao menos...
+audio "res://Audio/SFX/5A_Eu_Farei/HorizonThunderStorm.mp3"
 antonio: Eu e Giorno desceremos e nos prepararemos para correr.
 Antônio se virou para o sistema de lentes de farol.
 antonio: Você deve fazer o farol brilhar com o maior intensidade que conseguir produzir.
@@ -33,6 +37,7 @@ giorno: Você sempre foi um alguém muita altruísta.
 antonio: Quando você chegou aqui, eu admito que não botei muita fé em você Lorenzo...
 antonio: Mas com o tempo, você me provou errado... mostrou que era alguém capaz de novo e de novo...
 antonio: Obrigado.
+audio "res://Audio/SFX/5A_Eu_Farei/HorizonThunderStorm.mp3"
 antonio: Lembre-se, você ainda está com a arma que eu te entreguei certo?
 lorenzo: Sim... não se preocupe, não pretendo morrer tão facilmente.
 lorenzo: Quando vocês estiverem seguros, eu também farei meu melhor para fugir.
@@ -40,15 +45,20 @@ antonio: Boa sorte.
 giorno: Boa sorte Lorenzo.
 Os dois faroleiros olharam uma última vez para o amigo e começaram a descer as escadas.
 Lorenzo então se dirigiu ao mecanismo que controla intensidade do farol.
+audio "res://Audio/SFX/5A_Eu_Farei/spinopel-spring-mechanism-411759.mp3"
 Com sua experiência, ele o configurou de forma a fazer com que a luz fosse amplificada em sua potência máxima na direção em que o barco havia colidido com a costa.
+audio ambient2 "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/rangido_barco.mp3"
 Ele conseguia ouvir os sons do barco, cada vez mais altos e estridentes.
 Tomou ar, respirando de forma profunda e se direcionou para subir na parte exterior da cabine.
+audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3"
+audio ambient "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3" [volume="-15.0"]
 Ao abrir a porta que separava o exterior do interior, Lorenzo sentiu a forte chuva e vento em seu rosto, forçando-o a se segurar nas bordas da varanda.
 Os sons vindo do barco agora ativamente machucavam seus ouvidos, lhe causando uma dor de cabeça sem igual.
 Ainda assim, ele persistiu.
 Subindo no topo da parte exterior, enquanto usava toda sua energia para manter o equilíbrio naquele lugar, ele encarou a embarcação.
 lorenzo: Aqui! Aqui! Eu estou aqui seu desgraçado!
 Vez após vez ele gritou, tentando chamar atenção do que quer que aquela coisa fosse.
+audio "res://Audio/SFX/5A_Eu_Farei/StructureShake.mp3"
 Após alguns instantes, ele sentiu um grande tremor, que o fez de ter de se abaixar para não cair farol abaixo.
 Foi quando ele o viu novamente, uma criatura esguia e monstruosa, com seu rosto parcialmente a mostra enquanto sua mão se firmava na base onde os pés de Lorenzo pisavam.
 Em poucos instantes, sua pele e carne começaram a endurecer em placas ásperas de ferrugem vermelha, causando uma dor lacerante.
@@ -57,4 +67,5 @@ Os dois faroleiros sobreviventes continuaram a contar a história de seu amigo, 
 Giorno se lembra bem da última visão que teve do farol naquela noite.
 Ele sempre há de contar como Lorenzo lutou até o final.
 Como nos momentos antes de fugir da ilha a última coisa que conseguiu ouvir, foi um disparo da arma que ele carregava.
+audio "res://Audio/SFX/4A_Segurar_Giorno/Gun_Shot.mp3"
 # FINAL
