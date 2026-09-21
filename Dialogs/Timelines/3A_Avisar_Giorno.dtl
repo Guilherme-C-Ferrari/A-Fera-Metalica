@@ -22,8 +22,9 @@ audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3"
 O comando do veterano quebrou o transe.
 Lorenzo recuperou os sentidos e voltou a correr freneticamente pelo cais, fixando os olhos apenas nas pedras sob seus pés, recusando-se a olhar diretamente para a carcaça de ferro.
 Ele avançou até colidir contra o corpo de Giorno. Mas o jovem estava diferente.
-[wait time="2.0"]
+[wait time="1.0"]
 [background arg="res://Assets/3A_Avisar_Giorno/12 - Giorno.png" fade="3.0"]
+[wait time="1.0"]
 Seus olhos estavam fixos no navio, as pupilas dilatadas e o corpo movendo-se em um ritmo hipnótico e compassivo para a frente, como se estivesse sendo seduzido pelo canto de uma sereia.
 Ele caminhava em direção à monstruosidade.
 lorenzo: Giorno, vamos!
@@ -33,9 +34,9 @@ Ele continuou marchando em direção ao abismo do cais.
 lorenzo: GIORNO! EI!
 Lorenzo o sacudiu pelos ombros com violência, mas nada parecia quebrar o transe.
 lorenzo: EI! ACORDA, SEU MERDA!
-audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/soco.mp3"
+audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/soco.mp3" [volume="-3.0"]
 Em um estalo de desespero, Lorenzo girou o corpo e desfechou um soco direto no maxilar de Giorno.
-O garoto cambaleou, o impacto quebrou o feitiço.
+O garoto cambaleou. O impacto quebrou o feitiço.
 Ele desabou na pedra úmida, piscando os olhos de forma confusa e assustada, levando a mão à boca ensanguentada.
 audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3"
 giorno: [shake rate=10 level=5] Deus... O que... o que está acontecendo?
@@ -46,7 +47,7 @@ lorenzo: Vamos para o farol agora!
 [background arg="res://Assets/Intro/02 - Farol Zoom.png" fade="1.0"]
 Os dois se ergueram e dispararam em uma corrida desesperada de volta à torre de pedra.
 Enquanto corriam, Lorenzo olhou de relance para trás, a névoa escura rastejava pelas rochas como garras negras, quase alcançando seus calcanhares.
-audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/batida_forte_porta2.mp3" [volume="-1.0"]
+audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/batida_forte_porta2.mp3" [volume="-5.0"]
 audio "res://Audio/SFX/2_B_Nao_ajudar_barco/metal_door.mp3" [bus=""]
 audio ambient "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3" [volume="-25.0"]
 audio ambient2 -
@@ -57,9 +58,9 @@ antonio: Lorenzo! Giorno! Peguem os móveis e as tábuas, rápido!
 Antônio berrou do topo da escada do térreo, sem dar um segundo de trégua para a dupla.
 Eles mal começaram a arrastar os armários quando a ilha inteira foi sacudida.
 [wait time="1.0"]
-audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/estrondo.mp3"
-audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/estrondo2.mp3"
-audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/rangido_barco.mp3"
+audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/estrondo.mp3" [volume="-8.0"]
+audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/estrondo2.mp3" [volume="-8.0"]
+audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/rangido_barco.mp3" [volume="-8.0"]
 [wait time="2.0"]
 [background arg="res://Assets/3A_Avisar_Giorno/19 - Navio atracado.png" fade="0.0"]
 Um estrondo colossal vibrou nas fundações de pedra.
@@ -70,11 +71,11 @@ No meio da confusão, Giorno aproximou-se de Lorenzo, com lágrimas genuínas li
 giorno: [shake rate=10 level=5] Obrigado, irmão...
 A fala de voz embargada do jovem foi retribuida com um aceno firme de cabeça.
 lorenzo: Eu apenas...
-[wait time="3.0"]
-audio ambient3 "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/grito_dor2.mp3" [volume="-20.0"]
-audio ambient4 "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/grito_dor.mp3" [volume="-20.0" bus=""]
-audio ambient5 "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/grito_sofrendo.mp3" [volume="-20.0"]
-audio ambient6 "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/grito_sofrendo2.mp3" [volume="-20.0"]
+[wait time="2.0"]
+audio ambient3 "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/grito_dor2.mp3" [volume="-17.2"]
+audio ambient4 "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/grito_dor.mp3" [volume="-17.0" bus=""]
+audio ambient5 "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/grito_sofrendo.mp3" [volume="-17.0"]
+audio ambient6 "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/grito_sofrendo2.mp3" [volume="-17.0"]
 mystery: [speed=0][color=red][shake rate=25.0 level=20]AAaaAAAaaaaAaAAaAAaaaaAAAAaaaAAAaAAAAaaa!!!\
 ALGUÉM ME AJUDA!!! POR FAVOR!!! DEUS!!!\
 IIIIiiiihhAAAAAAAAHhhhhhhAAAAAAAhhhhhhhhAAAAAAAAAAAAAAAAAAAAIiaaaaa[/shake][/color]
@@ -95,10 +96,10 @@ O aparelho morto cuspia estática e uma voz trêmula\:
 mystery: [color=red][shake rate=35.0 level=12] ...Estamos feridos e famintos, por favor...
 mystery: [color=red][shake rate=35.0 level=12] ...Misericórdia, em nome de nosso amado De—
 antonio: AAAHHH!
-audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/batida_forte_porta2.mp3"
+audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/batida_forte_porta2.mp3" [volume="-8.0"]
 Antônio soltou um urro de pura frustração e ódio, saltando dos degraus.
 antonio: DESLIGUEM ESSA MERDA!!
-audio ambient2 "res://Audio/SFX/3A_Avisar_Giorno/Ground_Impact.mp3"
+audio ambient2 "res://Audio/SFX/3A_Avisar_Giorno/Ground_Impact.mp3" [volume="-15.0"]
 O velho berrou, descarregando o peso de suas botas pesadas sobre o rádio antigo.
 Ele pisoteou a carcaça de metal e baquelite repetidas vezes, quebrando os circuitos e esmagando os alto-falantes até que a caixa se tornasse apenas plástico retorcido e silêncio.
 audio ambient2 -
@@ -111,7 +112,7 @@ audio ambient5 -
 audio ambient6 -
 Como se respondesse ao aviso do velho, os gritos do lado de fora cessaram abruptamente.
 O silêncio que se seguiu na sala escura do farol tornou-se sufocante.
-audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/batida_forte_porta.mp3" [volume="0.0"]
+audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/batida_forte_porta.mp3" [volume="-8.0"]
 Até que batidas firmes ecoaram na porta de metal.
 [background arg="res://Assets/3A_Avisar_Giorno/14 - Móveis.png" fade="1.0"]
 Todos os três travaram, fixando os olhos na madeira barricada.
@@ -124,7 +125,7 @@ O velho começou a recuar, um degrau de cada vez.
 mystery: [color=red] Somos membros da família real da Itália...
 A voz do lado de fora continuou, mudando o tom.
 mystery: [color=red] Podemos pagar muito bem pela sua ajuda.
-audio "res://Audio/SFX/3A_Avisar_Giorno/Coin_Slide.mp3"
+audio "res://Audio/SFX/3A_Avisar_Giorno/Coin_Slide.mp3" [volume="-10.0"]
 Um som metálico e rítmico começou a ecoar no chão de pedra.
 Por baixo da fresta inferior da porta barricada, moedas de ouro reluzentes começaram a deslizar para dentro do farol.
 Uma por uma.

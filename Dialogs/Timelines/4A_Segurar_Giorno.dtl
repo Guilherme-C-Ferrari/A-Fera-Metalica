@@ -3,8 +3,8 @@ audio ambient "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3" [volume="-25
 Sem hesitar por um único microssegundo, Lorenzo disparou para a frente.
 Seus pés derraparam na pedra úmida quando ele saltou, jogando o peso do próprio corpo contra os ombros de Giorno e travando os braços do amigo segundos antes que ele pudesse tocar o monte de moedas de ouro.
 Antes que Giorno pudesse protestar, o mundo veio abaixo.
-audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/estrondo.mp3" [volume="3.0"]
-audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/estrondo2.mp3" [volume="3.0"]
+audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/estrondo.mp3" [volume="-15.0"]
+audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/estrondo2.mp3" [volume="-15.0"]
 audio ambient "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3" [volume="-12.0"]
 A pesada porta de ferro do farol, junto com a montanha de armários e tábuas que serviam de barricada, foi completamente estraçalhada de dentro para fora.
 A madeira e o metal se partiram ao meio com um estrondo ensurdecedor.
@@ -58,6 +58,7 @@ O veterano pressionava o botão do microfone com força, repetindo palavras de o
 Lorenzo deu as costas para o rádio, empunhou o revólver antigo com as duas mãos e apontou o cano diretamente para o vão escuro das escadas.
 Seus músculos estavam tensos, prontos para o recuo do próximo disparo.
 Mas nada subiu.
+[background arg="res://Assets/Intro/02 - Farol Zoom.png" fade="1.0"]
 O topo da torre era preenchido pelo rugido ensurdecedor do vento e o chicotear da chuva contra as vidraças.
 Eles eram acompanhados por um zumbido estridente e metálico vindo do navio lá embaixo, que parecia vibrar cada vez mais forte, ecoando diretamente nos ossos de Lorenzo.
 audio ambient2 -
@@ -91,7 +92,6 @@ Acha que aquilo é algum tipo de fera?
 antonio: Eu olhei bem para aquela embarcação pela luneta...
 antonio: Ela está caçando, veio atras de presas.
 antonio: E, no momento...
-antonio: Nós somos essas presas.
 antonio: Nós somos essas presas.
 audio ambient2 "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/rangido_barco.mp3"
 O silêncio caiu sobre o topo do farol, quebrado apenas pelo zumbido mecânico do navio.

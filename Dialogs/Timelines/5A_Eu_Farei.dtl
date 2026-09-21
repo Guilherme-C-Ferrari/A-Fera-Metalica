@@ -1,4 +1,4 @@
-[background arg="res://Assets/Intro/test.jpeg" fade="0.0"]
+[background arg="res://Assets/5A/25 - conversando.png" fade="2.0"]
 audio ambient "res://Audio/SFX/1_Intro2/chuva.mp3" [volume="3.0"]
 audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3" [volume="0.0"]
 lorenzo: Eu farei!
@@ -24,16 +24,16 @@ antonio: Me permita explicar o plano que montei ao menos...
 audio "res://Audio/SFX/5A_Eu_Farei/HorizonThunderStorm.mp3"
 antonio: Eu e Giorno desceremos e nos prepararemos para correr.
 Antônio se virou para o sistema de lentes de farol.
-antonio: Você deve fazer o farol brilhar com o maior intensidade que conseguir produzir.
+antonio: Você deve fazer o farol brilhar com a maior intensidade que conseguir produzir.
 antonio: Após isso... suba na parte exterior da cabine e tente chamar toda atenção que conseguir.
 antonio: Quando ele estiver focado em você...
 antonio: Nós usaremos todas as forças que temos para chegar ao bote. Você entende?
 lorenzo: Sim.
 Giorno colocou a mão no ombro do amigo.
-giorno: Lorenzo... obrigado, por ter me salvo antes, por estar salvando a gente agora...
-giorno: Eu sei... eu sempre soube que você devolvia o dinheiro pra minha depois das apostas...
+giorno: Lorenzo... obrigado, por ter me salvado antes, por estar salvando a gente agora...
+giorno: Eu sei... eu sempre soube que você devolvia o dinheiro das apostas...
 giorno: Botava de volta no meu baú.
-giorno: Você sempre foi um alguém muita altruísta.
+giorno: Você sempre foi uma pessoa muito altruísta.
 antonio: Quando você chegou aqui, eu admito que não botei muita fé em você Lorenzo...
 antonio: Mas com o tempo, você me provou errado... mostrou que era alguém capaz de novo e de novo...
 antonio: Obrigado.
@@ -57,6 +57,7 @@ Os sons vindo do barco agora ativamente machucavam seus ouvidos, lhe causando um
 Ainda assim, ele persistiu.
 Subindo no topo da parte exterior, enquanto usava toda sua energia para manter o equilíbrio naquele lugar, ele encarou a embarcação.
 lorenzo: Aqui! Aqui! Eu estou aqui seu desgraçado!
+[background arg="res://Assets/5A/26 - brilho.png" fade="1.0"]
 Vez após vez ele gritou, tentando chamar atenção do que quer que aquela coisa fosse.
 audio "res://Audio/SFX/5A_Eu_Farei/StructureShake.mp3"
 Após alguns instantes, ele sentiu um grande tremor, que o fez de ter de se abaixar para não cair farol abaixo.
