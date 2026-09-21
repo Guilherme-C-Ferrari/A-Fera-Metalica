@@ -1,10 +1,19 @@
 [background arg="res://Assets/Intro/test.jpeg" fade="0.0"]
+audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3"
+audio ambient "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3" [volume="-25.0"]
+audio ambient2 "res://Audio/SFX/1_Intro2/tensao.mp3" [volume="0.0"]
 Lorenzo, tomado pelo desespero e grunhindo de pura agonia, agiu impulsionado apenas pela adrenalina injetada em suas veias e pelo instinto mais primitivo de sobrevivência.
+audio "res://Audio/SFX/4A_Segurar_Giorno/Gun_Shot.mp3" [volume="3.0"]
+[wait time="0.5"]
+audio "res://Audio/SFX/4A_Segurar_Giorno/Gun_Shot.mp3" [volume="3.0"]
 Ele firmou o pulso trêmulo e descarregou as duas últimas munições do tambor diretamente na cabeça daquela monstruosidade.
 lorenzo: MORRA, BESTA!
 lorenzo: VOLTE PARA O INFERNO DE ONDE SAIU!
 O grito quase rasgava sua garganta.
 Os dois tiros ecoaram como trovões confinados.
+[wait time="2.0"]
+audio ambient "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3" [volume="0.0"]
+audio ambient2 -
 De repente, o silêncio sobrenatural desfez-se, e o som torrencial da chuva retornou ao seu volume normal contra as pedras.
 Lorenzo estava tão cego pelo combate com a criatura que seu cérebro havia isolado absolutamente tudo ao redor.
 Nada mais importava além daquele milissegundo final de vida.
@@ -17,14 +26,19 @@ Mas foi apenas quando Lorenzo baixou os olhos para se assegurar de que a abomina
 Ali, estirado no chão áspero e lavado pela água da chuva, estava o corpo de Antônio.
 O piso ao redor se transformou em um mar de sangue escuro.
 Duas crateras profundas e brutais marcavam forte presença no rosto pálido do velho faroleiro, que descansava inerte, de boca escancarada para o teto.
+audio "res://Audio/SFX/5C_Atirar/WaterDrops.mp3"
 Ao lado do cadáver, o cantil de uísque amassado derramava o licor Sibona lentamente, misturando o cheiro forte de álcool com o odor metálico da morte.
 O cérebro de Lorenzo entrou em curto-circuito, incapaz de processar a imagem.
 Ele congelou no lugar, as mãos largadas ao lado do corpo, encarando fixamente o rosto dilacerado de seu falecido amigo.
 Os tiros disparados no escuro da queda...
 Haviam encontrado o alvo errado.
+audio "res://Audio/SFX/5A_Eu_Farei/HorizonThunderStorm.mp3"
+audio "res://Audio/SFX/1_Intro2/chuva.mp3" [volume="-25.0"]
 Do lado de fora do farol Speranza, o som da tempestade pareceu se acalmar de forma gradativa, transformando-se em uma chuva leve e mansa.
 Nenhum zumbido ou som mecânico vindo daquela embarcação turca conseguia mais ser ouvido.
 O mar havia silenciado.
+[wait time="2.0"]
+audio ambient "res://Audio/SFX/ocean_sound.ogg" [volume="2.0"]
 [background arg="res://Assets/Intro/01 - Landscape Farol.png" fade="1.0"]
 Horas depois, já na manhã cinzenta do dia seguinte, as autoridades costeiras atracaram na ilha de pedra.
 Eles buscavam atender ao pedido de socorro desesperado que havia chegado via rádio na noite anterior.
