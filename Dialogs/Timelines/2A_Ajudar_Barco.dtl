@@ -104,10 +104,10 @@ antonio: Lorenzo...
 A voz de Antônio saiu como um sopro.
 antonio: Olha isso aqui.
 audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3" [volume="-3.0"]
-O tom assustado do homem frio fez o estômago de Lorenzo revirar.
+O tom frio e assustado do homem fez o estômago de Lorenzo revirar.
 Ele pegou a luneta e calibrou a lente, focando no navio que agora estava perigosamente perto da encosta rochosa.
 Detalhes grotescos saltaram diante de seus olhos.
-[wait time="3.0"]
+[wait time="2.0"]
 [background arg="res://Assets/2A_Ajudar_Barco/10 - Navio.png" fade="1.0"]
 O navio movia-se em direção ao porto. Uma fumaça preta e espessa jorrava de suas chaminés.
 No entanto, a água na popa, onde as imensas hélices deveriam estar rasgando o mar para impulsionar o casco, estava perfeitamente calma.
@@ -121,9 +121,9 @@ Um arrepio gélido percorreu a espinha de Lorenzo.
 Ele deu dois passos em falso para trás, cambaleando contra a mesa de jogo.
 lorenzo: Puta merda...
 Lorenzo xingou, o suor frio brotando em sua nuca.
-Nós temos que barricar o farol.
+antonio: Nós temos que barricar o farol.
 Antônio decretou, a voz firme assumindo o controle do pânico.
-lorenzo: A embarcação já está quase na encosta, não temos como impedir o impacto.
+lorenzo: A embarcação já está quase na encosta, não temos como impedi-lo.
 lorenzo: O Giorno já deve ter aberto os portões de segurança do cais... não tem mais como fechar.
 audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3" [volume="-4.0"]
 lorenzo: Vai lá avisar o garoto agora!

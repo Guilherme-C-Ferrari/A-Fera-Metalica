@@ -1,4 +1,4 @@
-[background arg="res://Assets/Intro/test.jpeg" fade="0.0"]
+[background arg="res://Assets/5A/25 - conversando.png" fade="2.0"]
 audio ambient "res://Audio/SFX/1_Intro2/chuva.mp3" [volume="3.0"]
 audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3" [volume="0.0"]
 antonio: Eu farei...
@@ -43,17 +43,18 @@ Sem pensar duas vezes Lorenzo e Giorno dispararam em direção a porta, passando
 lorenzo: Corra e não olhe para trás!
 audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3" [volume="0.0"]
 audio ambient "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3" [volume="-15.0"]
-Os dois faroleiros usaram todas as forças restantes que possuíam para correr até a parte da costa no qual o bote ficava localizado.
+Os dois faroleiros usaram todas as forças restantes que possuíam para correr até a parte da costa na qual o bote ficava localizado.
 Cada passo era mais pesado que o anterior, o ar já faltava em seus pulmões, mas eles sabiam que precisavam continuar.
 audio ambient2 "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/rangido_barco.mp3"
-Ao fundo, os sons estridentes e agudas da embarcação podiam ser ouvidos, como uma lembrança constante daquele ser que continuava ali.
+Ao fundo, os sons estridentes e agudos da embarcação podiam ser ouvidos, como uma lembrança constante daquele ser que continuava ali.
 Finalmente, quando parecia que não iriam mais aguentar, conseguiram alcançar o bote.
 lorenzo: FAÇA OS PREPARTATIVOS!
 audio "res://Audio/SFX/5B_Silencio/EngineStart.mp3"
 Giorno sem pensar duas vezes começa a organizar as coisas do no bote para dar partida.
+[background arg="res://Assets/5A/26 - brilho.png" fade="1.0"]
 Neste momento, Lorenzo observou novamente a estrutura do farol.
 Está foi a última vez que ele viu aquele lugar.
-A luz brilhante no topo da torre brilhou em sua mais forte intensidade, sendo então consumida pela névoa que envolveu a torre por completo, como se engolisse tudo.
+A lâmpada no topo da torre brilhou em sua mais forte intensidade, sendo então consumida pela névoa que envolveu a torre por completo, como se engolisse tudo.
 Lorenzo acredita ter visto seu amigo no topo do farol aquele dia.
 Cumprindo, corajosamente, seu dever de guiar os navios.
 # FINAL

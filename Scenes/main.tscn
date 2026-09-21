@@ -405,7 +405,7 @@ offset_bottom = 448.0
 grow_horizontal = 2
 theme_override_fonts/font = ExtResource("2_8gbba")
 theme_override_font_sizes/font_size = 100
-text = "Í T A L I A"
+text = "I T Á L I A"
 
 [node name="Date3" type="Label" parent="CanvasLayer/Control" unique_id=1829672054]
 modulate = Color(1, 1, 0.8980392, 0)

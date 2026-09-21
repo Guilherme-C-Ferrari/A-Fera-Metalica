@@ -32,7 +32,7 @@ Mas o Antônio fala algo inusitado.
 [wait time="1.5"]
 [background arg="res://Assets/Intro 2/05 - Veio.png" fade="0.0"]
 antonio: É um pedido de emergência.
-Normalmente quando alguma embarcação tinha alguma emergência e precisava atracar em terra firme o farol era a única alternativa, então um sinal de luz foi inventado para situações de emergência.
+Normalmente quando alguma embarcação tinha alguma emergência e precisava atracar em terra firme, o farol era a única alternativa. Então, um sinal de luz foi inventado para situações de emergência.
 [background arg="res://Assets/Intro/02 - Farol Zoom.png" fade="1.0"]
 lorenzo: Fazia tempo que não recebíamos esse tipo de pedido.
 Diz Lorenzo abandonando as cartas sobre a mesa para se aproximar da grande janela do farol.
@@ -75,7 +75,7 @@ Nenhuma silhueta, nenhum movimento atrás dos vidros sujos.
 lorenzo: Mas o que...?
 Lorenzo abaixou a luneta, a pele subitamente pálida.
 [background arg="res://Assets/Intro/01.1 - Landscape Farol.png" fade="1.0"]
-lorenzo: Não tem ninguém no barco. Será que estão todos no porão?
+lorenzo: Não tem ninguém no barco. Será que estão todos no deck inferior?
 antonio: E isso faz algum sentido para você?
 Antônio rebateu, arrancando a luneta de volta.
 antonio: Ninguém no convés, ninguém no controle. Como essa maldita casca de ferro está navegando? E mais importante\: quem está mandando o sinal de socorro?
@@ -107,7 +107,7 @@ O tom de Antônio muda drasticamente.
 A raiva some, dando lugar a um sussurro rouco e frio que corta o som da chuva lá fora. Ele dá um passo à frente, invadindo o espaço do jovem.
 antonio: Você acha que conhece o mar?
 antonio: Você acha que as histórias no rádio são baboseiras?
-Antonio pressiona o dedo indicador no peito de Giorno. O toque é pesado, quase doloroso.
+Antônio pressiona o dedo indicador no peito de Giorno. O toque é pesado, quase doloroso.
 antonio: O mar não tem pena, garoto.
 antonio: Ele não quer saber das suas regras ou da sua coragem.
 antonio: Ele só espera.
@@ -139,7 +139,7 @@ A voz dele saiu limpa, baixa e calma. O tremor nos lábios havia sumido. 
 antonio: Deus…
 Antônio levou a mão calejada ao rosto, esfregando as pálpebras cansadas.
 A postura de Giorno nesse momento era admirável, diferente de antes, e Antônio mesmo ainda tendo sua visão da situação sentiu que deveriam levar em consideração a opinião de Giorno.
-giorno: Eu posso ir abrir sozinho o portão do cais.
+giorno: Eu posso abrir sozinho o portão do cais.
 Afirma Giorno para sustentar sua vontade.
 audio "res://Audio/SFX/1_Intro2/tampa.mp3" [volume="-5.0"]
 Antônio tateou o casaco, puxou um cantil de uísque e girou a tampa de metal.
