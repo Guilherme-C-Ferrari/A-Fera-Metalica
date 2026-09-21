@@ -5,8 +5,8 @@ Seus pés derraparam na pedra úmida quando ele saltou, jogando o peso do própr
 Antes que Giorno pudesse protestar, o mundo veio abaixo.
 audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/estrondo.mp3" [volume="4.0"]
 audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/estrondo2.mp3" [volume="4.0"]
-A pesada porta de ferro do farol, junto com a montanha de armários e tábuas que serviam de barricada, foi completamente estraçalhada de dentro para fora.
 audio ambient "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3" [volume="-12.0"]
+A pesada porta de ferro do farol, junto com a montanha de armários e tábuas que serviam de barricada, foi completamente estraçalhada de dentro para fora.
 A madeira e o metal se partiram ao meio com um estrondo ensurdecedor.
 Estilhaços pontiagudos foram arremessados em todas as direções, cravando-se nas paredes de pedra.
 A lufada de vento e chuva da tempestade invadiu o térreo de uma vez, apagando as últimas velas e deixando o ambiente imerso no breu.
@@ -31,12 +31,15 @@ Suas mãos agiram por puro instinto mecânico, arrancando o ferro oxidado do có
 - ATIRAR NA CRIATURA
 [wait time="2.0"]
 Lorenzo arrancou o revólver da cintura.
+audio "res://Audio/SFX/4A_Segurar_Giorno/Gun_Shot.mp3"
 Com as mãos trêmulas e a postura desengonçada, ele puxou o gatilho.
 O estampido violento da arma de fogo ecoou pelas paredes de pedra como um trovão confinado, e o clarão do disparo iluminou por um milésimo de segundo o rosto da abominação.
 A bala cortou o ar e atingiu a silhueta esguia em cheio.
+audio "res://Audio/SFX/4A_Segurar_Giorno/MonsterGrowl.mp3"
 A criatura soltou um estalo seco, cambaleando para trás.
 Aquele pequeno milagre foi a abertura que os dois precisavam.
 Sem pensar duas vezes, Lorenzo e Giorno se ergueram do chão e dispararam em uma corrida cega rumo às escadas carcomidas por onde Antônio havia subido.
+audio "res://Audio/SFX/2_A_Ajudar_barco/escada_rapido_fade_out.mp3"
 A única meta era alcançar o topo do farol, a centenas de degraus de distância.
 Os minutos que se seguiram foram puramente desesperadores.
 A cada degrau que subia em caracol, as botas de Lorenzo batiam no concreto frio enquanto seus pulmões imploravam por ar.
@@ -45,6 +48,9 @@ A mente dele martelava, a cada segundo, com a certeza absoluta de que garras inv
 Ou pior, que ele seria partido ao meio, exatamente como aquela pesada porta de ferro lá embaixo.
 Eles não ousavam olhar para trás.
 Mas, antes que seus corpos colapsassem pelo cansaço, os dois cruzaram o último vão de acesso e se viram, finalmente, no topo do farol.
+audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3"
+audio ambient "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3" [volume="-25.0"]
+audio ambient2 "res://Audio/SFX/1_Intro/ruido-radio.ogg"
 Lorenzo e Giorno encontraram Antônio curvado sobre a mesa de comunicação.
 O veterano pressionava o botão do microfone com força, repetindo palavras de ordem em uma tentativa desesperada de solicitar ajuda externa.
 Lorenzo deu as costas para o rádio, empunhou o revólver antigo com as duas mãos e apontou o cano diretamente para o vão escuro das escadas.
@@ -52,6 +58,7 @@ Seus músculos estavam tensos, prontos para o recuo do próximo disparo.
 Mas nada subiu.
 O topo da torre era preenchido pelo rugido ensurdecedor do vento e o chicotear da chuva contra as vidraças.
 Eles eram acompanhados por um zumbido estridente e metálico vindo do navio lá embaixo, que parecia vibrar cada vez mais forte, ecoando diretamente nos ossos de Lorenzo.
+audio ambient2 -
 Antônio largou o microfone ao confirmar que os dois mais jovens haviam subido inteiros.
 Com o rosto suado, o velho os olhou.
 antonio: Essa porcaria de rádio não está funcionando direito.
@@ -68,6 +75,7 @@ lorenzo: Nós ainda não morremos.
 Lorenzo firmou o aperto na coronha do revólver, tentando injetar alguma convicção na sala.
 antonio: Ainda não.
 antonio: Mas não há para onde fugir aqui, ficar na ilha nos deixa encurralados. Ainda há-
+audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3"
 giorno: Isso tudo não faz o menor sentido! Não faz a porra de um sentido!
 Giorno puxou os próprios cabelos enquanto andava de um lado para o outro em círculos ao redor do feixe giratório da grande luz do farol, como um animal encurralado.
 antonio: Há um sentido sim, Giorno
@@ -81,6 +89,7 @@ antonio: Eu olhei bem para aquela embarcação pela luneta...
 antonio: Ela está caçando, veio atras de presas.
 antonio: E, no momento...
 antonio: Nós somos essas presas.
+audio ambient2 "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/rangido_barco.mp3"
 O silêncio caiu sobre o topo do farol, quebrado apenas pelo zumbido mecânico do navio.
 Giorno virou o rosto lentamente na direção de Lorenzo, os olhos suplicando por um pingo de sanidade.
 giorno: Lorenzo...
@@ -96,7 +105,11 @@ Seus olhos estavam firmes, desprovidos de qualquer hesitação.
 antonio: Alguém vai ter que ficar para trás...
 antonio: Alguém há de atrair a atenção do que quer que esteja tentando nos atacar lá embaixo.
 antonio: Para que assim os outros dois possam descer, pegar o bote motorizado e fugir em direção ao continente.
+audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3"
 Um silêncio sepulcral e sufocante tomou o topo do farol.
+audio ambient "res://Audio/SFX/1_Intro2/chuva.mp3" [volume="-25.0"]
+audio ambient2 -
+audio "res://Audio/SFX/4A_Segurar_Giorno/HeavyBreath.mp3"
 O som do vento e o zumbido metálico do navio fantasma pareciam ter recuado, deixando apenas o barulho da respiração ofegante dos três homens.
 Lorenzo e Giorno se encararam.
 O peso daquela lógica fria esmagava o ambiente.

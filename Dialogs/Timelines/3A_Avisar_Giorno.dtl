@@ -130,6 +130,7 @@ audio ambient3 "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/heart.mp3" [volume="5
 Seu coração martelava, mas ele mantinha a mente lúcida. Ele sabia que aquelas moedas eram apenas mais uma ilusão profana criadas pela mente daquela criatura de ferro.
 Mas Lorenzo distraiu-se com o brilho por um único segundo. E foi o suficiente para não perceber que o perigo estava ao seu lado.
 Ao desviar o olhar para a lateral, Lorenzo congelou. Giorno já havia descido os primeiros degraus.
+audio ambient3 - [volume="5.0"]
 lorenzo: GIORNO!!
 Lorenzo gritou, a voz ecoando pelas paredes de pedra. Giorno não reagiu.
 Seus braços estavam largados ao lado do corpo, os olhos fixos no ouro e os pés movendo-se de forma automática e hipnótica em direção à porta trancada, completamente enfeitiçado pelo tesouro.
