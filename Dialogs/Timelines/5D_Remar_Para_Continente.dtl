@@ -18,6 +18,7 @@ Um segundo marinheiro aproximou-se, substituindo o pano molhado por um novo cobe
 lorenzo: [shake rate=20.0 level=20.0]Eu... eu sobrevivi...
 Lorenzo exclamava entre dentes que batiam violentamente, tremendo dos pés à cabeça, ainda sem recuperar a sensibilidade nas mãos e nos pés.
 O tripulante mais importante aproximou-se a passos calmos, trazendo uma caneca de ferro com café quente.
+[background arg="res://Assets/5D/21 - Café 1.png" fade="1.0"]
 Lorenzo segurou o metal com as duas mãos trêmulas e levou o líquido aos lábios.
 Ele nunca tinha tomado um café tão bom em toda a sua vida.
 Diante de tudo o que passara no mar, aquele calor no peito simbolizava o sabor da sua própria vida, e ele saboreou cada segundo em silêncio.
@@ -44,6 +45,7 @@ lorenzo: Tentei impedir que aquela maldita embarcação aparecesse no nosso faro
 lorenzo: Mas o meu colega não me escutou. Ele simplesmente foi atrás deles.
 audio music "res://Audio/Music/34. I Just Want to Make You Happy (The Damsel III).mp3" [fade="1.0" volume="-5.0"]
 Lorenzo virou a caneca, terminando o resto do líquido.
+[background arg="res://Assets/5D/21 - Café 2.png" fade="2.0"]
 No entanto, no segundo em que o café desceu, o terno calor transformou-se em um incêndio.
 Estava quente demais.
 Um bafo abafado parecia subir por seu peito, sufocando-o.
@@ -80,6 +82,7 @@ Seus olhos, pesados e quase colados pelo gelo, lutavam para se manter abertos no
 O mar rugia ao redor da rocha, mas o oceano já não importava mais.
 Suas pálpebras tremeram uma última vez.
 E, rasgando o véu da tempestade e da névoa escura, Lorenzo viu.
+[background arg="res://Assets/5D/24 - Navio e Lorenzo.png" fade="1.0"]
 A imensa silhueta de metal do antigo navio fantasma surgiu na escuridão.
 A carcaça devorada por crostas espessas de ferrugem deslizava silenciosamente pelas águas revoltas, parando bem diante da rocha onde Lorenzo jazia.
 Não havia tripulação.

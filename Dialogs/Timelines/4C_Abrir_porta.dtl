@@ -11,7 +11,7 @@ audio ambient2 "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3" [fade="2.0"
 Ao remover os últimos bloqueios pesados, Lorenzo sentiu uma onda maciça e paralisante de alívio lavar seu peito.
 O amigo estava vivo.
 audio "res://Audio/SFX/2_B_Nao_ajudar_barco/metal_door.mp3" [volume="-5.0"]
- Ele ia consertar seu erro. Lorenzo segurou a maçaneta de metal e girou o ferrolho principal para puxar a folha de ferro para dentro.
+Ele ia consertar seu erro. Lorenzo segurou a maçaneta de metal e girou o ferrolho principal para puxar a folha de ferro para dentro.
 Mas ele não teve tempo de puxar.
 audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3" [volume="-6.0"]
 audio "res://Audio/SFX/4C_Abrir_Porta/estrondo_porta.mp3"
@@ -23,6 +23,7 @@ Caído de costas, tossindo e com a visão turva pelos flashes dos relâmpagos, L
 audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3" [volume="0.0"]
 Sob os clarões trêmulos da tempestade que agora invadia o farol, ele percebeu a cruel realidade.
 Não havia Giorno.
+[background arg="res://Assets/4A_Segurar_Giorno/15 - Bicho.png" fade="1.0"]
 Parada sob o portal, erguia-se uma silhueta esguia e desumana, alta demais, cujas proporções eram uma zombaria grotesca da forma humana.
 A coisa não tinha rosto; era apenas uma máscara de escuridão viva e faminta que deslizava silenciosamente para dentro do cômodo, avançando direto para o seu peito com garras metálicas esticadas.
 Lorenzo tentou gritar por Antônio, tentou rastejar para trás, mas suas forças se esvaíram.
