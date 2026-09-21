@@ -1,4 +1,4 @@
-[background arg="res://Assets/Intro/test.jpeg" fade="0.0"]
+[background arg="res://Assets/Intro/01.1 - Landscape Farol.png" fade="0.0"]
 Não.
 Aquilo não era real.
 audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/batida_forte_porta.mp3"
@@ -16,6 +16,7 @@ audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/estrondo2.mp3" [volume="3.0"]
 audio ambient "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3" [volume="-12.0"]
 A grande porta de ferro do farol se rompeu ao meio com um estrondo ensurdecedor.
 Os fragmentos maciços das tábuas da barricada foram arremessados para longe, estraçalhando-se contra as paredes de pedra.
+[background arg="res://Assets/4A_Segurar_Giorno/15 - Bicho.png" fade="1.0"]
 Do outro lado do vão destruído, sob a cortina de chuva, revelou-se a silhueta esguia e desumana.
 A coisa encarou Lorenzo em um silêncio absoluto.
 audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3"

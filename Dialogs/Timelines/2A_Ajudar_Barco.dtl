@@ -144,5 +144,5 @@ Ele precisava tomar uma decisão fracionada em segundos.
 [clear time="1.0" portraits="false" music="false" background="false" positions="false" style="false"]
 - AVISAR GIORNO
 	jump 3A_Avisar_Giorno/
-- DEIXA GIORNO E BARRICAR AS SAÍDAS
-	jump 3B_Deixar_Giorno_Barricar/
+- DEIXAR GIORNO E BARRICAR AS SAÍDAS
+	jump 3B_Deixar_Giorno_E_Barricar/

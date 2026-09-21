@@ -1,4 +1,4 @@
-[background arg="res://Assets/Intro/test.jpeg" fade="0.0"]
+[background arg="res://Assets/Intro/01.1 - Landscape Farol.png" fade="0.0"]
 audio ambient "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3" [volume="-25.0"]
 Sem hesitar por um único microssegundo, Lorenzo disparou para a frente.
 Seus pés derraparam na pedra úmida quando ele saltou, jogando o peso do próprio corpo contra os ombros de Giorno e travando os braços do amigo segundos antes que ele pudesse tocar o monte de moedas de ouro.
@@ -11,6 +11,7 @@ A madeira e o metal se partiram ao meio com um estrondo ensurdecedor.
 Estilhaços pontiagudos foram arremessados em todas as direções, cravando-se nas paredes de pedra.
 A lufada de vento e chuva da tempestade invadiu o térreo de uma vez, apagando as últimas velas e deixando o ambiente imerso no breu.
 Parada sob o vão arrombado, recortada contra os clarões dos raios, erguia-se uma silhueta.
+[background arg="res://Assets/4A_Segurar_Giorno/15 - Bicho.png" fade="1.0"]
 audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3"
 Era uma figura esguia.
 Alta demais...
@@ -30,6 +31,7 @@ Suas mãos agiram por puro instinto mecânico, arrancando o ferro oxidado do có
 - ATIRAR NA CRIATURA
 - ATIRAR NA CRIATURA
 [wait time="2.0"]
+[background arg="res://Assets/4A_Segurar_Giorno/16 - Atirando.png" fade="0.0"]
 Lorenzo arrancou o revólver da cintura.
 audio "res://Audio/SFX/4A_Segurar_Giorno/Gun_Shot.mp3"
 Com as mãos trêmulas e a postura desengonçada, ele puxou o gatilho.
@@ -67,6 +69,7 @@ giorno: E o farol vizinho?!
 A voz de Giorno esganiçada pelo pânico.
 giorno: Não dá para usar os sinais de luz para pedir ajuda para eles?
 Antônio balançou a cabeça devagar, apontando para o vidro.
+[background arg="res://Assets/4A_Segurar_Giorno/17 - Neblina.png" fade="1.0"]
 antonio: A visibilidade já era, garoto. Olhe para fora.
 O nevoeiro expelido pelas chaminés do navio havia subido, transformando o mundo ao redor em uma parede cinzenta e intransponível.
 antonio: Envolver os três faroleiros vizinhos nisso não vai adiantar nada...
@@ -98,6 +101,7 @@ giorno: Você realmente acredita nessa loucura?
 [clear time="1.0" portraits="false" music="false" background="false" positions="false" style="false"]
 - SIM
 - NÃO
+[background arg="res://Assets/Intro/02 - Farol Zoom.png" fade="1.0"]
 antonio: De qualquer modo...
 A a voz de Antônio caiu em um tom grave que parecia vibrar junto com as vidraças.
 antonio: Eu só vejo uma forma de alguém sair vivo dessa situação.

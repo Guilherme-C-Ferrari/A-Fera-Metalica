@@ -1,4 +1,5 @@
 audio ambient "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3" [volume="-12.0" loop="true"]
+[background arg="res://Assets/Intro/02 - Farol Zoom.png" fade="1.0"]
 Lorenzo inclinou o tronco para a frente, o impulso de correr atrás do amigo tensionando seus músculos.
 Mas ele travou.
 Seus olhos se fixaram no rastro de espuma que o bote deixava para trás antes de ser engolido pela escuridão.
@@ -30,7 +31,7 @@ Continuou o velho, os olhos marejados refletindo a luz fraca da sala.
 antonio: Mas sucumbiu no meio do mar.
 antonio: Não foi uma tempestade, nem piratas.
 antonio: [speed=15]. . .
-antonio:  Foi uma doença.
+antonio: Foi uma doença.
 antonio: Uma maldição que parecia se espalhar pelo próprio ar que respiravam.
 antonio: Uma mazela antiga, podre, que corrompia a carne e arrancava a alma em poucos dias.
 antonio: Metade da tripulação já era cadáver quando eles avistaram a última fagulha de esperança no horizonte.
@@ -75,6 +76,7 @@ audio ambient "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3" [volume="-17
 audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3"
 Durante o avanço de Lorenzo a grande porta de metal que selava o cômodo do farol foi aberta abruptamente.
 O vento furioso da tempestade invadiu o cômodo instantaneamente, trazendo consigo uma cortina de chuva gelada que apagou metade das velas da sala.
+[background arg="res://Assets/3D_Não_Ir_Ao_Farol_Vizinho/22 - Giorno e Bau.png" fade="0.0"]
 Sua silhueta recortada contra os flashes dos raios no céu negro, uma figura erguia-se de forma imponente e estática sob o portal.
 Era Giorno.
 Suas roupas estavam encharcadas, grudadas ao corpo e rasgadas em farrapos, como se tivessem sido estraçalhadas por garras invisíveis.

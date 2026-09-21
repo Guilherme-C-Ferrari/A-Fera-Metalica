@@ -1,7 +1,8 @@
-[background arg="res://Assets/Intro/test.jpeg" fade="0.0"]
+[background arg="res://Assets/Intro/02 - Farol Zoom.png" fade="2.0"]
 audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3"
 audio ambient "res://Audio/SFX/1_Intro2/chuva.mp3" [volume="2.0"]
 Ao alcançar o topo do farol, Lorenzo girou o corpo no próprio eixo e mirou o revólver diretamente para a escuridão das escadas.
+[background arg="res://Assets/4A_Segurar_Giorno/16 - Atirando.png" fade="1.0"]
 Suas mãos tremiam, o suor frio escorria por sua testa.
 audio ambient6 "res://Audio/SFX/1_Intro/ruido-radio.ogg" [volume="3.0"]
 Ao fundo, a voz de Antônio ecoava da central de comunicações, berrando de forma triunfante que o rádio havia funcionado, que ele tinha conseguido pedir ajuda à costa.
