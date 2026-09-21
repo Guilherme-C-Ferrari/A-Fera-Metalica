@@ -136,7 +136,7 @@ Se ele continuasse estático ali, assistindo àquela monstruosidade, seria o pr�
 Lorenzo precisava agir.
 Agora.
 [clear time="1.0" portraits="false" music="false" background="false" positions="false" style="false"]
-- FUGIR DO FAROL
-	jump 4F1_Atacar_Giorno/
 - ATACAR GIORNO
+	jump 4F1_Atacar_Giorno/
+- FUGIR DO FAROL
 	jump 4F2_Fugir_Do_Farol/

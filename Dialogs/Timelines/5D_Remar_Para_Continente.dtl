@@ -46,12 +46,13 @@ lorenzo: Mas o meu colega não me escutou. Ele simplesmente foi atrás deles.
 audio music "res://Audio/Music/34. I Just Want to Make You Happy (The Damsel III).mp3" [fade="1.0" volume="-5.0"]
 Lorenzo virou a caneca, terminando o resto do líquido.
 [background arg="res://Assets/5D/21 - Café 2.png" fade="2.0"]
+audio ambient3 "res://Audio/SFX/5D_Continente/Fogo.mp3" [fade="0.0" volume="-8.0" loop="true" sync="ambient3"]
 No entanto, no segundo em que o café desceu, o terno calor transformou-se em um incêndio.
 Estava quente demais.
 Um bafo abafado parecia subir por seu peito, sufocando-o.
 Angustiado, Lorenzo começou a arrancar os botões da roupa, despindo-se freneticamente para tentar aliviar o calor excruciante que subitamente o invadia.
 Mas o fogo não passava. Vinha de dentro.
-Lorenzo parou de contar a história, as palavras morrendo em sua boca seca.
+Lorenzo parou de contar a história, as palavras pegaram fogo em sua boca seca.
 Ele olhou para os marinheiros ao redor, implorando por ajuda.
 Mas os homens não se moveram.
 Eles apenas continuaram ali, estáticos nas sombras, encarando-o com olhares vazios.
@@ -63,6 +64,7 @@ Lorenzo ergueu os olhos, ofegante. Diante dele, a tripulação imóvel começou 
 Como velas expostas ao fogo, as feições dos marinheiros começaram a derreter.
 Suas faces tornaram-se superfícies lisas e disformes de cera antes de pingarem no assoalho.
 Logo atrás deles, as paredes do barco começaram a entortar e se desmantelar junto com as pessoas.
+audio ambient3 -
 O calor infernal sumiu num flash, substituído por um frio avassalador e cortante que congelou instantaneamente a mente de Lorenzo.
 Assim que o barco esperançoso se desmantelou por completo diante de seus olhos, a ilusão desapareceu, revelando sua real e cruel situação.
 audio ambient2 "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3" [fade="5.0" volume="-15.0" loop="true" sync="ambient2"]
