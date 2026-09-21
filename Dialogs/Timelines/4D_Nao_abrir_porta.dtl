@@ -1,6 +1,7 @@
 [background arg="res://Assets/Intro/test.jpeg" fade="0.0"]
 Não.
 Aquilo não era real.
+audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/batida_forte_porta.mp3"
 giorno: [shake rate=10 level=5] Lorenzo! Por favor… abre essa maldita… porta!
 A voz falhava em meio a um soluço desesperado.
 Não tinha como Giorno estar vivo por tanto tempo com uma abominação daquelas solta na ilha.
@@ -10,12 +11,16 @@ Apesar da culpa avassaladora que tentava estraçalhar a mente de Lorenzo, a raz�
 Ele deu o primeiro passo para trás, tateando a escuridão, até sentir o concreto do primeiro degrau da escada espiral contra o calcanhar.
 Aquilo não é real.
 Como se a presença do lado de fora percebesse a determinação inabalável de Lorenzo, o teatro acabou.
-audio -
+audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/estrondo.mp3" [volume="3.0"]
+audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/estrondo2.mp3" [volume="3.0"]
+audio ambient "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3" [volume="-12.0"]
 A grande porta de ferro do farol se rompeu ao meio com um estrondo ensurdecedor.
 Os fragmentos maciços das tábuas da barricada foram arremessados para longe, estraçalhando-se contra as paredes de pedra.
 Do outro lado do vão destruído, sob a cortina de chuva, revelou-se a silhueta esguia e desumana.
 A coisa encarou Lorenzo em um silêncio absoluto.
+audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3"
 A tempestade rugiu ainda mais forte do lado de fora, lavando o térreo, ao passo que a silhueta começou a avançar para dentro do farol a passos lentos e calculados.
 Lorenzo não esperou.
+audio "res://Audio/SFX/2_A_Ajudar_barco/escada_rapido_fade_out.mp3"
 Vendo a aproximação daquela criatura terrível, ele girou o corpo e disparou escada acima em direção ao topo da torre, subindo os degraus em um ritmo desesperado.
 jump 4D_Chegar_No_Topo/
