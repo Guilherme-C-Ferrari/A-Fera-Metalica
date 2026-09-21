@@ -37,7 +37,7 @@ Do lado de fora do farol Speranza, o som da tempestade pareceu se acalmar de for
 Nenhum zumbido ou som mecânico vindo daquela embarcação turca conseguia mais ser ouvido.
 O mar havia silenciado.
 [wait time="2.0"]
-audio ambient "res://Audio/SFX/ocean_sound.ogg"
+audio ambient "res://Audio/SFX/ocean_sound.ogg" [volume="2.0"]
 Horas depois, já na manhã cinzenta do dia seguinte, as autoridades costeiras atracaram na ilha de pedra.
 Eles buscavam atender ao pedido de socorro desesperado que havia chegado via rádio na noite anterior.
 Ao desembarcarem no cais, tudo parecia seguir uma estranha normalidade, pelo menos até subirem a colina e entrarem no farol.
