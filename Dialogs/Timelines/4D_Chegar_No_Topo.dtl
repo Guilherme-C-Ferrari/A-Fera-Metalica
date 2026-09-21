@@ -1,14 +1,25 @@
+[background arg="res://Assets/Intro/test.jpeg" fade="0.0"]
+audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3"
+audio ambient "res://Audio/SFX/1_Intro2/chuva.mp3" [volume="2.0"]
 Ao alcançar o topo do farol, Lorenzo girou o corpo no próprio eixo e mirou o revólver diretamente para a escuridão das escadas.
 Suas mãos tremiam, o suor frio escorria por sua testa.
+audio ambient6 "res://Audio/SFX/1_Intro/ruido-radio.ogg" [volume="3.0"]
 Ao fundo, a voz de Antônio ecoava da central de comunicações, berrando de forma triunfante que o rádio havia funcionado, que ele tinha conseguido pedir ajuda à costa.
 Mas Lorenzo não conseguia ouvir o velho. O som do vento lá fora desapareceu.
+audio ambient2 "res://Audio/SFX/4A_Segurar_Giorno/HeavyBreath.mp3"
 O monstro estava subindo, e o faroleiro focou apenas no vão escuro enquanto sua respiração errática e o pânico silenciavam absolutamente tudo ao seu redor.
 No segundo em que Lorenzo abriu a boca para berrar para Antônio que eles precisavam sair dali imediatamente, algo veloz como um raio puxou sua perna.
+audio ambient2 -
+audio "res://Audio/SFX/3A_Avisar_Giorno/Ground_Impact.mp3"
 Antes que pudesse emitir um grito, Lorenzo foi arrancado do chão com violência e arrastado escada abaixo.
 Seu corpo colidia contra as paredes de pedra e os degraus de concreto em uma velocidade desumana, despencando centenas de metros de volta ao térreo do farol.
 Durante a queda livre no caracol escuro, os dedos dele travaram no gatilho.
+audio ambient3 "res://Audio/SFX/4A_Segurar_Giorno/Gun_Shot.mp3"
 Sons de tiros ensurdecedores ecoaram em disparos aleatórios pelas paredes da torre.
+audio ambient3 -
+audio ambient6 -
 Lá no topo, Antônio desligou o rádio em choque, largou tudo e disparou degraus abaixo, seus gritos desesperados chamando pelo nome do amigo sumindo na distância.
+audio "res://Audio/SFX/3A_Avisar_Giorno/Ground_Impact.mp3"
 Lorenzo aterrissou brutalmente contra o assoalho de pedra do térreo.
 O impacto quebrou suas costelas e o fez cuspir sangue, mas a adrenalina o manteve consciente.
 Ao abrir os olhos trêmulos sob a tempestade que inundava a entrada, ele deparou-se com a criatura.

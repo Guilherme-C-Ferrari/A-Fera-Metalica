@@ -1,16 +1,23 @@
+[background arg="res://Assets/Intro/test.jpeg" fade="0.0"]
 Lorenzo congelou.
 Giorno já estava perto demais da porta barricada.
 Se aquela abominação de metal forçasse a entrada naquele instante, não haveria tempo para salvar o amigo sem que Lorenzo também fosse destruído no processo.
 O instinto de autopreservação falou mais alto do que qualquer laço.
 Sentindo o tempo escorrer pelos dedos, Lorenzo tomou a decisão covarde, abandonou Giorno ao próprio destino e disparou escada acima, engolindo os degraus em direção ao topo do farol.
+audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/estrondo.mp3" [volume="3.0"]
+audio "res://Audio/SFX/3_A_Deixar_Giorno_Barricar/estrondo2.mp3" [volume="3.0"]
+audio ambient "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3" [volume="-12.0"]
+audio "res://Audio/SFX/4B_Correr_Deixar_Giorno/CoinDrop.mp3"
 Poucos segundos se passaram enquanto ele subia desesperadamente no escuro, até que um estrondo colossal sacudiu as paredes de pedra, acompanhado pelo som rítmico e caótico de centenas de moedas de ouro rolando pelo chão do térreo.
 De forma puramente instintiva, Lorenzo travou os pés em um degrau e olhou para trás, lançando a vista pelo vão do caracol.
 O horror que testemunhou gelou seu sangue. Giorno estava sendo consumido vivo.
 A pele e a carne do jovem faroleiro endureciam em placas ásperas de ferrugem vermelha, quebrando-se e desintegrando-se em pedaços antes mesmo que ele pudesse emitir um grito.
 Do outro lado da entrada arrombada, parada sobre os restos da barricada, uma silhueta esguia e desumana erguia-se em silêncio.
 Lentamente fixou os olhos invisíveis diretamente em Lorenzo.
+audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3"
 A tempestade rugiu com fúria renovada do lado de fora, lavando o sangue e o ouro no chão.
 A silhueta começou a cruzar o portal a passos lentos, pesados e calculados.
 Completamente apavorado, com as forças drenadas pelo choque de ver o amigo virar poeira de ferro, Lorenzo deu as costas e correu.
+audio "res://Audio/SFX/2_A_Ajudar_barco/escada_rapido_fade_out.mp3"
 Subiu às pressas em direção ao topo do farol, fugindo da morte que rastejava logo atrás dele.
 jump 4D_Chegar_No_Topo/
