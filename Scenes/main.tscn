@@ -166,6 +166,154 @@ tracks/12/keys = {
 "update": 0,
 "values": [Color(1, 1, 0.8980392, 1)]
 }
+tracks/13/type = "value"
+tracks/13/imported = false
+tracks/13/enabled = true
+tracks/13/path = NodePath("CanvasLayer/Control2:modulate")
+tracks/13/interp = 1
+tracks/13/loop_wrap = true
+tracks/13/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Color(1, 1, 1, 0)]
+}
+tracks/14/type = "value"
+tracks/14/imported = false
+tracks/14/enabled = true
+tracks/14/path = NodePath("CanvasLayer/Control2/VBoxContainer/Credits:modulate")
+tracks/14/interp = 1
+tracks/14/loop_wrap = true
+tracks/14/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Color(1, 1, 0.8980392, 0)]
+}
+tracks/15/type = "value"
+tracks/15/imported = false
+tracks/15/enabled = true
+tracks/15/path = NodePath("CanvasLayer/Control2/VBoxContainer/Name1:modulate")
+tracks/15/interp = 1
+tracks/15/loop_wrap = true
+tracks/15/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Color(1, 1, 0.8980392, 0)]
+}
+tracks/16/type = "value"
+tracks/16/imported = false
+tracks/16/enabled = true
+tracks/16/path = NodePath("CanvasLayer/Control2/VBoxContainer/Name2:modulate")
+tracks/16/interp = 1
+tracks/16/loop_wrap = true
+tracks/16/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Color(1, 1, 0.8980392, 0)]
+}
+tracks/17/type = "value"
+tracks/17/imported = false
+tracks/17/enabled = true
+tracks/17/path = NodePath("CanvasLayer/Control2/VBoxContainer/Name3:modulate")
+tracks/17/interp = 1
+tracks/17/loop_wrap = true
+tracks/17/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Color(1, 1, 0.8980392, 0)]
+}
+
+[sub_resource type="Animation" id="Animation_6bp64"]
+resource_name = "creditos"
+length = 30.0
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("AudioStreamPlayer2D2:playing")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(1),
+"transitions": PackedFloat32Array(1),
+"update": 1,
+"values": [true]
+}
+tracks/1/type = "value"
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/path = NodePath("AudioStreamPlayer2D2:volume_db")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/keys = {
+"times": PackedFloat32Array(0, 2.2666667),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [-80.0, 0.0]
+}
+tracks/2/type = "value"
+tracks/2/imported = false
+tracks/2/enabled = true
+tracks/2/path = NodePath("CanvasLayer/Control2:modulate")
+tracks/2/interp = 1
+tracks/2/loop_wrap = true
+tracks/2/keys = {
+"times": PackedFloat32Array(0, 1.5),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Color(1, 1, 1, 0), Color(1, 1, 1, 1)]
+}
+tracks/3/type = "value"
+tracks/3/imported = false
+tracks/3/enabled = true
+tracks/3/path = NodePath("CanvasLayer/Control2/VBoxContainer/Credits:modulate")
+tracks/3/interp = 1
+tracks/3/loop_wrap = true
+tracks/3/keys = {
+"times": PackedFloat32Array(3, 5),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Color(1, 1, 0.8980392, 0), Color(1, 1, 0.8980392, 1)]
+}
+tracks/4/type = "value"
+tracks/4/imported = false
+tracks/4/enabled = true
+tracks/4/path = NodePath("CanvasLayer/Control2/VBoxContainer/Name1:modulate")
+tracks/4/interp = 1
+tracks/4/loop_wrap = true
+tracks/4/keys = {
+"times": PackedFloat32Array(5.5, 7),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Color(1, 1, 0.8980392, 0), Color(1, 1, 0.8980392, 1)]
+}
+tracks/5/type = "value"
+tracks/5/imported = false
+tracks/5/enabled = true
+tracks/5/path = NodePath("CanvasLayer/Control2/VBoxContainer/Name2:modulate")
+tracks/5/interp = 1
+tracks/5/loop_wrap = true
+tracks/5/keys = {
+"times": PackedFloat32Array(7.5333333, 9.033333),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Color(1, 1, 0.8980392, 0), Color(1, 1, 0.8980392, 1)]
+}
+tracks/6/type = "value"
+tracks/6/imported = false
+tracks/6/enabled = true
+tracks/6/path = NodePath("CanvasLayer/Control2/VBoxContainer/Name3:modulate")
+tracks/6/interp = 1
+tracks/6/loop_wrap = true
+tracks/6/keys = {
+"times": PackedFloat32Array(9.5, 11),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Color(1, 1, 0.8980392, 0), Color(1, 1, 0.8980392, 1)]
+}
 
 [sub_resource type="Animation" id="Animation_kry3j"]
 resource_name = "intro"
@@ -330,6 +478,7 @@ tracks/12/keys = {
 [sub_resource type="AnimationLibrary" id="AnimationLibrary_21xkr"]
 _data = {
 &"RESET": SubResource("Animation_jjvhh"),
+&"creditos": SubResource("Animation_6bp64"),
 &"intro": SubResource("Animation_kry3j")
 }
 
@@ -342,10 +491,11 @@ shader_parameter/vignette_intensity = 2.0
 shader_parameter/scratch_amount = 0.00800000038
 shader_parameter/scratch_speed = 8.8430004200425
 
-[node name="Main" type="Node2D" unique_id=704163247 node_paths=PackedStringArray("animationPlayer", "intro_scene")]
+[node name="Main" type="Node2D" unique_id=704163247 node_paths=PackedStringArray("animationPlayer", "intro_scene", "credits")]
 script = ExtResource("1_jjgbg")
 animationPlayer = NodePath("AnimationPlayer")
 intro_scene = NodePath("CanvasLayer/Control")
+credits = NodePath("CanvasLayer/Control2")
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="." unique_id=1234970987]
 libraries/ = SubResource("AnimationLibrary_21xkr")
@@ -485,6 +635,73 @@ text = "30KM de distância da costa amalfitana"
 horizontal_alignment = 1
 visible_characters = 0
 visible_ratio = 0.0
+
+[node name="Control2" type="Control" parent="CanvasLayer" unique_id=552606980]
+modulate = Color(1, 1, 1, 0)
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+
+[node name="ColorRect" type="ColorRect" parent="CanvasLayer/Control2" unique_id=161982767]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+color = Color(0, 0, 0, 1)
+
+[node name="VBoxContainer" type="VBoxContainer" parent="CanvasLayer/Control2" unique_id=610530372]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -277.0
+offset_top = -246.0
+offset_right = 277.0
+offset_bottom = 246.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+
+[node name="Credits" type="Label" parent="CanvasLayer/Control2/VBoxContainer" unique_id=1204482677]
+modulate = Color(1, 1, 0.8980392, 0)
+layout_mode = 2
+theme_override_fonts/font = ExtResource("2_8gbba")
+theme_override_font_sizes/font_size = 100
+text = "Produzido por:"
+horizontal_alignment = 1
+
+[node name="Name1" type="Label" parent="CanvasLayer/Control2/VBoxContainer" unique_id=2144509790]
+modulate = Color(1, 1, 0.8980392, 0)
+layout_mode = 2
+theme_override_fonts/font = ExtResource("2_8gbba")
+theme_override_font_sizes/font_size = 75
+text = "Eduardo Spode"
+horizontal_alignment = 1
+
+[node name="Name2" type="Label" parent="CanvasLayer/Control2/VBoxContainer" unique_id=2051326558]
+modulate = Color(1, 1, 0.8980392, 0)
+layout_mode = 2
+theme_override_fonts/font = ExtResource("2_8gbba")
+theme_override_font_sizes/font_size = 75
+text = "Guilherme Ferrari"
+horizontal_alignment = 1
+
+[node name="Name3" type="Label" parent="CanvasLayer/Control2/VBoxContainer" unique_id=1430234209]
+modulate = Color(1, 1, 0.8980392, 0)
+layout_mode = 2
+theme_override_fonts/font = ExtResource("2_8gbba")
+theme_override_font_sizes/font_size = 75
+text = "Lucas Gross"
+horizontal_alignment = 1
 
 [node name="ColorRect" type="ColorRect" parent="CanvasLayer" unique_id=794804675]
 material = SubResource("ShaderMaterial_rm36b")

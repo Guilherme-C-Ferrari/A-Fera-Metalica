@@ -69,4 +69,5 @@ Giorno se lembra bem da última visão que teve do farol naquela noite.
 Ele sempre há de contar como Lorenzo lutou até o final.
 Como nos momentos antes de fugir da ilha a última coisa que conseguiu ouvir, foi um disparo da arma que ele carregava.
 audio "res://Audio/SFX/4A_Segurar_Giorno/Gun_Shot.mp3" [volume="3.0"]
+[signal arg="start_credits"]
 # FINAL
