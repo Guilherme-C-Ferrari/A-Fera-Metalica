@@ -1,4 +1,4 @@
-[background arg="res://Assets/Intro/test.jpeg" fade="0.0"]
+[background arg="res://Assets/Intro/01.1 - Landscape Farol.png" fade="0.0"]
 audio "res://Audio/SFX/2_A_Ajudar_barco/trovao.mp3"
 audio ambient "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3" [volume="-25.0"]
 audio ambient2 "res://Audio/SFX/1_Intro2/tensao.mp3" [volume="0.0"]
@@ -22,6 +22,8 @@ Foi então que percebeu, com um nó no estômago, a ausência do velho.
 A confusão tomou sua mente por um instante.
 lorenzo: Onde diabos aquele velho havia se enfiado?
 Mas foi apenas quando Lorenzo baixou os olhos para se assegurar de que a abominação estava morta que o mundo desabou de verdade.
+audio ambient2 "res://Audio/Music/07. Fragmentation.mp3"
+audio ambient "res://Audio/SFX/2_B_Nao_ajudar_barco/heavy_rain.mp3" [volume="-10.0"]
 [background arg="res://Assets/5C_Atirar_Na_Criatura/18 - Veio Morto.png" fade="1.0"]
 Ali, estirado no chão áspero e lavado pela água da chuva, estava o corpo de Antônio.
 O piso ao redor se transformou em um mar de sangue escuro.
@@ -30,8 +32,7 @@ audio "res://Audio/SFX/5C_Atirar/WaterDrops.mp3"
 Ao lado do cadáver, o cantil de uísque amassado derramava o licor Sibona lentamente, misturando o cheiro forte de álcool com o odor metálico da morte.
 O cérebro de Lorenzo entrou em curto-circuito, incapaz de processar a imagem.
 Ele congelou no lugar, as mãos largadas ao lado do corpo, encarando fixamente o rosto dilacerado de seu falecido amigo.
-Os tiros disparados no escuro da queda...
-Haviam encontrado o alvo errado.
+Como os tiros poderiam ter acertado Antônio...?
 audio "res://Audio/SFX/5A_Eu_Farei/HorizonThunderStorm.mp3"
 audio "res://Audio/SFX/1_Intro2/chuva.mp3" [volume="-25.0"]
 Do lado de fora do farol Speranza, o som da tempestade pareceu se acalmar de forma gradativa, transformando-se em uma chuva leve e mansa.
@@ -39,6 +40,7 @@ Nenhum zumbido ou som mecânico vindo daquela embarcação turca conseguia mais 
 O mar havia silenciado.
 [wait time="2.0"]
 audio ambient "res://Audio/SFX/ocean_sound.ogg" [volume="2.0"]
+audio ambient2 -
 [background arg="res://Assets/Intro/01 - Landscape Farol.png" fade="1.0"]
 Horas depois, já na manhã cinzenta do dia seguinte, as autoridades costeiras atracaram na ilha de pedra.
 Eles buscavam atender ao pedido de socorro desesperado que havia chegado via rádio na noite anterior.
