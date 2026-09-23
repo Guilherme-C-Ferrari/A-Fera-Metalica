@@ -52,5 +52,5 @@ Ele estava preso no nada.
 [clear time="1.0" portraits="false" music="false" background="false" positions="false" style="false"]
 - VOLTAR PARA O FAROL DE LORENZO
 	jump 4E1_Acelerar_Para_Farol/
-- ACELELAR PARA O FAROL VIZINHO
+- ACELERAR PARA O FAROL VIZINHO
 	jump 4E2_Acelerar_Para_Farol_Vizinho/
